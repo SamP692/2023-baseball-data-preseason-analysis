@@ -1,0 +1,11 @@
+// Replace values with appropriate paths
+const config = {
+    rawData: {
+        yahooPlayerList: "<Absolute path to yahoo player list>",
+        "2023advancedBattingStats": "<Absolute path to advanced batting stats>",
+        "2023advancedPitchingStats": "<Absolute path to advanced pitching stats>"
+    },
+    manicuredPublishLocation: "./script-published-data"
+}
+
+export default config
