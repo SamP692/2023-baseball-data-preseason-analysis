@@ -48,6 +48,21 @@
                 "--allow-write"
             ],
             "attachSimplePort": 9229
+        },
+        {
+            "request": "launch",
+            "name": "Debug Merging",
+            "type": "node",
+            "program": "${workspaceFolder}/src/inject-eligible-positions/script.ts",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "/usr/local/bin/deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-wait",
+                "--allow-read",
+                "--allow-write"
+            ],
+            "attachSimplePort": 9229
         }
     ]
 }
