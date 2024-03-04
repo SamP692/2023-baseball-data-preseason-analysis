@@ -51,9 +51,24 @@
         },
         {
             "request": "launch",
-            "name": "Debug Merging",
+            "name": "Debug Batter Merging",
             "type": "node",
-            "program": "${workspaceFolder}/src/inject-eligible-positions/script.ts",
+            "program": "${workspaceFolder}/src/inject-eligible-batter-positions/script.ts",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "/usr/local/bin/deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-wait",
+                "--allow-read",
+                "--allow-write"
+            ],
+            "attachSimplePort": 9229
+        },
+        {
+            "request": "launch",
+            "name": "Debug Pitcher Merging",
+            "type": "node",
+            "program": "${workspaceFolder}/src/inject-eligible-pitcher-positions/script.ts",
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "/usr/local/bin/deno",
             "runtimeArgs": [
