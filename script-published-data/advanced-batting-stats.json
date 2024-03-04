@@ -1,0 +1,8890 @@
+[
+  {
+    "fullName": "Miguel Cabrera",
+    "name": {
+      "first": "Miguel",
+      "last": "Cabrera",
+      "raw": "Cabrera, Miguel"
+    },
+    "savantId": 408234,
+    "age": 40,
+    "data": {
+      "recordYear": 2023,
+      "pa": 370,
+      "xba": 0.247,
+      "xwoba": 0.301,
+      "xiso": 0.117,
+      "avgExitVel": 89.1,
+      "barrelRate": 4.2,
+      "chaseRate": 28.2,
+      "whiffRate": 25.6,
+      "speed": 23.1
+    }
+  },
+  {
+    "fullName": "Nelson Cruz Jr.",
+    "name": {
+      "first": "Nelson",
+      "last": "Cruz Jr.",
+      "raw": "Cruz Jr., Nelson"
+    },
+    "savantId": 443558,
+    "age": 42,
+    "data": {
+      "recordYear": 2023,
+      "pa": 152,
+      "xba": 0.242,
+      "xwoba": 0.297,
+      "xiso": 0.175,
+      "avgExitVel": 92.4,
+      "barrelRate": 9.2,
+      "chaseRate": 39.4,
+      "whiffRate": 36.1,
+      "speed": 24.7
+    }
+  },
+  {
+    "fullName": "David Peralta",
+    "name": {
+      "first": "David",
+      "last": "Peralta",
+      "raw": "Peralta, David"
+    },
+    "savantId": 444482,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 422,
+      "xba": 0.274,
+      "xwoba": 0.309,
+      "xiso": 0.126,
+      "avgExitVel": 89.3,
+      "barrelRate": 4.9,
+      "chaseRate": 34.1,
+      "whiffRate": 22.5,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Evan Longoria",
+    "name": {
+      "first": "Evan",
+      "last": "Longoria",
+      "raw": "Longoria, Evan"
+    },
+    "savantId": 446334,
+    "age": 37,
+    "data": {
+      "recordYear": 2023,
+      "pa": 237,
+      "xba": 0.23,
+      "xwoba": 0.324,
+      "xiso": 0.219,
+      "avgExitVel": 92.2,
+      "barrelRate": 10.6,
+      "chaseRate": 29.2,
+      "whiffRate": 29,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Charlie Blackmon",
+    "name": {
+      "first": "Charlie",
+      "last": "Blackmon",
+      "raw": "Blackmon, Charlie"
+    },
+    "savantId": 453568,
+    "age": 36,
+    "data": {
+      "recordYear": 2023,
+      "pa": 413,
+      "xba": 0.269,
+      "xwoba": 0.339,
+      "xiso": 0.137,
+      "avgExitVel": 86.4,
+      "barrelRate": 4.9,
+      "chaseRate": 28.5,
+      "whiffRate": 19.6,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Martín Maldonado",
+    "name": {
+      "first": "Martín",
+      "last": "Maldonado",
+      "raw": "Maldonado, Martín"
+    },
+    "savantId": 455117,
+    "age": 36,
+    "data": {
+      "recordYear": 2023,
+      "pa": 407,
+      "xba": 0.187,
+      "xwoba": 0.267,
+      "xiso": 0.169,
+      "avgExitVel": 88.4,
+      "barrelRate": 8.5,
+      "chaseRate": 32.8,
+      "whiffRate": 34.1,
+      "speed": 23.2
+    }
+  },
+  {
+    "fullName": "Donovan Solano",
+    "name": {
+      "first": "Donovan",
+      "last": "Solano",
+      "raw": "Solano, Donovan"
+    },
+    "savantId": 456781,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 450,
+      "xba": 0.284,
+      "xwoba": 0.351,
+      "xiso": 0.145,
+      "avgExitVel": 90.2,
+      "barrelRate": 6.1,
+      "chaseRate": 29.9,
+      "whiffRate": 25.4,
+      "speed": 25.4
+    }
+  },
+  {
+    "fullName": "Andrew McCutchen",
+    "name": {
+      "first": "Andrew",
+      "last": "McCutchen",
+      "raw": "McCutchen, Andrew"
+    },
+    "savantId": 457705,
+    "age": 36,
+    "data": {
+      "recordYear": 2023,
+      "pa": 473,
+      "xba": 0.257,
+      "xwoba": 0.353,
+      "xiso": 0.152,
+      "avgExitVel": 89.6,
+      "barrelRate": 6.8,
+      "chaseRate": 18.6,
+      "whiffRate": 27.4,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Justin Turner",
+    "name": {
+      "first": "Justin",
+      "last": "Turner",
+      "raw": "Turner, Justin"
+    },
+    "savantId": 457759,
+    "age": 38,
+    "data": {
+      "recordYear": 2023,
+      "pa": 626,
+      "xba": 0.26,
+      "xwoba": 0.336,
+      "xiso": 0.184,
+      "avgExitVel": 89.5,
+      "barrelRate": 5.7,
+      "chaseRate": 25.7,
+      "whiffRate": 17.5,
+      "speed": 25.2
+    }
+  },
+  {
+    "fullName": "Joey Votto",
+    "name": {
+      "first": "Joey",
+      "last": "Votto",
+      "raw": "Votto, Joey"
+    },
+    "savantId": 458015,
+    "age": 39,
+    "data": {
+      "recordYear": 2023,
+      "pa": 242,
+      "xba": 0.189,
+      "xwoba": 0.298,
+      "xiso": 0.178,
+      "avgExitVel": 89.3,
+      "barrelRate": 11,
+      "chaseRate": 25.2,
+      "whiffRate": 30.8,
+      "speed": 25.6
+    }
+  },
+  {
+    "fullName": "Elvis Andrus",
+    "name": {
+      "first": "Elvis",
+      "last": "Andrus",
+      "raw": "Andrus, Elvis"
+    },
+    "savantId": 462101,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 406,
+      "xba": 0.231,
+      "xwoba": 0.267,
+      "xiso": 0.082,
+      "avgExitVel": 87.5,
+      "barrelRate": 2.6,
+      "chaseRate": 28,
+      "whiffRate": 20,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Carlos Santana",
+    "name": {
+      "first": "Carlos",
+      "last": "Santana",
+      "raw": "Santana, Carlos"
+    },
+    "savantId": 467793,
+    "age": 37,
+    "data": {
+      "recordYear": 2023,
+      "pa": 619,
+      "xba": 0.24,
+      "xwoba": 0.308,
+      "xiso": 0.138,
+      "avgExitVel": 88.8,
+      "barrelRate": 6.7,
+      "chaseRate": 24,
+      "whiffRate": 22.1,
+      "speed": 25.9
+    }
+  },
+  {
+    "fullName": "Brandon Belt",
+    "name": {
+      "first": "Brandon",
+      "last": "Belt",
+      "raw": "Belt, Brandon"
+    },
+    "savantId": 474832,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 404,
+      "xba": 0.212,
+      "xwoba": 0.336,
+      "xiso": 0.225,
+      "avgExitVel": 88.7,
+      "barrelRate": 15,
+      "chaseRate": 17.9,
+      "whiffRate": 32.3,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Yuli Gurriel",
+    "name": {
+      "first": "Yuli",
+      "last": "Gurriel",
+      "raw": "Gurriel, Yuli"
+    },
+    "savantId": 493329,
+    "age": 39,
+    "data": {
+      "recordYear": 2023,
+      "pa": 329,
+      "xba": 0.237,
+      "xwoba": 0.273,
+      "xiso": 0.083,
+      "avgExitVel": 88.6,
+      "barrelRate": 1.9,
+      "chaseRate": 30.7,
+      "whiffRate": 16,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Miguel Rojas",
+    "name": {
+      "first": "Miguel",
+      "last": "Rojas",
+      "raw": "Rojas, Miguel"
+    },
+    "savantId": 500743,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 423,
+      "xba": 0.252,
+      "xwoba": 0.288,
+      "xiso": 0.086,
+      "avgExitVel": 87.3,
+      "barrelRate": 2.9,
+      "chaseRate": 32.8,
+      "whiffRate": 16.5,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Eduardo Escobar",
+    "name": {
+      "first": "Eduardo",
+      "last": "Escobar",
+      "raw": "Escobar, Eduardo"
+    },
+    "savantId": 500871,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 309,
+      "xba": 0.203,
+      "xwoba": 0.244,
+      "xiso": 0.096,
+      "avgExitVel": 86.3,
+      "barrelRate": 3.8,
+      "chaseRate": 36,
+      "whiffRate": 28.1,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Tommy Pham",
+    "name": {
+      "first": "Tommy",
+      "last": "Pham",
+      "raw": "Pham, Tommy"
+    },
+    "savantId": 502054,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 481,
+      "xba": 0.284,
+      "xwoba": 0.361,
+      "xiso": 0.191,
+      "avgExitVel": 92.3,
+      "barrelRate": 10.7,
+      "chaseRate": 20.6,
+      "whiffRate": 23.6,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "J.D. Martinez",
+    "name": {
+      "first": "J.D.",
+      "last": "Martinez",
+      "raw": "Martinez, J.D."
+    },
+    "savantId": 502110,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 479,
+      "xba": 0.271,
+      "xwoba": 0.369,
+      "xiso": 0.283,
+      "avgExitVel": 93.4,
+      "barrelRate": 17.1,
+      "chaseRate": 32.1,
+      "whiffRate": 34.4,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Paul Goldschmidt",
+    "name": {
+      "first": "Paul",
+      "last": "Goldschmidt",
+      "raw": "Goldschmidt, Paul"
+    },
+    "savantId": 502671,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 687,
+      "xba": 0.271,
+      "xwoba": 0.367,
+      "xiso": 0.22,
+      "avgExitVel": 91.3,
+      "barrelRate": 12,
+      "chaseRate": 26.5,
+      "whiffRate": 27.5,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Jose Altuve",
+    "name": {
+      "first": "Jose",
+      "last": "Altuve",
+      "raw": "Altuve, Jose"
+    },
+    "savantId": 514888,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 410,
+      "xba": 0.245,
+      "xwoba": 0.331,
+      "xiso": 0.174,
+      "avgExitVel": 86,
+      "barrelRate": 8.3,
+      "chaseRate": 32.1,
+      "whiffRate": 18.7,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Jean Segura",
+    "name": {
+      "first": "Jean",
+      "last": "Segura",
+      "raw": "Segura, Jean"
+    },
+    "savantId": 516416,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 326,
+      "xba": 0.239,
+      "xwoba": 0.281,
+      "xiso": 0.101,
+      "avgExitVel": 88,
+      "barrelRate": 3.5,
+      "chaseRate": 36.9,
+      "whiffRate": 19.2,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Starling Marte",
+    "name": {
+      "first": "Starling",
+      "last": "Marte",
+      "raw": "Marte, Starling"
+    },
+    "savantId": 516782,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 341,
+      "xba": 0.261,
+      "xwoba": 0.312,
+      "xiso": 0.141,
+      "avgExitVel": 88.2,
+      "barrelRate": 5.6,
+      "chaseRate": 37.4,
+      "whiffRate": 27.4,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Travis d'Arnaud",
+    "name": {
+      "first": "Travis",
+      "last": "d'Arnaud",
+      "raw": "d'Arnaud, Travis"
+    },
+    "savantId": 518595,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 292,
+      "xba": 0.253,
+      "xwoba": 0.326,
+      "xiso": 0.185,
+      "avgExitVel": 90.7,
+      "barrelRate": 9,
+      "chaseRate": 27.1,
+      "whiffRate": 28.6,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Josh Donaldson",
+    "name": {
+      "first": "Josh",
+      "last": "Donaldson",
+      "raw": "Donaldson, Josh"
+    },
+    "savantId": 518626,
+    "age": 37,
+    "data": {
+      "recordYear": 2023,
+      "pa": 189,
+      "xba": 0.203,
+      "xwoba": 0.325,
+      "xiso": 0.269,
+      "avgExitVel": 92.1,
+      "barrelRate": 16.2,
+      "chaseRate": 26.4,
+      "whiffRate": 26.7,
+      "speed": 24.9
+    }
+  },
+  {
+    "fullName": "Freddie Freeman",
+    "name": {
+      "first": "Freddie",
+      "last": "Freeman",
+      "raw": "Freeman, Freddie"
+    },
+    "savantId": 518692,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 730,
+      "xba": 0.323,
+      "xwoba": 0.408,
+      "xiso": 0.243,
+      "avgExitVel": 90,
+      "barrelRate": 11.1,
+      "chaseRate": 26.9,
+      "whiffRate": 20.4,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Yasmani Grandal",
+    "name": {
+      "first": "Yasmani",
+      "last": "Grandal",
+      "raw": "Grandal, Yasmani"
+    },
+    "savantId": 518735,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 405,
+      "xba": 0.222,
+      "xwoba": 0.282,
+      "xiso": 0.11,
+      "avgExitVel": 87.9,
+      "barrelRate": 4.7,
+      "chaseRate": 27.4,
+      "whiffRate": 24.9,
+      "speed": 22.8
+    }
+  },
+  {
+    "fullName": "Jason Heyward",
+    "name": {
+      "first": "Jason",
+      "last": "Heyward",
+      "raw": "Heyward, Jason"
+    },
+    "savantId": 518792,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 377,
+      "xba": 0.25,
+      "xwoba": 0.319,
+      "xiso": 0.155,
+      "avgExitVel": 87.7,
+      "barrelRate": 8.1,
+      "chaseRate": 28.4,
+      "whiffRate": 20.7,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "DJ LeMahieu",
+    "name": {
+      "first": "DJ",
+      "last": "LeMahieu",
+      "raw": "LeMahieu, DJ"
+    },
+    "savantId": 518934,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 562,
+      "xba": 0.255,
+      "xwoba": 0.322,
+      "xiso": 0.138,
+      "avgExitVel": 89.6,
+      "barrelRate": 5.9,
+      "chaseRate": 23.1,
+      "whiffRate": 19.7,
+      "speed": 25.7
+    }
+  },
+  {
+    "fullName": "Mike Moustakas",
+    "name": {
+      "first": "Mike",
+      "last": "Moustakas",
+      "raw": "Moustakas, Mike"
+    },
+    "savantId": 519058,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 386,
+      "xba": 0.217,
+      "xwoba": 0.27,
+      "xiso": 0.136,
+      "avgExitVel": 89,
+      "barrelRate": 5.7,
+      "chaseRate": 33,
+      "whiffRate": 27.3,
+      "speed": 25.2
+    }
+  },
+  {
+    "fullName": "Anthony Rizzo",
+    "name": {
+      "first": "Anthony",
+      "last": "Rizzo",
+      "raw": "Rizzo, Anthony"
+    },
+    "savantId": 519203,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 421,
+      "xba": 0.246,
+      "xwoba": 0.319,
+      "xiso": 0.148,
+      "avgExitVel": 90,
+      "barrelRate": 6.9,
+      "chaseRate": 34.1,
+      "whiffRate": 25,
+      "speed": 24.7
+    }
+  },
+  {
+    "fullName": "Giancarlo Stanton",
+    "name": {
+      "first": "Giancarlo",
+      "last": "Stanton",
+      "raw": "Stanton, Giancarlo"
+    },
+    "savantId": 519317,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 415,
+      "xba": 0.219,
+      "xwoba": 0.325,
+      "xiso": 0.242,
+      "avgExitVel": 93.3,
+      "barrelRate": 15.7,
+      "chaseRate": 27.2,
+      "whiffRate": 34.1,
+      "speed": 24.4
+    }
+  },
+  {
+    "fullName": "Salvador Perez",
+    "name": {
+      "first": "Salvador",
+      "last": "Perez",
+      "raw": "Perez, Salvador"
+    },
+    "savantId": 521692,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 580,
+      "xba": 0.268,
+      "xwoba": 0.327,
+      "xiso": 0.194,
+      "avgExitVel": 90.1,
+      "barrelRate": 8.8,
+      "chaseRate": 47,
+      "whiffRate": 30.2,
+      "speed": 24.3
+    }
+  },
+  {
+    "fullName": "Wilmer Flores",
+    "name": {
+      "first": "Wilmer",
+      "last": "Flores",
+      "raw": "Flores, Wilmer"
+    },
+    "savantId": 527038,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 454,
+      "xba": 0.256,
+      "xwoba": 0.333,
+      "xiso": 0.181,
+      "avgExitVel": 86.4,
+      "barrelRate": 7.8,
+      "chaseRate": 28.2,
+      "whiffRate": 15.8,
+      "speed": 24.4
+    }
+  },
+  {
+    "fullName": "Christian Bethancourt",
+    "name": {
+      "first": "Christian",
+      "last": "Bethancourt",
+      "raw": "Bethancourt, Christian"
+    },
+    "savantId": 542194,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 332,
+      "xba": 0.215,
+      "xwoba": 0.266,
+      "xiso": 0.16,
+      "avgExitVel": 88.6,
+      "barrelRate": 7.9,
+      "chaseRate": 45.2,
+      "whiffRate": 36.6,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Carlos Pérez",
+    "name": {
+      "first": "Carlos",
+      "last": "Pérez",
+      "raw": "Pérez, Carlos"
+    },
+    "savantId": 542208,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 189,
+      "xba": 0.258,
+      "xwoba": 0.314,
+      "xiso": 0.133,
+      "avgExitVel": 89.2,
+      "barrelRate": 5.3,
+      "chaseRate": 29,
+      "whiffRate": 21.5,
+      "speed": 24.6
+    }
+  },
+  {
+    "fullName": "Marcell Ozuna",
+    "name": {
+      "first": "Marcell",
+      "last": "Ozuna",
+      "raw": "Ozuna, Marcell"
+    },
+    "savantId": 542303,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 592,
+      "xba": 0.283,
+      "xwoba": 0.396,
+      "xiso": 0.298,
+      "avgExitVel": 91.8,
+      "barrelRate": 16.6,
+      "chaseRate": 29.7,
+      "whiffRate": 26.7,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Jon Berti",
+    "name": {
+      "first": "Jon",
+      "last": "Berti",
+      "raw": "Berti, Jon"
+    },
+    "savantId": 542932,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 424,
+      "xba": 0.281,
+      "xwoba": 0.324,
+      "xiso": 0.13,
+      "avgExitVel": 85.4,
+      "barrelRate": 4.7,
+      "chaseRate": 21.4,
+      "whiffRate": 19.8,
+      "speed": 29.3
+    }
+  },
+  {
+    "fullName": "Brandon Crawford",
+    "name": {
+      "first": "Brandon",
+      "last": "Crawford",
+      "raw": "Crawford, Brandon"
+    },
+    "savantId": 543063,
+    "age": 36,
+    "data": {
+      "recordYear": 2023,
+      "pa": 320,
+      "xba": 0.219,
+      "xwoba": 0.294,
+      "xiso": 0.16,
+      "avgExitVel": 89.8,
+      "barrelRate": 10.1,
+      "chaseRate": 31.2,
+      "whiffRate": 29.6,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "C.J. Cron",
+    "name": {
+      "first": "C.J.",
+      "last": "Cron",
+      "raw": "Cron, C.J."
+    },
+    "savantId": 543068,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 278,
+      "xba": 0.257,
+      "xwoba": 0.332,
+      "xiso": 0.214,
+      "avgExitVel": 87.7,
+      "barrelRate": 13.8,
+      "chaseRate": 31.9,
+      "whiffRate": 28.3,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Yan Gomes",
+    "name": {
+      "first": "Yan",
+      "last": "Gomes",
+      "raw": "Gomes, Yan"
+    },
+    "savantId": 543228,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 419,
+      "xba": 0.262,
+      "xwoba": 0.321,
+      "xiso": 0.148,
+      "avgExitVel": 87.4,
+      "barrelRate": 7.8,
+      "chaseRate": 37,
+      "whiffRate": 24.2,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Robbie Grossman",
+    "name": {
+      "first": "Robbie",
+      "last": "Grossman",
+      "raw": "Grossman, Robbie"
+    },
+    "savantId": 543257,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 420,
+      "xba": 0.224,
+      "xwoba": 0.306,
+      "xiso": 0.126,
+      "avgExitVel": 88.2,
+      "barrelRate": 6.8,
+      "chaseRate": 15.7,
+      "whiffRate": 20.1,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Aaron Hicks",
+    "name": {
+      "first": "Aaron",
+      "last": "Hicks",
+      "raw": "Hicks, Aaron"
+    },
+    "savantId": 543305,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 312,
+      "xba": 0.207,
+      "xwoba": 0.282,
+      "xiso": 0.097,
+      "avgExitVel": 85.3,
+      "barrelRate": 4,
+      "chaseRate": 20.9,
+      "whiffRate": 25.6,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Kyle Higashioka",
+    "name": {
+      "first": "Kyle",
+      "last": "Higashioka",
+      "raw": "Higashioka, Kyle"
+    },
+    "savantId": 543309,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 260,
+      "xba": 0.242,
+      "xwoba": 0.309,
+      "xiso": 0.201,
+      "avgExitVel": 90.1,
+      "barrelRate": 11,
+      "chaseRate": 31,
+      "whiffRate": 28.6,
+      "speed": 25.6
+    }
+  },
+  {
+    "fullName": "James McCann",
+    "name": {
+      "first": "James",
+      "last": "McCann",
+      "raw": "McCann, James"
+    },
+    "savantId": 543510,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 226,
+      "xba": 0.262,
+      "xwoba": 0.319,
+      "xiso": 0.169,
+      "avgExitVel": 89.8,
+      "barrelRate": 7.1,
+      "chaseRate": 38.6,
+      "whiffRate": 31.4,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Austin Nola",
+    "name": {
+      "first": "Austin",
+      "last": "Nola",
+      "raw": "Nola, Austin"
+    },
+    "savantId": 543592,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 154,
+      "xba": 0.2,
+      "xwoba": 0.266,
+      "xiso": 0.064,
+      "avgExitVel": 85.8,
+      "barrelRate": 1,
+      "chaseRate": 21.1,
+      "whiffRate": 15.3,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Anthony Rendon",
+    "name": {
+      "first": "Anthony",
+      "last": "Rendon",
+      "raw": "Rendon, Anthony"
+    },
+    "savantId": 543685,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 183,
+      "xba": 0.264,
+      "xwoba": 0.357,
+      "xiso": 0.128,
+      "avgExitVel": 90.1,
+      "barrelRate": 4.8,
+      "chaseRate": 16.9,
+      "whiffRate": 17.9,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Marcus Semien",
+    "name": {
+      "first": "Marcus",
+      "last": "Semien",
+      "raw": "Semien, Marcus"
+    },
+    "savantId": 543760,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 753,
+      "xba": 0.262,
+      "xwoba": 0.333,
+      "xiso": 0.165,
+      "avgExitVel": 88.4,
+      "barrelRate": 6.5,
+      "chaseRate": 21.4,
+      "whiffRate": 18,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "George Springer III",
+    "name": {
+      "first": "George",
+      "last": "Springer III",
+      "raw": "Springer III, George"
+    },
+    "savantId": 543807,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 683,
+      "xba": 0.264,
+      "xwoba": 0.332,
+      "xiso": 0.158,
+      "avgExitVel": 88.3,
+      "barrelRate": 7.7,
+      "chaseRate": 23.1,
+      "whiffRate": 22.3,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Christian Vázquez",
+    "name": {
+      "first": "Christian",
+      "last": "Vázquez",
+      "raw": "Vázquez, Christian"
+    },
+    "savantId": 543877,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 355,
+      "xba": 0.226,
+      "xwoba": 0.268,
+      "xiso": 0.097,
+      "avgExitVel": 86.7,
+      "barrelRate": 3.2,
+      "chaseRate": 33,
+      "whiffRate": 26.2,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Kolten Wong",
+    "name": {
+      "first": "Kolten",
+      "last": "Wong",
+      "raw": "Wong, Kolten"
+    },
+    "savantId": 543939,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 250,
+      "xba": 0.213,
+      "xwoba": 0.262,
+      "xiso": 0.077,
+      "avgExitVel": 85.6,
+      "barrelRate": 1.7,
+      "chaseRate": 27.1,
+      "whiffRate": 21.4,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Ildemaro Vargas",
+    "name": {
+      "first": "Ildemaro",
+      "last": "Vargas",
+      "raw": "Vargas, Ildemaro"
+    },
+    "savantId": 545121,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 286,
+      "xba": 0.265,
+      "xwoba": 0.303,
+      "xiso": 0.103,
+      "avgExitVel": 87.1,
+      "barrelRate": 2.4,
+      "chaseRate": 29.1,
+      "whiffRate": 12.1,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Randal Grichuk",
+    "name": {
+      "first": "Randal",
+      "last": "Grichuk",
+      "raw": "Grichuk, Randal"
+    },
+    "savantId": 545341,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 471,
+      "xba": 0.263,
+      "xwoba": 0.323,
+      "xiso": 0.162,
+      "avgExitVel": 89.6,
+      "barrelRate": 7.1,
+      "chaseRate": 34.9,
+      "whiffRate": 26.7,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Mike Trout",
+    "name": {
+      "first": "Mike",
+      "last": "Trout",
+      "raw": "Trout, Mike"
+    },
+    "savantId": 545361,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 362,
+      "xba": 0.275,
+      "xwoba": 0.389,
+      "xiso": 0.248,
+      "avgExitVel": 91.9,
+      "barrelRate": 16,
+      "chaseRate": 19.7,
+      "whiffRate": 29.3,
+      "speed": 29.5
+    }
+  },
+  {
+    "fullName": "Bryce Harper",
+    "name": {
+      "first": "Bryce",
+      "last": "Harper",
+      "raw": "Harper, Bryce"
+    },
+    "savantId": 547180,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 546,
+      "xba": 0.29,
+      "xwoba": 0.399,
+      "xiso": 0.24,
+      "avgExitVel": 91.8,
+      "barrelRate": 15.2,
+      "chaseRate": 33.4,
+      "whiffRate": 33.2,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "José Abreu",
+    "name": {
+      "first": "José",
+      "last": "Abreu",
+      "raw": "Abreu, José"
+    },
+    "savantId": 547989,
+    "age": 36,
+    "data": {
+      "recordYear": 2023,
+      "pa": 594,
+      "xba": 0.248,
+      "xwoba": 0.314,
+      "xiso": 0.161,
+      "avgExitVel": 89,
+      "barrelRate": 8.7,
+      "chaseRate": 36.3,
+      "whiffRate": 26.4,
+      "speed": 25.5
+    }
+  },
+  {
+    "fullName": "Elias Díaz",
+    "name": {
+      "first": "Elias",
+      "last": "Díaz",
+      "raw": "Díaz, Elias"
+    },
+    "savantId": 553869,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 526,
+      "xba": 0.245,
+      "xwoba": 0.296,
+      "xiso": 0.131,
+      "avgExitVel": 88.1,
+      "barrelRate": 6.2,
+      "chaseRate": 36.2,
+      "whiffRate": 28.4,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Eugenio Suárez",
+    "name": {
+      "first": "Eugenio",
+      "last": "Suárez",
+      "raw": "Suárez, Eugenio"
+    },
+    "savantId": 553993,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 694,
+      "xba": 0.223,
+      "xwoba": 0.324,
+      "xiso": 0.196,
+      "avgExitVel": 90.3,
+      "barrelRate": 13.2,
+      "chaseRate": 23.6,
+      "whiffRate": 32.8,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Gio Urshela",
+    "name": {
+      "first": "Gio",
+      "last": "Urshela",
+      "raw": "Urshela, Gio"
+    },
+    "savantId": 570482,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 228,
+      "xba": 0.259,
+      "xwoba": 0.289,
+      "xiso": 0.102,
+      "avgExitVel": 87.5,
+      "barrelRate": 3.9,
+      "chaseRate": 37,
+      "whiffRate": 18.8,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Jonathan Schoop",
+    "name": {
+      "first": "Jonathan",
+      "last": "Schoop",
+      "raw": "Schoop, Jonathan"
+    },
+    "savantId": 570731,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 151,
+      "xba": 0.23,
+      "xwoba": 0.276,
+      "xiso": 0.098,
+      "avgExitVel": 89.4,
+      "barrelRate": 4,
+      "chaseRate": 32.3,
+      "whiffRate": 29.2,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Nolan Arenado",
+    "name": {
+      "first": "Nolan",
+      "last": "Arenado",
+      "raw": "Arenado, Nolan"
+    },
+    "savantId": 571448,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 612,
+      "xba": 0.266,
+      "xwoba": 0.32,
+      "xiso": 0.17,
+      "avgExitVel": 88.8,
+      "barrelRate": 7.3,
+      "chaseRate": 34.1,
+      "whiffRate": 20.2,
+      "speed": 24.9
+    }
+  },
+  {
+    "fullName": "Kyle Farmer",
+    "name": {
+      "first": "Kyle",
+      "last": "Farmer",
+      "raw": "Farmer, Kyle"
+    },
+    "savantId": 571657,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 369,
+      "xba": 0.252,
+      "xwoba": 0.313,
+      "xiso": 0.154,
+      "avgExitVel": 86.4,
+      "barrelRate": 6.7,
+      "chaseRate": 32.2,
+      "whiffRate": 23.2,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Mitch Haniger",
+    "name": {
+      "first": "Mitch",
+      "last": "Haniger",
+      "raw": "Haniger, Mitch"
+    },
+    "savantId": 571745,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 229,
+      "xba": 0.245,
+      "xwoba": 0.316,
+      "xiso": 0.192,
+      "avgExitVel": 91,
+      "barrelRate": 10.9,
+      "chaseRate": 25.4,
+      "whiffRate": 27.8,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Enrique Hernández",
+    "name": {
+      "first": "Enrique",
+      "last": "Hernández",
+      "raw": "Hernández, Enrique"
+    },
+    "savantId": 571771,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 508,
+      "xba": 0.224,
+      "xwoba": 0.272,
+      "xiso": 0.113,
+      "avgExitVel": 87.8,
+      "barrelRate": 4.5,
+      "chaseRate": 27.9,
+      "whiffRate": 23.6,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Luke Maile",
+    "name": {
+      "first": "Luke",
+      "last": "Maile",
+      "raw": "Maile, Luke"
+    },
+    "savantId": 571912,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 199,
+      "xba": 0.234,
+      "xwoba": 0.315,
+      "xiso": 0.183,
+      "avgExitVel": 87.7,
+      "barrelRate": 10.7,
+      "chaseRate": 26.3,
+      "whiffRate": 25.7,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Max Muncy",
+    "name": {
+      "first": "Max",
+      "last": "Muncy",
+      "raw": "Muncy, Max"
+    },
+    "savantId": 571970,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 579,
+      "xba": 0.235,
+      "xwoba": 0.364,
+      "xiso": 0.269,
+      "avgExitVel": 91.2,
+      "barrelRate": 14.6,
+      "chaseRate": 23.5,
+      "whiffRate": 29.6,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Michael A. Taylor",
+    "name": {
+      "first": "Michael A.",
+      "last": "Taylor",
+      "raw": "Taylor, Michael A."
+    },
+    "savantId": 572191,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 388,
+      "xba": 0.222,
+      "xwoba": 0.306,
+      "xiso": 0.211,
+      "avgExitVel": 88.1,
+      "barrelRate": 13.5,
+      "chaseRate": 31.2,
+      "whiffRate": 33.6,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Trayce Thompson",
+    "name": {
+      "first": "Trayce",
+      "last": "Thompson",
+      "raw": "Thompson, Trayce"
+    },
+    "savantId": 572204,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 179,
+      "xba": 0.165,
+      "xwoba": 0.275,
+      "xiso": 0.158,
+      "avgExitVel": 89.3,
+      "barrelRate": 11.8,
+      "chaseRate": 20.4,
+      "whiffRate": 43.3,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Christian Walker",
+    "name": {
+      "first": "Christian",
+      "last": "Walker",
+      "raw": "Walker, Christian"
+    },
+    "savantId": 572233,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 661,
+      "xba": 0.251,
+      "xwoba": 0.339,
+      "xiso": 0.21,
+      "avgExitVel": 88,
+      "barrelRate": 11.4,
+      "chaseRate": 26.1,
+      "whiffRate": 26.4,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Matt Carpenter",
+    "name": {
+      "first": "Matt",
+      "last": "Carpenter",
+      "raw": "Carpenter, Matt"
+    },
+    "savantId": 572761,
+    "age": 37,
+    "data": {
+      "recordYear": 2023,
+      "pa": 237,
+      "xba": 0.173,
+      "xwoba": 0.309,
+      "xiso": 0.161,
+      "avgExitVel": 87,
+      "barrelRate": 11.1,
+      "chaseRate": 21.1,
+      "whiffRate": 28.3,
+      "speed": 25.3
+    }
+  },
+  {
+    "fullName": "Corey Dickerson",
+    "name": {
+      "first": "Corey",
+      "last": "Dickerson",
+      "raw": "Dickerson, Corey"
+    },
+    "savantId": 572816,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 152,
+      "xba": 0.256,
+      "xwoba": 0.288,
+      "xiso": 0.117,
+      "avgExitVel": 88.1,
+      "barrelRate": 3.4,
+      "chaseRate": 48.7,
+      "whiffRate": 22.4,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Mike Yastrzemski",
+    "name": {
+      "first": "Mike",
+      "last": "Yastrzemski",
+      "raw": "Yastrzemski, Mike"
+    },
+    "savantId": 573262,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 381,
+      "xba": 0.232,
+      "xwoba": 0.325,
+      "xiso": 0.187,
+      "avgExitVel": 90,
+      "barrelRate": 9.8,
+      "chaseRate": 20.2,
+      "whiffRate": 23.6,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Willson Contreras",
+    "name": {
+      "first": "Willson",
+      "last": "Contreras",
+      "raw": "Contreras, Willson"
+    },
+    "savantId": 575929,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 495,
+      "xba": 0.279,
+      "xwoba": 0.373,
+      "xiso": 0.212,
+      "avgExitVel": 91.3,
+      "barrelRate": 12.2,
+      "chaseRate": 31.1,
+      "whiffRate": 29,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Kris Bryant",
+    "name": {
+      "first": "Kris",
+      "last": "Bryant",
+      "raw": "Bryant, Kris"
+    },
+    "savantId": 592178,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 335,
+      "xba": 0.245,
+      "xwoba": 0.323,
+      "xiso": 0.168,
+      "avgExitVel": 85.7,
+      "barrelRate": 6,
+      "chaseRate": 25.5,
+      "whiffRate": 25,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Mark Canha",
+    "name": {
+      "first": "Mark",
+      "last": "Canha",
+      "raw": "Canha, Mark"
+    },
+    "savantId": 592192,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 507,
+      "xba": 0.248,
+      "xwoba": 0.323,
+      "xiso": 0.133,
+      "avgExitVel": 87.9,
+      "barrelRate": 4.7,
+      "chaseRate": 23.9,
+      "whiffRate": 18.3,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Nick Castellanos",
+    "name": {
+      "first": "Nick",
+      "last": "Castellanos",
+      "raw": "Castellanos, Nick"
+    },
+    "savantId": 592206,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 671,
+      "xba": 0.258,
+      "xwoba": 0.32,
+      "xiso": 0.185,
+      "avgExitVel": 88.9,
+      "barrelRate": 10.3,
+      "chaseRate": 41,
+      "whiffRate": 35.4,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Brandon Drury",
+    "name": {
+      "first": "Brandon",
+      "last": "Drury",
+      "raw": "Drury, Brandon"
+    },
+    "savantId": 592273,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 523,
+      "xba": 0.252,
+      "xwoba": 0.318,
+      "xiso": 0.188,
+      "avgExitVel": 89.9,
+      "barrelRate": 11,
+      "chaseRate": 34.9,
+      "whiffRate": 30.2,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Aaron Judge",
+    "name": {
+      "first": "Aaron",
+      "last": "Judge",
+      "raw": "Judge, Aaron"
+    },
+    "savantId": 592450,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 458,
+      "xba": 0.289,
+      "xwoba": 0.461,
+      "xiso": 0.423,
+      "avgExitVel": 97.6,
+      "barrelRate": 27.5,
+      "chaseRate": 19.5,
+      "whiffRate": 36.6,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Manny Machado",
+    "name": {
+      "first": "Manny",
+      "last": "Machado",
+      "raw": "Machado, Manny"
+    },
+    "savantId": 592518,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 601,
+      "xba": 0.258,
+      "xwoba": 0.335,
+      "xiso": 0.204,
+      "avgExitVel": 91,
+      "barrelRate": 10.5,
+      "chaseRate": 29.3,
+      "whiffRate": 23.9,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Joc Pederson",
+    "name": {
+      "first": "Joc",
+      "last": "Pederson",
+      "raw": "Pederson, Joc"
+    },
+    "savantId": 592626,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 425,
+      "xba": 0.264,
+      "xwoba": 0.366,
+      "xiso": 0.217,
+      "avgExitVel": 92.1,
+      "barrelRate": 12.1,
+      "chaseRate": 28.5,
+      "whiffRate": 24.6,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "J.T. Realmuto",
+    "name": {
+      "first": "J.T.",
+      "last": "Realmuto",
+      "raw": "Realmuto, J.T."
+    },
+    "savantId": 592663,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 540,
+      "xba": 0.254,
+      "xwoba": 0.334,
+      "xiso": 0.208,
+      "avgExitVel": 89.8,
+      "barrelRate": 11.2,
+      "chaseRate": 30.6,
+      "whiffRate": 26.2,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Hunter Renfroe",
+    "name": {
+      "first": "Hunter",
+      "last": "Renfroe",
+      "raw": "Renfroe, Hunter"
+    },
+    "savantId": 592669,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 548,
+      "xba": 0.225,
+      "xwoba": 0.289,
+      "xiso": 0.141,
+      "avgExitVel": 88.3,
+      "barrelRate": 6.1,
+      "chaseRate": 33.5,
+      "whiffRate": 26.4,
+      "speed": 26.8
+    }
+  },
+  {
+    "fullName": "Eddie Rosario",
+    "name": {
+      "first": "Eddie",
+      "last": "Rosario",
+      "raw": "Rosario, Eddie"
+    },
+    "savantId": 592696,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 516,
+      "xba": 0.254,
+      "xwoba": 0.317,
+      "xiso": 0.181,
+      "avgExitVel": 88.6,
+      "barrelRate": 9.5,
+      "chaseRate": 43.5,
+      "whiffRate": 29.7,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Christian Yelich",
+    "name": {
+      "first": "Christian",
+      "last": "Yelich",
+      "raw": "Yelich, Christian"
+    },
+    "savantId": 592885,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 632,
+      "xba": 0.284,
+      "xwoba": 0.362,
+      "xiso": 0.176,
+      "avgExitVel": 91.7,
+      "barrelRate": 9.2,
+      "chaseRate": 24.8,
+      "whiffRate": 26.8,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Whit Merrifield",
+    "name": {
+      "first": "Whit",
+      "last": "Merrifield",
+      "raw": "Merrifield, Whit"
+    },
+    "savantId": 593160,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 592,
+      "xba": 0.242,
+      "xwoba": 0.276,
+      "xiso": 0.093,
+      "avgExitVel": 85.1,
+      "barrelRate": 2.4,
+      "chaseRate": 32.5,
+      "whiffRate": 19.5,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Xander Bogaerts",
+    "name": {
+      "first": "Xander",
+      "last": "Bogaerts",
+      "raw": "Bogaerts, Xander"
+    },
+    "savantId": 593428,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 665,
+      "xba": 0.255,
+      "xwoba": 0.318,
+      "xiso": 0.146,
+      "avgExitVel": 87.6,
+      "barrelRate": 6.1,
+      "chaseRate": 25.2,
+      "whiffRate": 20.4,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Jorge Polanco",
+    "name": {
+      "first": "Jorge",
+      "last": "Polanco",
+      "raw": "Polanco, Jorge"
+    },
+    "savantId": 593871,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 343,
+      "xba": 0.251,
+      "xwoba": 0.348,
+      "xiso": 0.231,
+      "avgExitVel": 88.4,
+      "barrelRate": 13.8,
+      "chaseRate": 28.4,
+      "whiffRate": 24.9,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Kole Calhoun",
+    "name": {
+      "first": "Kole",
+      "last": "Calhoun",
+      "raw": "Calhoun, Kole"
+    },
+    "savantId": 594777,
+    "age": 35,
+    "data": {
+      "recordYear": 2023,
+      "pa": 174,
+      "xba": 0.235,
+      "xwoba": 0.303,
+      "xiso": 0.162,
+      "avgExitVel": 86.6,
+      "barrelRate": 6.6,
+      "chaseRate": 27.3,
+      "whiffRate": 22.9,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Adam Duvall",
+    "name": {
+      "first": "Adam",
+      "last": "Duvall",
+      "raw": "Duvall, Adam"
+    },
+    "savantId": 594807,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 353,
+      "xba": 0.21,
+      "xwoba": 0.304,
+      "xiso": 0.226,
+      "avgExitVel": 88.8,
+      "barrelRate": 13,
+      "chaseRate": 34.1,
+      "whiffRate": 31,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Kevin Kiermaier",
+    "name": {
+      "first": "Kevin",
+      "last": "Kiermaier",
+      "raw": "Kiermaier, Kevin"
+    },
+    "savantId": 595281,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 408,
+      "xba": 0.259,
+      "xwoba": 0.3,
+      "xiso": 0.095,
+      "avgExitVel": 86.7,
+      "barrelRate": 3.5,
+      "chaseRate": 27.4,
+      "whiffRate": 30.2,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Chad Wallach",
+    "name": {
+      "first": "Chad",
+      "last": "Wallach",
+      "raw": "Wallach, Chad"
+    },
+    "savantId": 595453,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 172,
+      "xba": 0.212,
+      "xwoba": 0.292,
+      "xiso": 0.193,
+      "avgExitVel": 87.7,
+      "barrelRate": 10.8,
+      "chaseRate": 29.9,
+      "whiffRate": 34.8,
+      "speed": 24.3
+    }
+  },
+  {
+    "fullName": "Jurickson Profar",
+    "name": {
+      "first": "Jurickson",
+      "last": "Profar",
+      "raw": "Profar, Jurickson"
+    },
+    "savantId": 595777,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 521,
+      "xba": 0.247,
+      "xwoba": 0.306,
+      "xiso": 0.102,
+      "avgExitVel": 86.5,
+      "barrelRate": 4,
+      "chaseRate": 25.1,
+      "whiffRate": 20,
+      "speed": 25.6
+    }
+  },
+  {
+    "fullName": "Javier Báez",
+    "name": {
+      "first": "Javier",
+      "last": "Báez",
+      "raw": "Báez, Javier"
+    },
+    "savantId": 595879,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 547,
+      "xba": 0.234,
+      "xwoba": 0.279,
+      "xiso": 0.121,
+      "avgExitVel": 88,
+      "barrelRate": 5.2,
+      "chaseRate": 44,
+      "whiffRate": 32.6,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Jake Cave",
+    "name": {
+      "first": "Jake",
+      "last": "Cave",
+      "raw": "Cave, Jake"
+    },
+    "savantId": 595909,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 203,
+      "xba": 0.203,
+      "xwoba": 0.277,
+      "xiso": 0.155,
+      "avgExitVel": 89.3,
+      "barrelRate": 7.6,
+      "chaseRate": 30.2,
+      "whiffRate": 26.7,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Austin Hedges",
+    "name": {
+      "first": "Austin",
+      "last": "Hedges",
+      "raw": "Hedges, Austin"
+    },
+    "savantId": 595978,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 212,
+      "xba": 0.215,
+      "xwoba": 0.253,
+      "xiso": 0.074,
+      "avgExitVel": 87.2,
+      "barrelRate": 0.7,
+      "chaseRate": 33.2,
+      "whiffRate": 28,
+      "speed": 24.5
+    }
+  },
+  {
+    "fullName": "Francisco Lindor",
+    "name": {
+      "first": "Francisco",
+      "last": "Lindor",
+      "raw": "Lindor, Francisco"
+    },
+    "savantId": 596019,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 687,
+      "xba": 0.255,
+      "xwoba": 0.346,
+      "xiso": 0.202,
+      "avgExitVel": 91.2,
+      "barrelRate": 10.4,
+      "chaseRate": 27.2,
+      "whiffRate": 22.8,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Rougned Odor",
+    "name": {
+      "first": "Rougned",
+      "last": "Odor",
+      "raw": "Odor, Rougned"
+    },
+    "savantId": 596059,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 157,
+      "xba": 0.241,
+      "xwoba": 0.32,
+      "xiso": 0.15,
+      "avgExitVel": 90.1,
+      "barrelRate": 6.9,
+      "chaseRate": 28.8,
+      "whiffRate": 27.1,
+      "speed": 26.8
+    }
+  },
+  {
+    "fullName": "Austin Slater",
+    "name": {
+      "first": "Austin",
+      "last": "Slater",
+      "raw": "Slater, Austin"
+    },
+    "savantId": 596103,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 207,
+      "xba": 0.255,
+      "xwoba": 0.338,
+      "xiso": 0.188,
+      "avgExitVel": 91.1,
+      "barrelRate": 11.8,
+      "chaseRate": 22.2,
+      "whiffRate": 29.5,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Trevor Story",
+    "name": {
+      "first": "Trevor",
+      "last": "Story",
+      "raw": "Story, Trevor"
+    },
+    "savantId": 596115,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 168,
+      "xba": 0.21,
+      "xwoba": 0.266,
+      "xiso": 0.144,
+      "avgExitVel": 88.5,
+      "barrelRate": 9.7,
+      "chaseRate": 30.6,
+      "whiffRate": 31.7,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Daniel Vogelbach",
+    "name": {
+      "first": "Daniel",
+      "last": "Vogelbach",
+      "raw": "Vogelbach, Daniel"
+    },
+    "savantId": 596129,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 319,
+      "xba": 0.229,
+      "xwoba": 0.324,
+      "xiso": 0.172,
+      "avgExitVel": 91.7,
+      "barrelRate": 9.3,
+      "chaseRate": 21.4,
+      "whiffRate": 21.6,
+      "speed": 23.6
+    }
+  },
+  {
+    "fullName": "Gary Sánchez",
+    "name": {
+      "first": "Gary",
+      "last": "Sánchez",
+      "raw": "Sánchez, Gary"
+    },
+    "savantId": 596142,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 267,
+      "xba": 0.233,
+      "xwoba": 0.343,
+      "xiso": 0.269,
+      "avgExitVel": 90.1,
+      "barrelRate": 15.4,
+      "chaseRate": 26.5,
+      "whiffRate": 27.6,
+      "speed": 24.9
+    }
+  },
+  {
+    "fullName": "Max Kepler",
+    "name": {
+      "first": "Max",
+      "last": "Kepler",
+      "raw": "Kepler, Max"
+    },
+    "savantId": 596146,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 491,
+      "xba": 0.271,
+      "xwoba": 0.362,
+      "xiso": 0.231,
+      "avgExitVel": 91.9,
+      "barrelRate": 12.2,
+      "chaseRate": 24.9,
+      "whiffRate": 19.8,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Jeimer Candelario",
+    "name": {
+      "first": "Jeimer",
+      "last": "Candelario",
+      "raw": "Candelario, Jeimer"
+    },
+    "savantId": 600869,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 576,
+      "xba": 0.236,
+      "xwoba": 0.318,
+      "xiso": 0.171,
+      "avgExitVel": 88.3,
+      "barrelRate": 7.9,
+      "chaseRate": 28.3,
+      "whiffRate": 24.2,
+      "speed": 27.5
+    }
+  },
+  {
+    "fullName": "Ramón Urías",
+    "name": {
+      "first": "Ramón",
+      "last": "Urías",
+      "raw": "Urías, Ramón"
+    },
+    "savantId": 602104,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 396,
+      "xba": 0.226,
+      "xwoba": 0.281,
+      "xiso": 0.111,
+      "avgExitVel": 89.2,
+      "barrelRate": 6.9,
+      "chaseRate": 28.5,
+      "whiffRate": 28.7,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Nick Ahmed",
+    "name": {
+      "first": "Nick",
+      "last": "Ahmed",
+      "raw": "Ahmed, Nick"
+    },
+    "savantId": 605113,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 210,
+      "xba": 0.226,
+      "xwoba": 0.263,
+      "xiso": 0.098,
+      "avgExitVel": 85.2,
+      "barrelRate": 2.7,
+      "chaseRate": 33.6,
+      "whiffRate": 26.9,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Brian Anderson",
+    "name": {
+      "first": "Brian",
+      "last": "Anderson",
+      "raw": "Anderson, Brian"
+    },
+    "savantId": 605119,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 361,
+      "xba": 0.231,
+      "xwoba": 0.316,
+      "xiso": 0.161,
+      "avgExitVel": 87.6,
+      "barrelRate": 10.3,
+      "chaseRate": 28.1,
+      "whiffRate": 33.3,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Austin Barnes",
+    "name": {
+      "first": "Austin",
+      "last": "Barnes",
+      "raw": "Barnes, Austin"
+    },
+    "savantId": 605131,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 200,
+      "xba": 0.214,
+      "xwoba": 0.273,
+      "xiso": 0.096,
+      "avgExitVel": 84.8,
+      "barrelRate": 2.9,
+      "chaseRate": 19.8,
+      "whiffRate": 22.2,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Josh Bell",
+    "name": {
+      "first": "Josh",
+      "last": "Bell",
+      "raw": "Bell, Josh"
+    },
+    "savantId": 605137,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 617,
+      "xba": 0.263,
+      "xwoba": 0.345,
+      "xiso": 0.194,
+      "avgExitVel": 90.1,
+      "barrelRate": 10.1,
+      "chaseRate": 27.8,
+      "whiffRate": 25.8,
+      "speed": 25.9
+    }
+  },
+  {
+    "fullName": "Mookie Betts",
+    "name": {
+      "first": "Mookie",
+      "last": "Betts",
+      "raw": "Betts, Mookie"
+    },
+    "savantId": 605141,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 693,
+      "xba": 0.294,
+      "xwoba": 0.407,
+      "xiso": 0.268,
+      "avgExitVel": 92.4,
+      "barrelRate": 12.4,
+      "chaseRate": 16.6,
+      "whiffRate": 16.7,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Victor Caratini",
+    "name": {
+      "first": "Victor",
+      "last": "Caratini",
+      "raw": "Caratini, Victor"
+    },
+    "savantId": 605170,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 226,
+      "xba": 0.258,
+      "xwoba": 0.31,
+      "xiso": 0.119,
+      "avgExitVel": 91.3,
+      "barrelRate": 5,
+      "chaseRate": 22.6,
+      "whiffRate": 21.1,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "J.D. Davis",
+    "name": {
+      "first": "J.D.",
+      "last": "Davis",
+      "raw": "Davis, J.D."
+    },
+    "savantId": 605204,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 546,
+      "xba": 0.248,
+      "xwoba": 0.326,
+      "xiso": 0.168,
+      "avgExitVel": 91.1,
+      "barrelRate": 9.6,
+      "chaseRate": 26.5,
+      "whiffRate": 34,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Harold Castro",
+    "name": {
+      "first": "Harold",
+      "last": "Castro",
+      "raw": "Castro, Harold"
+    },
+    "savantId": 605612,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 270,
+      "xba": 0.242,
+      "xwoba": 0.263,
+      "xiso": 0.097,
+      "avgExitVel": 86.2,
+      "barrelRate": 3.1,
+      "chaseRate": 43.1,
+      "whiffRate": 28.6,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Orlando Arcia",
+    "name": {
+      "first": "Orlando",
+      "last": "Arcia",
+      "raw": "Arcia, Orlando"
+    },
+    "savantId": 606115,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 533,
+      "xba": 0.247,
+      "xwoba": 0.307,
+      "xiso": 0.152,
+      "avgExitVel": 88.2,
+      "barrelRate": 6.9,
+      "chaseRate": 26.4,
+      "whiffRate": 24.3,
+      "speed": 25.9
+    }
+  },
+  {
+    "fullName": "Raimel Tapia",
+    "name": {
+      "first": "Raimel",
+      "last": "Tapia",
+      "raw": "Tapia, Raimel"
+    },
+    "savantId": 606132,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 169,
+      "xba": 0.224,
+      "xwoba": 0.297,
+      "xiso": 0.113,
+      "avgExitVel": 85.4,
+      "barrelRate": 6.4,
+      "chaseRate": 39.2,
+      "whiffRate": 28.7,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Teoscar Hernández",
+    "name": {
+      "first": "Teoscar",
+      "last": "Hernández",
+      "raw": "Hernández, Teoscar"
+    },
+    "savantId": 606192,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 678,
+      "xba": 0.258,
+      "xwoba": 0.336,
+      "xiso": 0.218,
+      "avgExitVel": 91.3,
+      "barrelRate": 13.8,
+      "chaseRate": 35.2,
+      "whiffRate": 35.8,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Ketel Marte",
+    "name": {
+      "first": "Ketel",
+      "last": "Marte",
+      "raw": "Marte, Ketel"
+    },
+    "savantId": 606466,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 650,
+      "xba": 0.266,
+      "xwoba": 0.342,
+      "xiso": 0.161,
+      "avgExitVel": 91.1,
+      "barrelRate": 8,
+      "chaseRate": 24.5,
+      "whiffRate": 20.5,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Eric Haase",
+    "name": {
+      "first": "Eric",
+      "last": "Haase",
+      "raw": "Haase, Eric"
+    },
+    "savantId": 606992,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 293,
+      "xba": 0.217,
+      "xwoba": 0.253,
+      "xiso": 0.092,
+      "avgExitVel": 87.1,
+      "barrelRate": 4.6,
+      "chaseRate": 36.3,
+      "whiffRate": 32.6,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Brandon Nimmo",
+    "name": {
+      "first": "Brandon",
+      "last": "Nimmo",
+      "raw": "Nimmo, Brandon"
+    },
+    "savantId": 607043,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 682,
+      "xba": 0.261,
+      "xwoba": 0.352,
+      "xiso": 0.193,
+      "avgExitVel": 91.8,
+      "barrelRate": 9.5,
+      "chaseRate": 19.9,
+      "whiffRate": 22,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Jace Peterson",
+    "name": {
+      "first": "Jace",
+      "last": "Peterson",
+      "raw": "Peterson, Jace"
+    },
+    "savantId": 607054,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 430,
+      "xba": 0.216,
+      "xwoba": 0.287,
+      "xiso": 0.117,
+      "avgExitVel": 85.7,
+      "barrelRate": 4.7,
+      "chaseRate": 22.9,
+      "whiffRate": 24.6,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Trea Turner",
+    "name": {
+      "first": "Trea",
+      "last": "Turner",
+      "raw": "Turner, Trea"
+    },
+    "savantId": 607208,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 691,
+      "xba": 0.266,
+      "xwoba": 0.33,
+      "xiso": 0.181,
+      "avgExitVel": 89.9,
+      "barrelRate": 8.4,
+      "chaseRate": 35.3,
+      "whiffRate": 29.6,
+      "speed": 30.3
+    }
+  },
+  {
+    "fullName": "Kevin Pillar",
+    "name": {
+      "first": "Kevin",
+      "last": "Pillar",
+      "raw": "Pillar, Kevin"
+    },
+    "savantId": 607680,
+    "age": 34,
+    "data": {
+      "recordYear": 2023,
+      "pa": 206,
+      "xba": 0.255,
+      "xwoba": 0.295,
+      "xiso": 0.163,
+      "avgExitVel": 87.9,
+      "barrelRate": 8,
+      "chaseRate": 40.4,
+      "whiffRate": 26.3,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Jacob Stallings",
+    "name": {
+      "first": "Jacob",
+      "last": "Stallings",
+      "raw": "Stallings, Jacob"
+    },
+    "savantId": 607732,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 276,
+      "xba": 0.193,
+      "xwoba": 0.262,
+      "xiso": 0.109,
+      "avgExitVel": 89.7,
+      "barrelRate": 5.6,
+      "chaseRate": 22.6,
+      "whiffRate": 22.6,
+      "speed": 23.6
+    }
+  },
+  {
+    "fullName": "José Ramírez",
+    "name": {
+      "first": "José",
+      "last": "Ramírez",
+      "raw": "Ramírez, José"
+    },
+    "savantId": 608070,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 691,
+      "xba": 0.299,
+      "xwoba": 0.359,
+      "xiso": 0.182,
+      "avgExitVel": 90,
+      "barrelRate": 7,
+      "chaseRate": 28.2,
+      "whiffRate": 15.6,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Alex Bregman",
+    "name": {
+      "first": "Alex",
+      "last": "Bregman",
+      "raw": "Bregman, Alex"
+    },
+    "savantId": 608324,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 724,
+      "xba": 0.266,
+      "xwoba": 0.351,
+      "xiso": 0.163,
+      "avgExitVel": 88.6,
+      "barrelRate": 5.4,
+      "chaseRate": 18.6,
+      "whiffRate": 14.1,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Joey Gallo",
+    "name": {
+      "first": "Joey",
+      "last": "Gallo",
+      "raw": "Gallo, Joey"
+    },
+    "savantId": 608336,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 332,
+      "xba": 0.149,
+      "xwoba": 0.295,
+      "xiso": 0.25,
+      "avgExitVel": 93,
+      "barrelRate": 19.3,
+      "chaseRate": 25.9,
+      "whiffRate": 44.3,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Carson Kelly",
+    "name": {
+      "first": "Carson",
+      "last": "Kelly",
+      "raw": "Kelly, Carson"
+    },
+    "savantId": 608348,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 151,
+      "xba": 0.185,
+      "xwoba": 0.245,
+      "xiso": 0.095,
+      "avgExitVel": 86.8,
+      "barrelRate": 2.1,
+      "chaseRate": 26,
+      "whiffRate": 30.2,
+      "speed": 25.7
+    }
+  },
+  {
+    "fullName": "Corey Seager",
+    "name": {
+      "first": "Corey",
+      "last": "Seager",
+      "raw": "Seager, Corey"
+    },
+    "savantId": 608369,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 536,
+      "xba": 0.314,
+      "xwoba": 0.412,
+      "xiso": 0.298,
+      "avgExitVel": 93.3,
+      "barrelRate": 15.2,
+      "chaseRate": 28.1,
+      "whiffRate": 25,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Jesse Winker",
+    "name": {
+      "first": "Jesse",
+      "last": "Winker",
+      "raw": "Winker, Jesse"
+    },
+    "savantId": 608385,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 197,
+      "xba": 0.204,
+      "xwoba": 0.287,
+      "xiso": 0.092,
+      "avgExitVel": 86.8,
+      "barrelRate": 4.3,
+      "chaseRate": 19.5,
+      "whiffRate": 25.1,
+      "speed": 23.5
+    }
+  },
+  {
+    "fullName": "Tom Murphy",
+    "name": {
+      "first": "Tom",
+      "last": "Murphy",
+      "raw": "Murphy, Tom"
+    },
+    "savantId": 608596,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 159,
+      "xba": 0.261,
+      "xwoba": 0.351,
+      "xiso": 0.237,
+      "avgExitVel": 89.5,
+      "barrelRate": 14.6,
+      "chaseRate": 29.9,
+      "whiffRate": 30.4,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Travis Jankowski",
+    "name": {
+      "first": "Travis",
+      "last": "Jankowski",
+      "raw": "Jankowski, Travis"
+    },
+    "savantId": 608671,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 287,
+      "xba": 0.254,
+      "xwoba": 0.302,
+      "xiso": 0.055,
+      "avgExitVel": 85.4,
+      "barrelRate": 0,
+      "chaseRate": 16.1,
+      "whiffRate": 14.1,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Rob Refsnyder",
+    "name": {
+      "first": "Rob",
+      "last": "Refsnyder",
+      "raw": "Refsnyder, Rob"
+    },
+    "savantId": 608701,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 243,
+      "xba": 0.261,
+      "xwoba": 0.342,
+      "xiso": 0.123,
+      "avgExitVel": 87.7,
+      "barrelRate": 3.8,
+      "chaseRate": 18.6,
+      "whiffRate": 23.1,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Joey Meneses",
+    "name": {
+      "first": "Joey",
+      "last": "Meneses",
+      "raw": "Meneses, Joey"
+    },
+    "savantId": 608841,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 657,
+      "xba": 0.247,
+      "xwoba": 0.288,
+      "xiso": 0.115,
+      "avgExitVel": 89.4,
+      "barrelRate": 5.4,
+      "chaseRate": 31.5,
+      "whiffRate": 23.6,
+      "speed": 25.6
+    }
+  },
+  {
+    "fullName": "Dansby Swanson",
+    "name": {
+      "first": "Dansby",
+      "last": "Swanson",
+      "raw": "Swanson, Dansby"
+    },
+    "savantId": 621020,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 638,
+      "xba": 0.255,
+      "xwoba": 0.345,
+      "xiso": 0.203,
+      "avgExitVel": 89.3,
+      "barrelRate": 10.9,
+      "chaseRate": 23.6,
+      "whiffRate": 28.7,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Kevin Newman",
+    "name": {
+      "first": "Kevin",
+      "last": "Newman",
+      "raw": "Newman, Kevin"
+    },
+    "savantId": 621028,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 253,
+      "xba": 0.272,
+      "xwoba": 0.311,
+      "xiso": 0.101,
+      "avgExitVel": 86.5,
+      "barrelRate": 2.5,
+      "chaseRate": 26.8,
+      "whiffRate": 14.8,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Chris Taylor",
+    "name": {
+      "first": "Chris",
+      "last": "Taylor",
+      "raw": "Taylor, Chris"
+    },
+    "savantId": 621035,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 384,
+      "xba": 0.222,
+      "xwoba": 0.312,
+      "xiso": 0.18,
+      "avgExitVel": 86.2,
+      "barrelRate": 9.8,
+      "chaseRate": 22.1,
+      "whiffRate": 35.8,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Carlos Correa",
+    "name": {
+      "first": "Carlos",
+      "last": "Correa",
+      "raw": "Correa, Carlos"
+    },
+    "savantId": 621043,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 580,
+      "xba": 0.253,
+      "xwoba": 0.33,
+      "xiso": 0.168,
+      "avgExitVel": 90.4,
+      "barrelRate": 9.6,
+      "chaseRate": 26.7,
+      "whiffRate": 25.1,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Tyrone Taylor",
+    "name": {
+      "first": "Tyrone",
+      "last": "Taylor",
+      "raw": "Taylor, Tyrone"
+    },
+    "savantId": 621438,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 243,
+      "xba": 0.246,
+      "xwoba": 0.304,
+      "xiso": 0.18,
+      "avgExitVel": 87.7,
+      "barrelRate": 6.8,
+      "chaseRate": 35.9,
+      "whiffRate": 24.9,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Byron Buxton",
+    "name": {
+      "first": "Byron",
+      "last": "Buxton",
+      "raw": "Buxton, Byron"
+    },
+    "savantId": 621439,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 347,
+      "xba": 0.212,
+      "xwoba": 0.316,
+      "xiso": 0.212,
+      "avgExitVel": 91.5,
+      "barrelRate": 14.6,
+      "chaseRate": 27.9,
+      "whiffRate": 30.6,
+      "speed": 29.3
+    }
+  },
+  {
+    "fullName": "DJ Stewart",
+    "name": {
+      "first": "DJ",
+      "last": "Stewart",
+      "raw": "Stewart, DJ"
+    },
+    "savantId": 621466,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 185,
+      "xba": 0.232,
+      "xwoba": 0.339,
+      "xiso": 0.23,
+      "avgExitVel": 89.9,
+      "barrelRate": 12.3,
+      "chaseRate": 25.8,
+      "whiffRate": 35.8,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Taylor Ward",
+    "name": {
+      "first": "Taylor",
+      "last": "Ward",
+      "raw": "Ward, Taylor"
+    },
+    "savantId": 621493,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 409,
+      "xba": 0.254,
+      "xwoba": 0.338,
+      "xiso": 0.176,
+      "avgExitVel": 90.7,
+      "barrelRate": 8.2,
+      "chaseRate": 23.2,
+      "whiffRate": 21.1,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Zach Remillard",
+    "name": {
+      "first": "Zach",
+      "last": "Remillard",
+      "raw": "Remillard, Zach"
+    },
+    "savantId": 621545,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 160,
+      "xba": 0.2,
+      "xwoba": 0.219,
+      "xiso": 0.044,
+      "avgExitVel": 85.7,
+      "barrelRate": 1,
+      "chaseRate": 26.7,
+      "whiffRate": 33.1,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Patrick Wisdom",
+    "name": {
+      "first": "Patrick",
+      "last": "Wisdom",
+      "raw": "Wisdom, Patrick"
+    },
+    "savantId": 621550,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 302,
+      "xba": 0.218,
+      "xwoba": 0.339,
+      "xiso": 0.28,
+      "avgExitVel": 92.7,
+      "barrelRate": 20.1,
+      "chaseRate": 24.1,
+      "whiffRate": 33.8,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Joey Wendle",
+    "name": {
+      "first": "Joey",
+      "last": "Wendle",
+      "raw": "Wendle, Joey"
+    },
+    "savantId": 621563,
+    "age": 33,
+    "data": {
+      "recordYear": 2023,
+      "pa": 318,
+      "xba": 0.233,
+      "xwoba": 0.263,
+      "xiso": 0.093,
+      "avgExitVel": 89.2,
+      "barrelRate": 3.4,
+      "chaseRate": 33.4,
+      "whiffRate": 25,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Matt Olson",
+    "name": {
+      "first": "Matt",
+      "last": "Olson",
+      "raw": "Olson, Matt"
+    },
+    "savantId": 621566,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 720,
+      "xba": 0.264,
+      "xwoba": 0.392,
+      "xiso": 0.294,
+      "avgExitVel": 93.7,
+      "barrelRate": 16.4,
+      "chaseRate": 26,
+      "whiffRate": 28.4,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Matt Duffy",
+    "name": {
+      "first": "Matt",
+      "last": "Duffy",
+      "raw": "Duffy, Matt"
+    },
+    "savantId": 622110,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 209,
+      "xba": 0.269,
+      "xwoba": 0.298,
+      "xiso": 0.078,
+      "avgExitVel": 86.4,
+      "barrelRate": 2.6,
+      "chaseRate": 28.9,
+      "whiffRate": 23,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Manuel Margot",
+    "name": {
+      "first": "Manuel",
+      "last": "Margot",
+      "raw": "Margot, Manuel"
+    },
+    "savantId": 622534,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 336,
+      "xba": 0.262,
+      "xwoba": 0.301,
+      "xiso": 0.106,
+      "avgExitVel": 87.9,
+      "barrelRate": 3.9,
+      "chaseRate": 31.4,
+      "whiffRate": 24.2,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Pablo Reyes",
+    "name": {
+      "first": "Pablo",
+      "last": "Reyes",
+      "raw": "Reyes, Pablo"
+    },
+    "savantId": 622569,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 185,
+      "xba": 0.265,
+      "xwoba": 0.31,
+      "xiso": 0.128,
+      "avgExitVel": 88.1,
+      "barrelRate": 4,
+      "chaseRate": 20.1,
+      "whiffRate": 14.9,
+      "speed": 27.9
+    }
+  },
+  {
+    "fullName": "Jorge Mateo",
+    "name": {
+      "first": "Jorge",
+      "last": "Mateo",
+      "raw": "Mateo, Jorge"
+    },
+    "savantId": 622761,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 350,
+      "xba": 0.24,
+      "xwoba": 0.289,
+      "xiso": 0.131,
+      "avgExitVel": 88.4,
+      "barrelRate": 5.3,
+      "chaseRate": 33.9,
+      "whiffRate": 27.8,
+      "speed": 30.1
+    }
+  },
+  {
+    "fullName": "Harold Ramírez",
+    "name": {
+      "first": "Harold",
+      "last": "Ramírez",
+      "raw": "Ramírez, Harold"
+    },
+    "savantId": 623912,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 434,
+      "xba": 0.271,
+      "xwoba": 0.319,
+      "xiso": 0.142,
+      "avgExitVel": 89.1,
+      "barrelRate": 4.6,
+      "chaseRate": 43.7,
+      "whiffRate": 28.1,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Anthony Santander",
+    "name": {
+      "first": "Anthony",
+      "last": "Santander",
+      "raw": "Santander, Anthony"
+    },
+    "savantId": 623993,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 656,
+      "xba": 0.237,
+      "xwoba": 0.319,
+      "xiso": 0.189,
+      "avgExitVel": 90.6,
+      "barrelRate": 10.2,
+      "chaseRate": 34.4,
+      "whiffRate": 23.5,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Pete Alonso",
+    "name": {
+      "first": "Pete",
+      "last": "Alonso",
+      "raw": "Alonso, Pete"
+    },
+    "savantId": 624413,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 658,
+      "xba": 0.246,
+      "xwoba": 0.368,
+      "xiso": 0.281,
+      "avgExitVel": 89.5,
+      "barrelRate": 14.7,
+      "chaseRate": 27.4,
+      "whiffRate": 26.2,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Christian Arroyo",
+    "name": {
+      "first": "Christian",
+      "last": "Arroyo",
+      "raw": "Arroyo, Christian"
+    },
+    "savantId": 624414,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 206,
+      "xba": 0.236,
+      "xwoba": 0.273,
+      "xiso": 0.114,
+      "avgExitVel": 86.3,
+      "barrelRate": 4.6,
+      "chaseRate": 39.7,
+      "whiffRate": 25.3,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Cavan Biggio",
+    "name": {
+      "first": "Cavan",
+      "last": "Biggio",
+      "raw": "Biggio, Cavan"
+    },
+    "savantId": 624415,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 338,
+      "xba": 0.226,
+      "xwoba": 0.314,
+      "xiso": 0.144,
+      "avgExitVel": 88.4,
+      "barrelRate": 7.4,
+      "chaseRate": 15.9,
+      "whiffRate": 23.8,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Michael Conforto",
+    "name": {
+      "first": "Michael",
+      "last": "Conforto",
+      "raw": "Conforto, Michael"
+    },
+    "savantId": 624424,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 470,
+      "xba": 0.245,
+      "xwoba": 0.33,
+      "xiso": 0.171,
+      "avgExitVel": 88.9,
+      "barrelRate": 7.9,
+      "chaseRate": 24.3,
+      "whiffRate": 24.9,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Adam Frazier",
+    "name": {
+      "first": "Adam",
+      "last": "Frazier",
+      "raw": "Frazier, Adam"
+    },
+    "savantId": 624428,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 455,
+      "xba": 0.261,
+      "xwoba": 0.301,
+      "xiso": 0.101,
+      "avgExitVel": 85.7,
+      "barrelRate": 3.1,
+      "chaseRate": 28.7,
+      "whiffRate": 19.2,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Jose Trevino",
+    "name": {
+      "first": "Jose",
+      "last": "Trevino",
+      "raw": "Trevino, Jose"
+    },
+    "savantId": 624431,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 168,
+      "xba": 0.245,
+      "xwoba": 0.279,
+      "xiso": 0.099,
+      "avgExitVel": 85.8,
+      "barrelRate": 2.9,
+      "chaseRate": 37.3,
+      "whiffRate": 16.4,
+      "speed": 24.4
+    }
+  },
+  {
+    "fullName": "Reese McGuire",
+    "name": {
+      "first": "Reese",
+      "last": "McGuire",
+      "raw": "McGuire, Reese"
+    },
+    "savantId": 624512,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 206,
+      "xba": 0.207,
+      "xwoba": 0.242,
+      "xiso": 0.074,
+      "avgExitVel": 84,
+      "barrelRate": 2.9,
+      "chaseRate": 41.9,
+      "whiffRate": 22.9,
+      "speed": 25.9
+    }
+  },
+  {
+    "fullName": "Jorge Soler",
+    "name": {
+      "first": "Jorge",
+      "last": "Soler",
+      "raw": "Soler, Jorge"
+    },
+    "savantId": 624585,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 580,
+      "xba": 0.262,
+      "xwoba": 0.374,
+      "xiso": 0.27,
+      "avgExitVel": 91.3,
+      "barrelRate": 15,
+      "chaseRate": 25.6,
+      "whiffRate": 27.6,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Edmundo Sosa",
+    "name": {
+      "first": "Edmundo",
+      "last": "Sosa",
+      "raw": "Sosa, Edmundo"
+    },
+    "savantId": 624641,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 300,
+      "xba": 0.238,
+      "xwoba": 0.292,
+      "xiso": 0.154,
+      "avgExitVel": 86.8,
+      "barrelRate": 6.7,
+      "chaseRate": 43.1,
+      "whiffRate": 28.4,
+      "speed": 29.2
+    }
+  },
+  {
+    "fullName": "Andy Ibáñez",
+    "name": {
+      "first": "Andy",
+      "last": "Ibáñez",
+      "raw": "Ibáñez, Andy"
+    },
+    "savantId": 628451,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 383,
+      "xba": 0.271,
+      "xwoba": 0.331,
+      "xiso": 0.175,
+      "avgExitVel": 89.1,
+      "barrelRate": 9,
+      "chaseRate": 35,
+      "whiffRate": 22.6,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Jake Cronenworth",
+    "name": {
+      "first": "Jake",
+      "last": "Cronenworth",
+      "raw": "Cronenworth, Jake"
+    },
+    "savantId": 630105,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 522,
+      "xba": 0.238,
+      "xwoba": 0.305,
+      "xiso": 0.131,
+      "avgExitVel": 87.4,
+      "barrelRate": 4.4,
+      "chaseRate": 26.4,
+      "whiffRate": 15.9,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Tim Anderson",
+    "name": {
+      "first": "Tim",
+      "last": "Anderson",
+      "raw": "Anderson, Tim"
+    },
+    "savantId": 641313,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 524,
+      "xba": 0.258,
+      "xwoba": 0.284,
+      "xiso": 0.083,
+      "avgExitVel": 87.8,
+      "barrelRate": 2.9,
+      "chaseRate": 35.3,
+      "whiffRate": 25.3,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Jake Bauers",
+    "name": {
+      "first": "Jake",
+      "last": "Bauers",
+      "raw": "Bauers, Jake"
+    },
+    "savantId": 641343,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 272,
+      "xba": 0.23,
+      "xwoba": 0.336,
+      "xiso": 0.25,
+      "avgExitVel": 89.1,
+      "barrelRate": 18.7,
+      "chaseRate": 24.6,
+      "whiffRate": 33.3,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Cody Bellinger",
+    "name": {
+      "first": "Cody",
+      "last": "Bellinger",
+      "raw": "Bellinger, Cody"
+    },
+    "savantId": 641355,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 556,
+      "xba": 0.268,
+      "xwoba": 0.327,
+      "xiso": 0.165,
+      "avgExitVel": 87.9,
+      "barrelRate": 6.1,
+      "chaseRate": 31,
+      "whiffRate": 20.1,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "J.P. Crawford",
+    "name": {
+      "first": "J.P.",
+      "last": "Crawford",
+      "raw": "Crawford, J.P."
+    },
+    "savantId": 641487,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 638,
+      "xba": 0.26,
+      "xwoba": 0.34,
+      "xiso": 0.124,
+      "avgExitVel": 88.3,
+      "barrelRate": 4.8,
+      "chaseRate": 18.6,
+      "whiffRate": 18.6,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Jason Delay",
+    "name": {
+      "first": "Jason",
+      "last": "Delay",
+      "raw": "Delay, Jason"
+    },
+    "savantId": 641511,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 187,
+      "xba": 0.213,
+      "xwoba": 0.263,
+      "xiso": 0.085,
+      "avgExitVel": 83.8,
+      "barrelRate": 3.2,
+      "chaseRate": 31.4,
+      "whiffRate": 25.6,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Jake Fraley",
+    "name": {
+      "first": "Jake",
+      "last": "Fraley",
+      "raw": "Fraley, Jake"
+    },
+    "savantId": 641584,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 380,
+      "xba": 0.261,
+      "xwoba": 0.328,
+      "xiso": 0.141,
+      "avgExitVel": 84.6,
+      "barrelRate": 6.4,
+      "chaseRate": 30.1,
+      "whiffRate": 24.1,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Mitch Garver",
+    "name": {
+      "first": "Mitch",
+      "last": "Garver",
+      "raw": "Garver, Mitch"
+    },
+    "savantId": 641598,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 344,
+      "xba": 0.255,
+      "xwoba": 0.365,
+      "xiso": 0.238,
+      "avgExitVel": 90,
+      "barrelRate": 12.6,
+      "chaseRate": 17.4,
+      "whiffRate": 23.7,
+      "speed": 25.7
+    }
+  },
+  {
+    "fullName": "Garrett Hampson",
+    "name": {
+      "first": "Garrett",
+      "last": "Hampson",
+      "raw": "Hampson, Garrett"
+    },
+    "savantId": 641658,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 252,
+      "xba": 0.239,
+      "xwoba": 0.291,
+      "xiso": 0.09,
+      "avgExitVel": 86.6,
+      "barrelRate": 3.1,
+      "chaseRate": 25.5,
+      "whiffRate": 26.1,
+      "speed": 29.8
+    }
+  },
+  {
+    "fullName": "Jonah Heim",
+    "name": {
+      "first": "Jonah",
+      "last": "Heim",
+      "raw": "Heim, Jonah"
+    },
+    "savantId": 641680,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 501,
+      "xba": 0.256,
+      "xwoba": 0.324,
+      "xiso": 0.179,
+      "avgExitVel": 89.2,
+      "barrelRate": 8,
+      "chaseRate": 30.5,
+      "whiffRate": 22.4,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Trey Mancini III",
+    "name": {
+      "first": "Trey",
+      "last": "Mancini III",
+      "raw": "Mancini III, Trey"
+    },
+    "savantId": 641820,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 263,
+      "xba": 0.213,
+      "xwoba": 0.272,
+      "xiso": 0.116,
+      "avgExitVel": 88.9,
+      "barrelRate": 3.8,
+      "chaseRate": 31.3,
+      "whiffRate": 32.7,
+      "speed": 25.4
+    }
+  },
+  {
+    "fullName": "Ryan McMahon",
+    "name": {
+      "first": "Ryan",
+      "last": "McMahon",
+      "raw": "McMahon, Ryan"
+    },
+    "savantId": 641857,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 627,
+      "xba": 0.245,
+      "xwoba": 0.335,
+      "xiso": 0.201,
+      "avgExitVel": 90.8,
+      "barrelRate": 11.4,
+      "chaseRate": 25.4,
+      "whiffRate": 32.2,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Tyler O'Neill",
+    "name": {
+      "first": "Tyler",
+      "last": "O'Neill",
+      "raw": "O'Neill, Tyler"
+    },
+    "savantId": 641933,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 266,
+      "xba": 0.25,
+      "xwoba": 0.337,
+      "xiso": 0.199,
+      "avgExitVel": 89.2,
+      "barrelRate": 12.3,
+      "chaseRate": 25.3,
+      "whiffRate": 27.8,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Joshua Palacios",
+    "name": {
+      "first": "Joshua",
+      "last": "Palacios",
+      "raw": "Palacios, Joshua"
+    },
+    "savantId": 641943,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 264,
+      "xba": 0.259,
+      "xwoba": 0.318,
+      "xiso": 0.179,
+      "avgExitVel": 91.3,
+      "barrelRate": 9.8,
+      "chaseRate": 30.2,
+      "whiffRate": 26.7,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Dominic Smith",
+    "name": {
+      "first": "Dominic",
+      "last": "Smith",
+      "raw": "Smith, Dominic"
+    },
+    "savantId": 642086,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 586,
+      "xba": 0.256,
+      "xwoba": 0.32,
+      "xiso": 0.141,
+      "avgExitVel": 86.3,
+      "barrelRate": 6.6,
+      "chaseRate": 30.3,
+      "whiffRate": 19.9,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Rowdy Tellez",
+    "name": {
+      "first": "Rowdy",
+      "last": "Tellez",
+      "raw": "Tellez, Rowdy"
+    },
+    "savantId": 642133,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 351,
+      "xba": 0.238,
+      "xwoba": 0.306,
+      "xiso": 0.136,
+      "avgExitVel": 89.9,
+      "barrelRate": 8.7,
+      "chaseRate": 24.2,
+      "whiffRate": 21.9,
+      "speed": 23.5
+    }
+  },
+  {
+    "fullName": "Matt Thaiss",
+    "name": {
+      "first": "Matt",
+      "last": "Thaiss",
+      "raw": "Thaiss, Matt"
+    },
+    "savantId": 642136,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 307,
+      "xba": 0.232,
+      "xwoba": 0.331,
+      "xiso": 0.177,
+      "avgExitVel": 88.5,
+      "barrelRate": 10.4,
+      "chaseRate": 19,
+      "whiffRate": 33.6,
+      "speed": 24.7
+    }
+  },
+  {
+    "fullName": "Francisco Mejía",
+    "name": {
+      "first": "Francisco",
+      "last": "Mejía",
+      "raw": "Mejía, Francisco"
+    },
+    "savantId": 642336,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 160,
+      "xba": 0.204,
+      "xwoba": 0.243,
+      "xiso": 0.115,
+      "avgExitVel": 87.5,
+      "barrelRate": 4.3,
+      "chaseRate": 48.8,
+      "whiffRate": 22.1,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Jose Siri",
+    "name": {
+      "first": "Jose",
+      "last": "Siri",
+      "raw": "Siri, Jose"
+    },
+    "savantId": 642350,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 364,
+      "xba": 0.212,
+      "xwoba": 0.298,
+      "xiso": 0.23,
+      "avgExitVel": 88.4,
+      "barrelRate": 13.2,
+      "chaseRate": 37.9,
+      "whiffRate": 40.1,
+      "speed": 29.7
+    }
+  },
+  {
+    "fullName": "Amed Rosario",
+    "name": {
+      "first": "Amed",
+      "last": "Rosario",
+      "raw": "Rosario, Amed"
+    },
+    "savantId": 642708,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 545,
+      "xba": 0.271,
+      "xwoba": 0.305,
+      "xiso": 0.109,
+      "avgExitVel": 88.3,
+      "barrelRate": 3.4,
+      "chaseRate": 39.4,
+      "whiffRate": 23.1,
+      "speed": 29.4
+    }
+  },
+  {
+    "fullName": "Willy Adames",
+    "name": {
+      "first": "Willy",
+      "last": "Adames",
+      "raw": "Adames, Willy"
+    },
+    "savantId": 642715,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 638,
+      "xba": 0.24,
+      "xwoba": 0.335,
+      "xiso": 0.196,
+      "avgExitVel": 87.4,
+      "barrelRate": 12.4,
+      "chaseRate": 31.8,
+      "whiffRate": 31,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Thairo Estrada",
+    "name": {
+      "first": "Thairo",
+      "last": "Estrada",
+      "raw": "Estrada, Thairo"
+    },
+    "savantId": 642731,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 530,
+      "xba": 0.248,
+      "xwoba": 0.292,
+      "xiso": 0.123,
+      "avgExitVel": 85.9,
+      "barrelRate": 4.8,
+      "chaseRate": 38,
+      "whiffRate": 21.1,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Andrew Benintendi",
+    "name": {
+      "first": "Andrew",
+      "last": "Benintendi",
+      "raw": "Benintendi, Andrew"
+    },
+    "savantId": 643217,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 621,
+      "xba": 0.27,
+      "xwoba": 0.31,
+      "xiso": 0.105,
+      "avgExitVel": 86.6,
+      "barrelRate": 2.9,
+      "chaseRate": 26.6,
+      "whiffRate": 19.3,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Garrett Cooper",
+    "name": {
+      "first": "Garrett",
+      "last": "Cooper",
+      "raw": "Cooper, Garrett"
+    },
+    "savantId": 643265,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 457,
+      "xba": 0.252,
+      "xwoba": 0.318,
+      "xiso": 0.178,
+      "avgExitVel": 89,
+      "barrelRate": 10.3,
+      "chaseRate": 39.5,
+      "whiffRate": 30.7,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Mauricio Dubón",
+    "name": {
+      "first": "Mauricio",
+      "last": "Dubón",
+      "raw": "Dubón, Mauricio"
+    },
+    "savantId": 643289,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 492,
+      "xba": 0.275,
+      "xwoba": 0.303,
+      "xiso": 0.114,
+      "avgExitVel": 87,
+      "barrelRate": 4.5,
+      "chaseRate": 40.7,
+      "whiffRate": 17.5,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Danny Jansen",
+    "name": {
+      "first": "Danny",
+      "last": "Jansen",
+      "raw": "Jansen, Danny"
+    },
+    "savantId": 643376,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 301,
+      "xba": 0.219,
+      "xwoba": 0.316,
+      "xiso": 0.202,
+      "avgExitVel": 88.3,
+      "barrelRate": 10.7,
+      "chaseRate": 25,
+      "whiffRate": 22.9,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Tony Kemp",
+    "name": {
+      "first": "Tony",
+      "last": "Kemp",
+      "raw": "Kemp, Tony"
+    },
+    "savantId": 643393,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 419,
+      "xba": 0.241,
+      "xwoba": 0.297,
+      "xiso": 0.081,
+      "avgExitVel": 86.7,
+      "barrelRate": 1.2,
+      "chaseRate": 23.7,
+      "whiffRate": 14.5,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Isiah Kiner-Falefa",
+    "name": {
+      "first": "Isiah",
+      "last": "Kiner-Falefa",
+      "raw": "Kiner-Falefa, Isiah"
+    },
+    "savantId": 643396,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 361,
+      "xba": 0.254,
+      "xwoba": 0.295,
+      "xiso": 0.093,
+      "avgExitVel": 88.8,
+      "barrelRate": 3.1,
+      "chaseRate": 26.5,
+      "whiffRate": 19.6,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Jeff McNeil",
+    "name": {
+      "first": "Jeff",
+      "last": "McNeil",
+      "raw": "McNeil, Jeff"
+    },
+    "savantId": 643446,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 648,
+      "xba": 0.251,
+      "xwoba": 0.294,
+      "xiso": 0.09,
+      "avgExitVel": 86,
+      "barrelRate": 1.3,
+      "chaseRate": 29.9,
+      "whiffRate": 13.4,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Mike Tauchman",
+    "name": {
+      "first": "Mike",
+      "last": "Tauchman",
+      "raw": "Tauchman, Mike"
+    },
+    "savantId": 643565,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 401,
+      "xba": 0.267,
+      "xwoba": 0.345,
+      "xiso": 0.133,
+      "avgExitVel": 88.4,
+      "barrelRate": 5.5,
+      "chaseRate": 18.8,
+      "whiffRate": 24.5,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Ozzie Albies",
+    "name": {
+      "first": "Ozzie",
+      "last": "Albies",
+      "raw": "Albies, Ozzie"
+    },
+    "savantId": 645277,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 660,
+      "xba": 0.266,
+      "xwoba": 0.34,
+      "xiso": 0.201,
+      "avgExitVel": 88.7,
+      "barrelRate": 8.2,
+      "chaseRate": 35.1,
+      "whiffRate": 20.6,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Mike Ford",
+    "name": {
+      "first": "Mike",
+      "last": "Ford",
+      "raw": "Ford, Mike"
+    },
+    "savantId": 645801,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 251,
+      "xba": 0.204,
+      "xwoba": 0.315,
+      "xiso": 0.215,
+      "avgExitVel": 88.8,
+      "barrelRate": 17.3,
+      "chaseRate": 22.9,
+      "whiffRate": 30.4,
+      "speed": 24.5
+    }
+  },
+  {
+    "fullName": "Rafael Devers",
+    "name": {
+      "first": "Rafael",
+      "last": "Devers",
+      "raw": "Devers, Rafael"
+    },
+    "savantId": 646240,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 656,
+      "xba": 0.282,
+      "xwoba": 0.38,
+      "xiso": 0.257,
+      "avgExitVel": 93.1,
+      "barrelRate": 12.7,
+      "chaseRate": 32.5,
+      "whiffRate": 26.1,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Josh Naylor",
+    "name": {
+      "first": "Josh",
+      "last": "Naylor",
+      "raw": "Naylor, Josh"
+    },
+    "savantId": 647304,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 495,
+      "xba": 0.293,
+      "xwoba": 0.346,
+      "xiso": 0.185,
+      "avgExitVel": 89.1,
+      "barrelRate": 8.2,
+      "chaseRate": 39.5,
+      "whiffRate": 19.8,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Aledmys Díaz",
+    "name": {
+      "first": "Aledmys",
+      "last": "Díaz",
+      "raw": "Díaz, Aledmys"
+    },
+    "savantId": 649557,
+    "age": 32,
+    "data": {
+      "recordYear": 2023,
+      "pa": 344,
+      "xba": 0.235,
+      "xwoba": 0.271,
+      "xiso": 0.092,
+      "avgExitVel": 87.8,
+      "barrelRate": 2.8,
+      "chaseRate": 34.3,
+      "whiffRate": 22.3,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Luis Urías",
+    "name": {
+      "first": "Luis",
+      "last": "Urías",
+      "raw": "Urías, Luis"
+    },
+    "savantId": 649966,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 177,
+      "xba": 0.182,
+      "xwoba": 0.297,
+      "xiso": 0.129,
+      "avgExitVel": 84.9,
+      "barrelRate": 5.8,
+      "chaseRate": 24.3,
+      "whiffRate": 26.4,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Luis Arraez",
+    "name": {
+      "first": "Luis",
+      "last": "Arraez",
+      "raw": "Arraez, Luis"
+    },
+    "savantId": 650333,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 617,
+      "xba": 0.329,
+      "xwoba": 0.354,
+      "xiso": 0.129,
+      "avgExitVel": 88.3,
+      "barrelRate": 3.5,
+      "chaseRate": 31.8,
+      "whiffRate": 7.8,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Eloy Jiménez",
+    "name": {
+      "first": "Eloy",
+      "last": "Jiménez",
+      "raw": "Jiménez, Eloy"
+    },
+    "savantId": 650391,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 489,
+      "xba": 0.258,
+      "xwoba": 0.314,
+      "xiso": 0.168,
+      "avgExitVel": 90.9,
+      "barrelRate": 9.3,
+      "chaseRate": 36.6,
+      "whiffRate": 29.7,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Gleyber Torres",
+    "name": {
+      "first": "Gleyber",
+      "last": "Torres",
+      "raw": "Torres, Gleyber"
+    },
+    "savantId": 650402,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 672,
+      "xba": 0.282,
+      "xwoba": 0.362,
+      "xiso": 0.196,
+      "avgExitVel": 89.7,
+      "barrelRate": 7.9,
+      "chaseRate": 25.9,
+      "whiffRate": 21.8,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Willi Castro",
+    "name": {
+      "first": "Willi",
+      "last": "Castro",
+      "raw": "Castro, Willi"
+    },
+    "savantId": 650489,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 409,
+      "xba": 0.234,
+      "xwoba": 0.304,
+      "xiso": 0.131,
+      "avgExitVel": 86.5,
+      "barrelRate": 6.8,
+      "chaseRate": 34.6,
+      "whiffRate": 27.9,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Yandy Díaz",
+    "name": {
+      "first": "Yandy",
+      "last": "Díaz",
+      "raw": "Díaz, Yandy"
+    },
+    "savantId": 650490,
+    "age": 31,
+    "data": {
+      "recordYear": 2023,
+      "pa": 600,
+      "xba": 0.305,
+      "xwoba": 0.383,
+      "xiso": 0.182,
+      "avgExitVel": 93.4,
+      "barrelRate": 9.5,
+      "chaseRate": 19.7,
+      "whiffRate": 18.3,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Bryan De La Cruz",
+    "name": {
+      "first": "Bryan",
+      "last": "De La Cruz",
+      "raw": "De La Cruz, Bryan"
+    },
+    "savantId": 650559,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 626,
+      "xba": 0.273,
+      "xwoba": 0.331,
+      "xiso": 0.172,
+      "avgExitVel": 89.9,
+      "barrelRate": 8.8,
+      "chaseRate": 34.3,
+      "whiffRate": 28.7,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Luis Rengifo",
+    "name": {
+      "first": "Luis",
+      "last": "Rengifo",
+      "raw": "Rengifo, Luis"
+    },
+    "savantId": 650859,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 445,
+      "xba": 0.246,
+      "xwoba": 0.323,
+      "xiso": 0.158,
+      "avgExitVel": 89.1,
+      "barrelRate": 7.6,
+      "chaseRate": 28.7,
+      "whiffRate": 24.5,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Andruw Monasterio",
+    "name": {
+      "first": "Andruw",
+      "last": "Monasterio",
+      "raw": "Monasterio, Andruw"
+    },
+    "savantId": 655316,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 315,
+      "xba": 0.248,
+      "xwoba": 0.308,
+      "xiso": 0.125,
+      "avgExitVel": 88.8,
+      "barrelRate": 5.5,
+      "chaseRate": 22.3,
+      "whiffRate": 21.7,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Riley Adams",
+    "name": {
+      "first": "Riley",
+      "last": "Adams",
+      "raw": "Adams, Riley"
+    },
+    "savantId": 656180,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 158,
+      "xba": 0.224,
+      "xwoba": 0.281,
+      "xiso": 0.126,
+      "avgExitVel": 89.9,
+      "barrelRate": 5,
+      "chaseRate": 34.4,
+      "whiffRate": 28.3,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Matt Chapman",
+    "name": {
+      "first": "Matt",
+      "last": "Chapman",
+      "raw": "Chapman, Matt"
+    },
+    "savantId": 656305,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 581,
+      "xba": 0.23,
+      "xwoba": 0.337,
+      "xiso": 0.228,
+      "avgExitVel": 93.4,
+      "barrelRate": 17.1,
+      "chaseRate": 18.9,
+      "whiffRate": 31.1,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Stuart Fairchild",
+    "name": {
+      "first": "Stuart",
+      "last": "Fairchild",
+      "raw": "Fairchild, Stuart"
+    },
+    "savantId": 656413,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 255,
+      "xba": 0.231,
+      "xwoba": 0.314,
+      "xiso": 0.154,
+      "avgExitVel": 85.9,
+      "barrelRate": 7.7,
+      "chaseRate": 24.4,
+      "whiffRate": 33.9,
+      "speed": 29.2
+    }
+  },
+  {
+    "fullName": "Stone Garrett",
+    "name": {
+      "first": "Stone",
+      "last": "Garrett",
+      "raw": "Garrett, Stone"
+    },
+    "savantId": 656448,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 271,
+      "xba": 0.263,
+      "xwoba": 0.345,
+      "xiso": 0.177,
+      "avgExitVel": 91.1,
+      "barrelRate": 9.6,
+      "chaseRate": 33.6,
+      "whiffRate": 32.6,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Connor Joe",
+    "name": {
+      "first": "Connor",
+      "last": "Joe",
+      "raw": "Joe, Connor"
+    },
+    "savantId": 656582,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 472,
+      "xba": 0.248,
+      "xwoba": 0.329,
+      "xiso": 0.155,
+      "avgExitVel": 88.9,
+      "barrelRate": 8.2,
+      "chaseRate": 19.6,
+      "whiffRate": 23.6,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Zach McKinstry",
+    "name": {
+      "first": "Zach",
+      "last": "McKinstry",
+      "raw": "McKinstry, Zach"
+    },
+    "savantId": 656716,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 518,
+      "xba": 0.247,
+      "xwoba": 0.312,
+      "xiso": 0.148,
+      "avgExitVel": 87.2,
+      "barrelRate": 7.6,
+      "chaseRate": 27.1,
+      "whiffRate": 20.4,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Cedric Mullins II",
+    "name": {
+      "first": "Cedric",
+      "last": "Mullins II",
+      "raw": "Mullins II, Cedric"
+    },
+    "savantId": 656775,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 455,
+      "xba": 0.226,
+      "xwoba": 0.289,
+      "xiso": 0.126,
+      "avgExitVel": 88.9,
+      "barrelRate": 6.5,
+      "chaseRate": 26.7,
+      "whiffRate": 24.8,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Ryan O'Hearn",
+    "name": {
+      "first": "Ryan",
+      "last": "O'Hearn",
+      "raw": "O'Hearn, Ryan"
+    },
+    "savantId": 656811,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 368,
+      "xba": 0.26,
+      "xwoba": 0.321,
+      "xiso": 0.199,
+      "avgExitVel": 91.9,
+      "barrelRate": 10.1,
+      "chaseRate": 30.9,
+      "whiffRate": 23.3,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Emmanuel Rivera",
+    "name": {
+      "first": "Emmanuel",
+      "last": "Rivera",
+      "raw": "Rivera, Emmanuel"
+    },
+    "savantId": 656896,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 283,
+      "xba": 0.263,
+      "xwoba": 0.312,
+      "xiso": 0.132,
+      "avgExitVel": 90.7,
+      "barrelRate": 5.9,
+      "chaseRate": 27.1,
+      "whiffRate": 26.7,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Kyle Schwarber",
+    "name": {
+      "first": "Kyle",
+      "last": "Schwarber",
+      "raw": "Schwarber, Kyle"
+    },
+    "savantId": 656941,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 720,
+      "xba": 0.22,
+      "xwoba": 0.364,
+      "xiso": 0.266,
+      "avgExitVel": 92.4,
+      "barrelRate": 16.4,
+      "chaseRate": 21.6,
+      "whiffRate": 31.5,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Pavin Smith",
+    "name": {
+      "first": "Pavin",
+      "last": "Smith",
+      "raw": "Smith, Pavin"
+    },
+    "savantId": 656976,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 228,
+      "xba": 0.228,
+      "xwoba": 0.33,
+      "xiso": 0.164,
+      "avgExitVel": 89.9,
+      "barrelRate": 7.5,
+      "chaseRate": 23.2,
+      "whiffRate": 20.1,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Lane Thomas",
+    "name": {
+      "first": "Lane",
+      "last": "Thomas",
+      "raw": "Thomas, Lane"
+    },
+    "savantId": 657041,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 682,
+      "xba": 0.255,
+      "xwoba": 0.319,
+      "xiso": 0.182,
+      "avgExitVel": 88.5,
+      "barrelRate": 9.6,
+      "chaseRate": 27.2,
+      "whiffRate": 23,
+      "speed": 29.3
+    }
+  },
+  {
+    "fullName": "Alex Verdugo",
+    "name": {
+      "first": "Alex",
+      "last": "Verdugo",
+      "raw": "Verdugo, Alex"
+    },
+    "savantId": 657077,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 602,
+      "xba": 0.278,
+      "xwoba": 0.331,
+      "xiso": 0.139,
+      "avgExitVel": 89.2,
+      "barrelRate": 5,
+      "chaseRate": 22.2,
+      "whiffRate": 15.6,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Connor Wong",
+    "name": {
+      "first": "Connor",
+      "last": "Wong",
+      "raw": "Wong, Connor"
+    },
+    "savantId": 657136,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 403,
+      "xba": 0.211,
+      "xwoba": 0.274,
+      "xiso": 0.15,
+      "avgExitVel": 89.1,
+      "barrelRate": 9.1,
+      "chaseRate": 34.5,
+      "whiffRate": 32.3,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Paul DeJong",
+    "name": {
+      "first": "Paul",
+      "last": "DeJong",
+      "raw": "DeJong, Paul"
+    },
+    "savantId": 657557,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 400,
+      "xba": 0.219,
+      "xwoba": 0.278,
+      "xiso": 0.142,
+      "avgExitVel": 85.5,
+      "barrelRate": 6.7,
+      "chaseRate": 35.8,
+      "whiffRate": 35.4,
+      "speed": 26.8
+    }
+  },
+  {
+    "fullName": "Ramón Laureano",
+    "name": {
+      "first": "Ramón",
+      "last": "Laureano",
+      "raw": "Laureano, Ramón"
+    },
+    "savantId": 657656,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 404,
+      "xba": 0.232,
+      "xwoba": 0.307,
+      "xiso": 0.148,
+      "avgExitVel": 88.2,
+      "barrelRate": 9.7,
+      "chaseRate": 27,
+      "whiffRate": 29,
+      "speed": 27.9
+    }
+  },
+  {
+    "fullName": "Gavin Sheets",
+    "name": {
+      "first": "Gavin",
+      "last": "Sheets",
+      "raw": "Sheets, Gavin"
+    },
+    "savantId": 657757,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 344,
+      "xba": 0.21,
+      "xwoba": 0.267,
+      "xiso": 0.129,
+      "avgExitVel": 88.1,
+      "barrelRate": 5.2,
+      "chaseRate": 29.7,
+      "whiffRate": 21.7,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Edward Olivares",
+    "name": {
+      "first": "Edward",
+      "last": "Olivares",
+      "raw": "Olivares, Edward"
+    },
+    "savantId": 658668,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 385,
+      "xba": 0.27,
+      "xwoba": 0.338,
+      "xiso": 0.185,
+      "avgExitVel": 87.3,
+      "barrelRate": 7.9,
+      "chaseRate": 31,
+      "whiffRate": 22.9,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Yoán Moncada",
+    "name": {
+      "first": "Yoán",
+      "last": "Moncada",
+      "raw": "Moncada, Yoán"
+    },
+    "savantId": 660162,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 357,
+      "xba": 0.257,
+      "xwoba": 0.314,
+      "xiso": 0.169,
+      "avgExitVel": 89.4,
+      "barrelRate": 10.1,
+      "chaseRate": 28.2,
+      "whiffRate": 30.7,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Shohei Ohtani",
+    "name": {
+      "first": "Shohei",
+      "last": "Ohtani",
+      "raw": "Ohtani, Shohei"
+    },
+    "savantId": 660271,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 599,
+      "xba": 0.295,
+      "xwoba": 0.427,
+      "xiso": 0.343,
+      "avgExitVel": 94.4,
+      "barrelRate": 19.6,
+      "chaseRate": 29.7,
+      "whiffRate": 32.3,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Ronald Acuña Jr.",
+    "name": {
+      "first": "Ronald",
+      "last": "Acuña Jr.",
+      "raw": "Acuña Jr., Ronald"
+    },
+    "savantId": 660670,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 735,
+      "xba": 0.357,
+      "xwoba": 0.46,
+      "xiso": 0.303,
+      "avgExitVel": 94.7,
+      "barrelRate": 15.3,
+      "chaseRate": 22.6,
+      "whiffRate": 18.7,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Keibert Ruiz",
+    "name": {
+      "first": "Keibert",
+      "last": "Ruiz",
+      "raw": "Ruiz, Keibert"
+    },
+    "savantId": 660688,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 562,
+      "xba": 0.274,
+      "xwoba": 0.322,
+      "xiso": 0.15,
+      "avgExitVel": 87.4,
+      "barrelRate": 5.8,
+      "chaseRate": 36.5,
+      "whiffRate": 14.3,
+      "speed": 25.1
+    }
+  },
+  {
+    "fullName": "Elehuris Montero",
+    "name": {
+      "first": "Elehuris",
+      "last": "Montero",
+      "raw": "Montero, Elehuris"
+    },
+    "savantId": 660707,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 307,
+      "xba": 0.201,
+      "xwoba": 0.254,
+      "xiso": 0.115,
+      "avgExitVel": 88.3,
+      "barrelRate": 6.8,
+      "chaseRate": 43.2,
+      "whiffRate": 39.3,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Oscar Gonzalez",
+    "name": {
+      "first": "Oscar",
+      "last": "Gonzalez",
+      "raw": "Gonzalez, Oscar"
+    },
+    "savantId": 660757,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 180,
+      "xba": 0.237,
+      "xwoba": 0.271,
+      "xiso": 0.125,
+      "avgExitVel": 88.5,
+      "barrelRate": 7.8,
+      "chaseRate": 48.8,
+      "whiffRate": 30.4,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Jesús Sánchez",
+    "name": {
+      "first": "Jesús",
+      "last": "Sánchez",
+      "raw": "Sánchez, Jesús"
+    },
+    "savantId": 660821,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 402,
+      "xba": 0.269,
+      "xwoba": 0.353,
+      "xiso": 0.208,
+      "avgExitVel": 90.4,
+      "barrelRate": 12.2,
+      "chaseRate": 31.4,
+      "whiffRate": 30.1,
+      "speed": 27.5
+    }
+  },
+  {
+    "fullName": "William Contreras",
+    "name": {
+      "first": "William",
+      "last": "Contreras",
+      "raw": "Contreras, William"
+    },
+    "savantId": 661388,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 611,
+      "xba": 0.255,
+      "xwoba": 0.335,
+      "xiso": 0.179,
+      "avgExitVel": 91.3,
+      "barrelRate": 9.4,
+      "chaseRate": 24.7,
+      "whiffRate": 28,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Daulton Varsho",
+    "name": {
+      "first": "Daulton",
+      "last": "Varsho",
+      "raw": "Varsho, Daulton"
+    },
+    "savantId": 662139,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 581,
+      "xba": 0.232,
+      "xwoba": 0.302,
+      "xiso": 0.161,
+      "avgExitVel": 87.8,
+      "barrelRate": 7.3,
+      "chaseRate": 28.1,
+      "whiffRate": 24.5,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Blake Perkins",
+    "name": {
+      "first": "Blake",
+      "last": "Perkins",
+      "raw": "Perkins, Blake"
+    },
+    "savantId": 663368,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 168,
+      "xba": 0.194,
+      "xwoba": 0.279,
+      "xiso": 0.107,
+      "avgExitVel": 85.8,
+      "barrelRate": 5.1,
+      "chaseRate": 16.8,
+      "whiffRate": 22.9,
+      "speed": 30
+    }
+  },
+  {
+    "fullName": "Lars Nootbaar",
+    "name": {
+      "first": "Lars",
+      "last": "Nootbaar",
+      "raw": "Nootbaar, Lars"
+    },
+    "savantId": 663457,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 503,
+      "xba": 0.265,
+      "xwoba": 0.356,
+      "xiso": 0.171,
+      "avgExitVel": 89.1,
+      "barrelRate": 8.8,
+      "chaseRate": 17.1,
+      "whiffRate": 18.2,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Nico Hoerner",
+    "name": {
+      "first": "Nico",
+      "last": "Hoerner",
+      "raw": "Hoerner, Nico"
+    },
+    "savantId": 663538,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 688,
+      "xba": 0.273,
+      "xwoba": 0.311,
+      "xiso": 0.083,
+      "avgExitVel": 86.6,
+      "barrelRate": 1.8,
+      "chaseRate": 30.5,
+      "whiffRate": 12.4,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Austin Riley",
+    "name": {
+      "first": "Austin",
+      "last": "Riley",
+      "raw": "Riley, Austin"
+    },
+    "savantId": 663586,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 715,
+      "xba": 0.273,
+      "xwoba": 0.365,
+      "xiso": 0.243,
+      "avgExitVel": 92.3,
+      "barrelRate": 13.9,
+      "chaseRate": 27.3,
+      "whiffRate": 27.8,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Nick Madrigal",
+    "name": {
+      "first": "Nick",
+      "last": "Madrigal",
+      "raw": "Madrigal, Nick"
+    },
+    "savantId": 663611,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 294,
+      "xba": 0.275,
+      "xwoba": 0.294,
+      "xiso": 0.061,
+      "avgExitVel": 86.2,
+      "barrelRate": 0.8,
+      "chaseRate": 29.6,
+      "whiffRate": 9.4,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Trevor Larnach",
+    "name": {
+      "first": "Trevor",
+      "last": "Larnach",
+      "raw": "Larnach, Trevor"
+    },
+    "savantId": 663616,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 212,
+      "xba": 0.215,
+      "xwoba": 0.323,
+      "xiso": 0.216,
+      "avgExitVel": 90.1,
+      "barrelRate": 13.3,
+      "chaseRate": 23.1,
+      "whiffRate": 36.5,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Ryan Mountcastle",
+    "name": {
+      "first": "Ryan",
+      "last": "Mountcastle",
+      "raw": "Mountcastle, Ryan"
+    },
+    "savantId": 663624,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 470,
+      "xba": 0.273,
+      "xwoba": 0.356,
+      "xiso": 0.23,
+      "avgExitVel": 91.4,
+      "barrelRate": 12.1,
+      "chaseRate": 38.7,
+      "whiffRate": 28.3,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Ke'Bryan Hayes",
+    "name": {
+      "first": "Ke'Bryan",
+      "last": "Hayes",
+      "raw": "Hayes, Ke'Bryan"
+    },
+    "savantId": 663647,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 525,
+      "xba": 0.273,
+      "xwoba": 0.324,
+      "xiso": 0.167,
+      "avgExitVel": 92.2,
+      "barrelRate": 7.4,
+      "chaseRate": 30.7,
+      "whiffRate": 21.2,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Kyle Tucker",
+    "name": {
+      "first": "Kyle",
+      "last": "Tucker",
+      "raw": "Tucker, Kyle"
+    },
+    "savantId": 663656,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 674,
+      "xba": 0.292,
+      "xwoba": 0.386,
+      "xiso": 0.239,
+      "avgExitVel": 90.2,
+      "barrelRate": 10.6,
+      "chaseRate": 21.6,
+      "whiffRate": 18.5,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Jonathan India",
+    "name": {
+      "first": "Jonathan",
+      "last": "India",
+      "raw": "India, Jonathan"
+    },
+    "savantId": 663697,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 529,
+      "xba": 0.252,
+      "xwoba": 0.339,
+      "xiso": 0.172,
+      "avgExitVel": 89.5,
+      "barrelRate": 7.7,
+      "chaseRate": 19.6,
+      "whiffRate": 22,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Cal Raleigh",
+    "name": {
+      "first": "Cal",
+      "last": "Raleigh",
+      "raw": "Raleigh, Cal"
+    },
+    "savantId": 663728,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 569,
+      "xba": 0.233,
+      "xwoba": 0.33,
+      "xiso": 0.233,
+      "avgExitVel": 89.5,
+      "barrelRate": 12.6,
+      "chaseRate": 31.4,
+      "whiffRate": 29.9,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Nick Fortes",
+    "name": {
+      "first": "Nick",
+      "last": "Fortes",
+      "raw": "Fortes, Nick"
+    },
+    "savantId": 663743,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 323,
+      "xba": 0.214,
+      "xwoba": 0.266,
+      "xiso": 0.114,
+      "avgExitVel": 88.2,
+      "barrelRate": 3.8,
+      "chaseRate": 25.6,
+      "whiffRate": 16.5,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Trent Grisham",
+    "name": {
+      "first": "Trent",
+      "last": "Grisham",
+      "raw": "Grisham, Trent"
+    },
+    "savantId": 663757,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 555,
+      "xba": 0.218,
+      "xwoba": 0.322,
+      "xiso": 0.178,
+      "avgExitVel": 90.3,
+      "barrelRate": 11.9,
+      "chaseRate": 21.6,
+      "whiffRate": 28.3,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Matt Vierling",
+    "name": {
+      "first": "Matt",
+      "last": "Vierling",
+      "raw": "Vierling, Matt"
+    },
+    "savantId": 663837,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 530,
+      "xba": 0.266,
+      "xwoba": 0.322,
+      "xiso": 0.13,
+      "avgExitVel": 89.1,
+      "barrelRate": 4.6,
+      "chaseRate": 28.5,
+      "whiffRate": 19.3,
+      "speed": 29.1
+    }
+  },
+  {
+    "fullName": "Tyler Stephenson",
+    "name": {
+      "first": "Tyler",
+      "last": "Stephenson",
+      "raw": "Stephenson, Tyler"
+    },
+    "savantId": 663886,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 517,
+      "xba": 0.243,
+      "xwoba": 0.314,
+      "xiso": 0.154,
+      "avgExitVel": 89.4,
+      "barrelRate": 7.6,
+      "chaseRate": 24.1,
+      "whiffRate": 28.4,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Brendan Rodgers",
+    "name": {
+      "first": "Brendan",
+      "last": "Rodgers",
+      "raw": "Rodgers, Brendan"
+    },
+    "savantId": 663898,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 192,
+      "xba": 0.256,
+      "xwoba": 0.321,
+      "xiso": 0.173,
+      "avgExitVel": 88.3,
+      "barrelRate": 10.9,
+      "chaseRate": 30,
+      "whiffRate": 25.4,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Nathaniel Lowe",
+    "name": {
+      "first": "Nathaniel",
+      "last": "Lowe",
+      "raw": "Lowe, Nathaniel"
+    },
+    "savantId": 663993,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 724,
+      "xba": 0.263,
+      "xwoba": 0.339,
+      "xiso": 0.143,
+      "avgExitVel": 89.8,
+      "barrelRate": 6.5,
+      "chaseRate": 20.8,
+      "whiffRate": 20.6,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Ian Happ",
+    "name": {
+      "first": "Ian",
+      "last": "Happ",
+      "raw": "Happ, Ian"
+    },
+    "savantId": 664023,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 691,
+      "xba": 0.254,
+      "xwoba": 0.35,
+      "xiso": 0.173,
+      "avgExitVel": 89.9,
+      "barrelRate": 9,
+      "chaseRate": 22.9,
+      "whiffRate": 25.2,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Ty France",
+    "name": {
+      "first": "Ty",
+      "last": "France",
+      "raw": "France, Ty"
+    },
+    "savantId": 664034,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 665,
+      "xba": 0.27,
+      "xwoba": 0.342,
+      "xiso": 0.151,
+      "avgExitVel": 87.5,
+      "barrelRate": 6.8,
+      "chaseRate": 33.3,
+      "whiffRate": 21.9,
+      "speed": 25
+    }
+  },
+  {
+    "fullName": "Brandon Lowe",
+    "name": {
+      "first": "Brandon",
+      "last": "Lowe",
+      "raw": "Lowe, Brandon"
+    },
+    "savantId": 664040,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 436,
+      "xba": 0.235,
+      "xwoba": 0.341,
+      "xiso": 0.214,
+      "avgExitVel": 91.4,
+      "barrelRate": 10.7,
+      "chaseRate": 30,
+      "whiffRate": 32,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Harrison Bader",
+    "name": {
+      "first": "Harrison",
+      "last": "Bader",
+      "raw": "Bader, Harrison"
+    },
+    "savantId": 664056,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 344,
+      "xba": 0.234,
+      "xwoba": 0.288,
+      "xiso": 0.141,
+      "avgExitVel": 85.9,
+      "barrelRate": 5.3,
+      "chaseRate": 35.6,
+      "whiffRate": 24.6,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Dylan Moore",
+    "name": {
+      "first": "Dylan",
+      "last": "Moore",
+      "raw": "Moore, Dylan"
+    },
+    "savantId": 664238,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 165,
+      "xba": 0.203,
+      "xwoba": 0.317,
+      "xiso": 0.23,
+      "avgExitVel": 89,
+      "barrelRate": 16.9,
+      "chaseRate": 28.5,
+      "whiffRate": 33.4,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Myles Straw",
+    "name": {
+      "first": "Myles",
+      "last": "Straw",
+      "raw": "Straw, Myles"
+    },
+    "savantId": 664702,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 518,
+      "xba": 0.239,
+      "xwoba": 0.272,
+      "xiso": 0.061,
+      "avgExitVel": 86.3,
+      "barrelRate": 0.5,
+      "chaseRate": 23.9,
+      "whiffRate": 14,
+      "speed": 29.2
+    }
+  },
+  {
+    "fullName": "Kyle Isbel",
+    "name": {
+      "first": "Kyle",
+      "last": "Isbel",
+      "raw": "Isbel, Kyle"
+    },
+    "savantId": 664728,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 313,
+      "xba": 0.247,
+      "xwoba": 0.289,
+      "xiso": 0.129,
+      "avgExitVel": 89.4,
+      "barrelRate": 5.5,
+      "chaseRate": 28.7,
+      "whiffRate": 20.5,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Alec Bohm",
+    "name": {
+      "first": "Alec",
+      "last": "Bohm",
+      "raw": "Bohm, Alec"
+    },
+    "savantId": 664761,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 611,
+      "xba": 0.29,
+      "xwoba": 0.343,
+      "xiso": 0.163,
+      "avgExitVel": 89.4,
+      "barrelRate": 5.7,
+      "chaseRate": 30,
+      "whiffRate": 18.1,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "LaMonte Wade Jr.",
+    "name": {
+      "first": "LaMonte",
+      "last": "Wade Jr.",
+      "raw": "Wade Jr., LaMonte"
+    },
+    "savantId": 664774,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 519,
+      "xba": 0.265,
+      "xwoba": 0.363,
+      "xiso": 0.189,
+      "avgExitVel": 88.4,
+      "barrelRate": 9.1,
+      "chaseRate": 17.9,
+      "whiffRate": 20.7,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Seby Zavala",
+    "name": {
+      "first": "Seby",
+      "last": "Zavala",
+      "raw": "Zavala, Seby"
+    },
+    "savantId": 664874,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 193,
+      "xba": 0.188,
+      "xwoba": 0.246,
+      "xiso": 0.117,
+      "avgExitVel": 87.5,
+      "barrelRate": 5.5,
+      "chaseRate": 36.3,
+      "whiffRate": 38.4,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Seth Brown",
+    "name": {
+      "first": "Seth",
+      "last": "Brown",
+      "raw": "Brown, Seth"
+    },
+    "savantId": 664913,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 378,
+      "xba": 0.237,
+      "xwoba": 0.322,
+      "xiso": 0.214,
+      "avgExitVel": 90.5,
+      "barrelRate": 12.2,
+      "chaseRate": 31.1,
+      "whiffRate": 31.3,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Jake McCarthy",
+    "name": {
+      "first": "Jake",
+      "last": "McCarthy",
+      "raw": "McCarthy, Jake"
+    },
+    "savantId": 664983,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 312,
+      "xba": 0.242,
+      "xwoba": 0.293,
+      "xiso": 0.089,
+      "avgExitVel": 85.3,
+      "barrelRate": 2.3,
+      "chaseRate": 31.6,
+      "whiffRate": 21.7,
+      "speed": 30
+    }
+  },
+  {
+    "fullName": "Nick Maton",
+    "name": {
+      "first": "Nick",
+      "last": "Maton",
+      "raw": "Maton, Nick"
+    },
+    "savantId": 665155,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 293,
+      "xba": 0.191,
+      "xwoba": 0.285,
+      "xiso": 0.14,
+      "avgExitVel": 86.1,
+      "barrelRate": 8.4,
+      "chaseRate": 25.9,
+      "whiffRate": 31.2,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Jeremy Peña",
+    "name": {
+      "first": "Jeremy",
+      "last": "Peña",
+      "raw": "Peña, Jeremy"
+    },
+    "savantId": 665161,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 634,
+      "xba": 0.259,
+      "xwoba": 0.305,
+      "xiso": 0.11,
+      "avgExitVel": 88,
+      "barrelRate": 4,
+      "chaseRate": 35.9,
+      "whiffRate": 28.3,
+      "speed": 29.4
+    }
+  },
+  {
+    "fullName": "Fernando Tatis Jr.",
+    "name": {
+      "first": "Fernando",
+      "last": "Tatis Jr.",
+      "raw": "Tatis Jr., Fernando"
+    },
+    "savantId": 665487,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 635,
+      "xba": 0.281,
+      "xwoba": 0.364,
+      "xiso": 0.227,
+      "avgExitVel": 91.9,
+      "barrelRate": 11,
+      "chaseRate": 32.3,
+      "whiffRate": 30.5,
+      "speed": 29.3
+    }
+  },
+  {
+    "fullName": "Vladimir Guerrero Jr.",
+    "name": {
+      "first": "Vladimir",
+      "last": "Guerrero Jr.",
+      "raw": "Guerrero Jr., Vladimir"
+    },
+    "savantId": 665489,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 682,
+      "xba": 0.299,
+      "xwoba": 0.378,
+      "xiso": 0.204,
+      "avgExitVel": 92.1,
+      "barrelRate": 11.1,
+      "chaseRate": 28.8,
+      "whiffRate": 23,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Juan Soto",
+    "name": {
+      "first": "Juan",
+      "last": "Soto",
+      "raw": "Soto, Juan"
+    },
+    "savantId": 665742,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 708,
+      "xba": 0.284,
+      "xwoba": 0.408,
+      "xiso": 0.254,
+      "avgExitVel": 93.2,
+      "barrelRate": 13,
+      "chaseRate": 16.6,
+      "whiffRate": 20.4,
+      "speed": 26.8
+    }
+  },
+  {
+    "fullName": "Leody Taveras",
+    "name": {
+      "first": "Leody",
+      "last": "Taveras",
+      "raw": "Taveras, Leody"
+    },
+    "savantId": 665750,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 554,
+      "xba": 0.27,
+      "xwoba": 0.319,
+      "xiso": 0.136,
+      "avgExitVel": 90.1,
+      "barrelRate": 7.2,
+      "chaseRate": 28.2,
+      "whiffRate": 24.2,
+      "speed": 29.1
+    }
+  },
+  {
+    "fullName": "Miguel Amaya",
+    "name": {
+      "first": "Miguel",
+      "last": "Amaya",
+      "raw": "Amaya, Miguel"
+    },
+    "savantId": 665804,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 156,
+      "xba": 0.232,
+      "xwoba": 0.332,
+      "xiso": 0.161,
+      "avgExitVel": 87,
+      "barrelRate": 9.7,
+      "chaseRate": 28.2,
+      "whiffRate": 27.3,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Oswaldo Cabrera",
+    "name": {
+      "first": "Oswaldo",
+      "last": "Cabrera",
+      "raw": "Cabrera, Oswaldo"
+    },
+    "savantId": 665828,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 330,
+      "xba": 0.211,
+      "xwoba": 0.259,
+      "xiso": 0.098,
+      "avgExitVel": 87.8,
+      "barrelRate": 3.5,
+      "chaseRate": 27.8,
+      "whiffRate": 23.5,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Jazz Chisholm Jr.",
+    "name": {
+      "first": "Jazz",
+      "last": "Chisholm Jr.",
+      "raw": "Chisholm Jr., Jazz"
+    },
+    "savantId": 665862,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 383,
+      "xba": 0.224,
+      "xwoba": 0.307,
+      "xiso": 0.207,
+      "avgExitVel": 90.3,
+      "barrelRate": 12.2,
+      "chaseRate": 27,
+      "whiffRate": 35.7,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Esteury Ruiz",
+    "name": {
+      "first": "Esteury",
+      "last": "Ruiz",
+      "raw": "Ruiz, Esteury"
+    },
+    "savantId": 665923,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 497,
+      "xba": 0.234,
+      "xwoba": 0.271,
+      "xiso": 0.082,
+      "avgExitVel": 82.7,
+      "barrelRate": 2.5,
+      "chaseRate": 34.5,
+      "whiffRate": 25.1,
+      "speed": 29.6
+    }
+  },
+  {
+    "fullName": "Andrés Giménez",
+    "name": {
+      "first": "Andrés",
+      "last": "Giménez",
+      "raw": "Giménez, Andrés"
+    },
+    "savantId": 665926,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 616,
+      "xba": 0.245,
+      "xwoba": 0.297,
+      "xiso": 0.122,
+      "avgExitVel": 84.8,
+      "barrelRate": 5.5,
+      "chaseRate": 40,
+      "whiffRate": 25,
+      "speed": 29.2
+    }
+  },
+  {
+    "fullName": "Freddy Fermin",
+    "name": {
+      "first": "Freddy",
+      "last": "Fermin",
+      "raw": "Fermin, Freddy"
+    },
+    "savantId": 666023,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 235,
+      "xba": 0.277,
+      "xwoba": 0.333,
+      "xiso": 0.18,
+      "avgExitVel": 89.9,
+      "barrelRate": 9.9,
+      "chaseRate": 30,
+      "whiffRate": 24.3,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Nolan Jones",
+    "name": {
+      "first": "Nolan",
+      "last": "Jones",
+      "raw": "Jones, Nolan"
+    },
+    "savantId": 666134,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 424,
+      "xba": 0.249,
+      "xwoba": 0.362,
+      "xiso": 0.25,
+      "avgExitVel": 90.1,
+      "barrelRate": 15.7,
+      "chaseRate": 26.1,
+      "whiffRate": 31.9,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Alex Kirilloff",
+    "name": {
+      "first": "Alex",
+      "last": "Kirilloff",
+      "raw": "Kirilloff, Alex"
+    },
+    "savantId": 666135,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 319,
+      "xba": 0.261,
+      "xwoba": 0.334,
+      "xiso": 0.164,
+      "avgExitVel": 88.6,
+      "barrelRate": 7.4,
+      "chaseRate": 33,
+      "whiffRate": 27.6,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Josh Lowe",
+    "name": {
+      "first": "Josh",
+      "last": "Lowe",
+      "raw": "Lowe, Josh"
+    },
+    "savantId": 666139,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 501,
+      "xba": 0.276,
+      "xwoba": 0.341,
+      "xiso": 0.204,
+      "avgExitVel": 89.1,
+      "barrelRate": 11,
+      "chaseRate": 35.7,
+      "whiffRate": 30.2,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Mickey Moniak",
+    "name": {
+      "first": "Mickey",
+      "last": "Moniak",
+      "raw": "Moniak, Mickey"
+    },
+    "savantId": 666160,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 323,
+      "xba": 0.248,
+      "xwoba": 0.308,
+      "xiso": 0.203,
+      "avgExitVel": 89,
+      "barrelRate": 12.6,
+      "chaseRate": 46.7,
+      "whiffRate": 38.5,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Blake Sabol",
+    "name": {
+      "first": "Blake",
+      "last": "Sabol",
+      "raw": "Sabol, Blake"
+    },
+    "savantId": 666165,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 344,
+      "xba": 0.199,
+      "xwoba": 0.28,
+      "xiso": 0.17,
+      "avgExitVel": 89.1,
+      "barrelRate": 11.2,
+      "chaseRate": 28.1,
+      "whiffRate": 35.4,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Will Benson",
+    "name": {
+      "first": "Will",
+      "last": "Benson",
+      "raw": "Benson, Will"
+    },
+    "savantId": 666181,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 329,
+      "xba": 0.23,
+      "xwoba": 0.321,
+      "xiso": 0.168,
+      "avgExitVel": 90.2,
+      "barrelRate": 10.3,
+      "chaseRate": 19.4,
+      "whiffRate": 31.5,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Bo Bichette",
+    "name": {
+      "first": "Bo",
+      "last": "Bichette",
+      "raw": "Bichette, Bo"
+    },
+    "savantId": 666182,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 601,
+      "xba": 0.312,
+      "xwoba": 0.363,
+      "xiso": 0.19,
+      "avgExitVel": 90.2,
+      "barrelRate": 9.6,
+      "chaseRate": 36.4,
+      "whiffRate": 21.1,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Dylan Carlson",
+    "name": {
+      "first": "Dylan",
+      "last": "Carlson",
+      "raw": "Carlson, Dylan"
+    },
+    "savantId": 666185,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 255,
+      "xba": 0.237,
+      "xwoba": 0.318,
+      "xiso": 0.144,
+      "avgExitVel": 89.3,
+      "barrelRate": 5.8,
+      "chaseRate": 24.9,
+      "whiffRate": 22.6,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Bo Naylor",
+    "name": {
+      "first": "Bo",
+      "last": "Naylor",
+      "raw": "Naylor, Bo"
+    },
+    "savantId": 666310,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 230,
+      "xba": 0.217,
+      "xwoba": 0.309,
+      "xiso": 0.162,
+      "avgExitVel": 87.7,
+      "barrelRate": 8.2,
+      "chaseRate": 23.9,
+      "whiffRate": 21.8,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Edouard Julien",
+    "name": {
+      "first": "Edouard",
+      "last": "Julien",
+      "raw": "Julien, Edouard"
+    },
+    "savantId": 666397,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 408,
+      "xba": 0.233,
+      "xwoba": 0.345,
+      "xiso": 0.194,
+      "avgExitVel": 89.5,
+      "barrelRate": 13.1,
+      "chaseRate": 14.3,
+      "whiffRate": 29.1,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Christopher Morel",
+    "name": {
+      "first": "Christopher",
+      "last": "Morel",
+      "raw": "Morel, Christopher"
+    },
+    "savantId": 666624,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 429,
+      "xba": 0.247,
+      "xwoba": 0.343,
+      "xiso": 0.242,
+      "avgExitVel": 92.1,
+      "barrelRate": 15.9,
+      "chaseRate": 28.9,
+      "whiffRate": 37,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Rodolfo Castro",
+    "name": {
+      "first": "Rodolfo",
+      "last": "Castro",
+      "raw": "Castro, Rodolfo"
+    },
+    "savantId": 666801,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 256,
+      "xba": 0.189,
+      "xwoba": 0.268,
+      "xiso": 0.135,
+      "avgExitVel": 87.2,
+      "barrelRate": 7.8,
+      "chaseRate": 27.4,
+      "whiffRate": 32.9,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Jake Alu",
+    "name": {
+      "first": "Jake",
+      "last": "Alu",
+      "raw": "Alu, Jake"
+    },
+    "savantId": 666906,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 175,
+      "xba": 0.242,
+      "xwoba": 0.283,
+      "xiso": 0.097,
+      "avgExitVel": 88.6,
+      "barrelRate": 2.5,
+      "chaseRate": 32.9,
+      "whiffRate": 26.5,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Adolis García",
+    "name": {
+      "first": "Adolis",
+      "last": "García",
+      "raw": "García, Adolis"
+    },
+    "savantId": 666969,
+    "age": 30,
+    "data": {
+      "recordYear": 2023,
+      "pa": 632,
+      "xba": 0.25,
+      "xwoba": 0.366,
+      "xiso": 0.276,
+      "avgExitVel": 92.1,
+      "barrelRate": 16.1,
+      "chaseRate": 29.3,
+      "whiffRate": 31.6,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Lourdes Gurriel Jr.",
+    "name": {
+      "first": "Lourdes",
+      "last": "Gurriel Jr.",
+      "raw": "Gurriel Jr., Lourdes"
+    },
+    "savantId": 666971,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 592,
+      "xba": 0.264,
+      "xwoba": 0.324,
+      "xiso": 0.175,
+      "avgExitVel": 89.7,
+      "barrelRate": 8.4,
+      "chaseRate": 30.3,
+      "whiffRate": 18.7,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Corey Julks",
+    "name": {
+      "first": "Corey",
+      "last": "Julks",
+      "raw": "Julks, Corey"
+    },
+    "savantId": 667452,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 323,
+      "xba": 0.248,
+      "xwoba": 0.295,
+      "xiso": 0.124,
+      "avgExitVel": 87.9,
+      "barrelRate": 4.9,
+      "chaseRate": 30.2,
+      "whiffRate": 25.4,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Brent Rooker Jr.",
+    "name": {
+      "first": "Brent",
+      "last": "Rooker Jr.",
+      "raw": "Rooker Jr., Brent"
+    },
+    "savantId": 667670,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 526,
+      "xba": 0.237,
+      "xwoba": 0.343,
+      "xiso": 0.241,
+      "avgExitVel": 91.6,
+      "barrelRate": 15.6,
+      "chaseRate": 27.3,
+      "whiffRate": 38.2,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Randy Arozarena",
+    "name": {
+      "first": "Randy",
+      "last": "Arozarena",
+      "raw": "Arozarena, Randy"
+    },
+    "savantId": 668227,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 654,
+      "xba": 0.243,
+      "xwoba": 0.351,
+      "xiso": 0.192,
+      "avgExitVel": 91.7,
+      "barrelRate": 12.3,
+      "chaseRate": 27.5,
+      "whiffRate": 29.1,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Nick Pratto",
+    "name": {
+      "first": "Nick",
+      "last": "Pratto",
+      "raw": "Pratto, Nick"
+    },
+    "savantId": 668472,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 345,
+      "xba": 0.209,
+      "xwoba": 0.278,
+      "xiso": 0.13,
+      "avgExitVel": 87.5,
+      "barrelRate": 8.1,
+      "chaseRate": 27.5,
+      "whiffRate": 35.3,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Jake Rogers",
+    "name": {
+      "first": "Jake",
+      "last": "Rogers",
+      "raw": "Rogers, Jake"
+    },
+    "savantId": 668670,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 365,
+      "xba": 0.227,
+      "xwoba": 0.321,
+      "xiso": 0.223,
+      "avgExitVel": 90.4,
+      "barrelRate": 12,
+      "chaseRate": 22.6,
+      "whiffRate": 31.7,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "JJ Bleday",
+    "name": {
+      "first": "JJ",
+      "last": "Bleday",
+      "raw": "Bleday, JJ"
+    },
+    "savantId": 668709,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 303,
+      "xba": 0.201,
+      "xwoba": 0.298,
+      "xiso": 0.147,
+      "avgExitVel": 88.6,
+      "barrelRate": 6.4,
+      "chaseRate": 20,
+      "whiffRate": 28,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Spencer Steer",
+    "name": {
+      "first": "Spencer",
+      "last": "Steer",
+      "raw": "Steer, Spencer"
+    },
+    "savantId": 668715,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 665,
+      "xba": 0.252,
+      "xwoba": 0.333,
+      "xiso": 0.165,
+      "avgExitVel": 88.7,
+      "barrelRate": 6.7,
+      "chaseRate": 23.9,
+      "whiffRate": 24.1,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Akil Baddoo",
+    "name": {
+      "first": "Akil",
+      "last": "Baddoo",
+      "raw": "Baddoo, Akil"
+    },
+    "savantId": 668731,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 357,
+      "xba": 0.218,
+      "xwoba": 0.301,
+      "xiso": 0.153,
+      "avgExitVel": 88.1,
+      "barrelRate": 6.2,
+      "chaseRate": 25.7,
+      "whiffRate": 24.8,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Andrew Knizner",
+    "name": {
+      "first": "Andrew",
+      "last": "Knizner",
+      "raw": "Knizner, Andrew"
+    },
+    "savantId": 668800,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 241,
+      "xba": 0.221,
+      "xwoba": 0.286,
+      "xiso": 0.17,
+      "avgExitVel": 89.6,
+      "barrelRate": 7.9,
+      "chaseRate": 37,
+      "whiffRate": 27.3,
+      "speed": 25.9
+    }
+  },
+  {
+    "fullName": "Bryan Reynolds",
+    "name": {
+      "first": "Bryan",
+      "last": "Reynolds",
+      "raw": "Reynolds, Bryan"
+    },
+    "savantId": 668804,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 640,
+      "xba": 0.28,
+      "xwoba": 0.36,
+      "xiso": 0.211,
+      "avgExitVel": 90.9,
+      "barrelRate": 11.1,
+      "chaseRate": 25.8,
+      "whiffRate": 28.2,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "Mark Vientos",
+    "name": {
+      "first": "Mark",
+      "last": "Vientos",
+      "raw": "Vientos, Mark"
+    },
+    "savantId": 668901,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 233,
+      "xba": 0.236,
+      "xwoba": 0.304,
+      "xiso": 0.186,
+      "avgExitVel": 92.5,
+      "barrelRate": 10.7,
+      "chaseRate": 36.4,
+      "whiffRate": 36.7,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Royce Lewis",
+    "name": {
+      "first": "Royce",
+      "last": "Lewis",
+      "raw": "Lewis, Royce"
+    },
+    "savantId": 668904,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 239,
+      "xba": 0.265,
+      "xwoba": 0.351,
+      "xiso": 0.216,
+      "avgExitVel": 90.2,
+      "barrelRate": 11.7,
+      "chaseRate": 28.5,
+      "whiffRate": 27.3,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Brice Turang",
+    "name": {
+      "first": "Brice",
+      "last": "Turang",
+      "raw": "Turang, Brice"
+    },
+    "savantId": 668930,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 448,
+      "xba": 0.224,
+      "xwoba": 0.274,
+      "xiso": 0.097,
+      "avgExitVel": 85.5,
+      "barrelRate": 2.9,
+      "chaseRate": 27.3,
+      "whiffRate": 21.5,
+      "speed": 29.4
+    }
+  },
+  {
+    "fullName": "Adley Rutschman",
+    "name": {
+      "first": "Adley",
+      "last": "Rutschman",
+      "raw": "Rutschman, Adley"
+    },
+    "savantId": 668939,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 687,
+      "xba": 0.292,
+      "xwoba": 0.373,
+      "xiso": 0.177,
+      "avgExitVel": 88.4,
+      "barrelRate": 7.5,
+      "chaseRate": 23.4,
+      "whiffRate": 15.6,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Josh Rojas",
+    "name": {
+      "first": "Josh",
+      "last": "Rojas",
+      "raw": "Rojas, Josh"
+    },
+    "savantId": 668942,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 350,
+      "xba": 0.23,
+      "xwoba": 0.278,
+      "xiso": 0.101,
+      "avgExitVel": 87.1,
+      "barrelRate": 3.8,
+      "chaseRate": 25.8,
+      "whiffRate": 24.1,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "MJ Melendez Jr.",
+    "name": {
+      "first": "MJ",
+      "last": "Melendez Jr.",
+      "raw": "Melendez Jr., MJ"
+    },
+    "savantId": 669004,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 602,
+      "xba": 0.235,
+      "xwoba": 0.325,
+      "xiso": 0.197,
+      "avgExitVel": 93.2,
+      "barrelRate": 11.4,
+      "chaseRate": 26.8,
+      "whiffRate": 34.4,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Brandon Marsh",
+    "name": {
+      "first": "Brandon",
+      "last": "Marsh",
+      "raw": "Marsh, Brandon"
+    },
+    "savantId": 669016,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 472,
+      "xba": 0.234,
+      "xwoba": 0.322,
+      "xiso": 0.157,
+      "avgExitVel": 91.3,
+      "barrelRate": 9.1,
+      "chaseRate": 25.5,
+      "whiffRate": 27.3,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Shea Langeliers",
+    "name": {
+      "first": "Shea",
+      "last": "Langeliers",
+      "raw": "Langeliers, Shea"
+    },
+    "savantId": 669127,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 490,
+      "xba": 0.213,
+      "xwoba": 0.3,
+      "xiso": 0.212,
+      "avgExitVel": 90.6,
+      "barrelRate": 13.3,
+      "chaseRate": 31.2,
+      "whiffRate": 32.1,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Luis Campusano",
+    "name": {
+      "first": "Luis",
+      "last": "Campusano",
+      "raw": "Campusano, Luis"
+    },
+    "savantId": 669134,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 174,
+      "xba": 0.305,
+      "xwoba": 0.353,
+      "xiso": 0.159,
+      "avgExitVel": 88.5,
+      "barrelRate": 7.7,
+      "chaseRate": 35.5,
+      "whiffRate": 18.1,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Sean Murphy",
+    "name": {
+      "first": "Sean",
+      "last": "Murphy",
+      "raw": "Murphy, Sean"
+    },
+    "savantId": 669221,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 438,
+      "xba": 0.274,
+      "xwoba": 0.395,
+      "xiso": 0.263,
+      "avgExitVel": 91.5,
+      "barrelRate": 16.1,
+      "chaseRate": 23,
+      "whiffRate": 25.9,
+      "speed": 26
+    }
+  },
+  {
+    "fullName": "Nick Senzel",
+    "name": {
+      "first": "Nick",
+      "last": "Senzel",
+      "raw": "Senzel, Nick"
+    },
+    "savantId": 669222,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 330,
+      "xba": 0.245,
+      "xwoba": 0.296,
+      "xiso": 0.121,
+      "avgExitVel": 87.4,
+      "barrelRate": 4.8,
+      "chaseRate": 26.6,
+      "whiffRate": 21.5,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Tommy Edman",
+    "name": {
+      "first": "Tommy",
+      "last": "Edman",
+      "raw": "Edman, Tommy"
+    },
+    "savantId": 669242,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 528,
+      "xba": 0.262,
+      "xwoba": 0.312,
+      "xiso": 0.128,
+      "avgExitVel": 89.1,
+      "barrelRate": 5,
+      "chaseRate": 28.6,
+      "whiffRate": 16.1,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Will Smith",
+    "name": {
+      "first": "Will",
+      "last": "Smith",
+      "raw": "Smith, Will"
+    },
+    "savantId": 669257,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 554,
+      "xba": 0.262,
+      "xwoba": 0.352,
+      "xiso": 0.174,
+      "avgExitVel": 89.3,
+      "barrelRate": 6.7,
+      "chaseRate": 25,
+      "whiffRate": 19.5,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Jack Suwinski",
+    "name": {
+      "first": "Jack",
+      "last": "Suwinski",
+      "raw": "Suwinski, Jack"
+    },
+    "savantId": 669261,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 534,
+      "xba": 0.218,
+      "xwoba": 0.346,
+      "xiso": 0.244,
+      "avgExitVel": 90.5,
+      "barrelRate": 15.7,
+      "chaseRate": 18.2,
+      "whiffRate": 30.1,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Santiago Espinal",
+    "name": {
+      "first": "Santiago",
+      "last": "Espinal",
+      "raw": "Espinal, Santiago"
+    },
+    "savantId": 669289,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 254,
+      "xba": 0.256,
+      "xwoba": 0.293,
+      "xiso": 0.08,
+      "avgExitVel": 87,
+      "barrelRate": 1,
+      "chaseRate": 25.3,
+      "whiffRate": 17.6,
+      "speed": 26.9
+    }
+  },
+  {
+    "fullName": "Jose Miranda",
+    "name": {
+      "first": "Jose",
+      "last": "Miranda",
+      "raw": "Miranda, Jose"
+    },
+    "savantId": 669304,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 152,
+      "xba": 0.242,
+      "xwoba": 0.281,
+      "xiso": 0.103,
+      "avgExitVel": 87.9,
+      "barrelRate": 4.2,
+      "chaseRate": 34.9,
+      "whiffRate": 25.2,
+      "speed": 26.6
+    }
+  },
+  {
+    "fullName": "Nolan Gorman",
+    "name": {
+      "first": "Nolan",
+      "last": "Gorman",
+      "raw": "Gorman, Nolan"
+    },
+    "savantId": 669357,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 464,
+      "xba": 0.237,
+      "xwoba": 0.354,
+      "xiso": 0.261,
+      "avgExitVel": 91,
+      "barrelRate": 16.5,
+      "chaseRate": 27.7,
+      "whiffRate": 35.5,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Jake Burger",
+    "name": {
+      "first": "Jake",
+      "last": "Burger",
+      "raw": "Burger, Jake"
+    },
+    "savantId": 669394,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 540,
+      "xba": 0.27,
+      "xwoba": 0.359,
+      "xiso": 0.242,
+      "avgExitVel": 91.9,
+      "barrelRate": 16.7,
+      "chaseRate": 38.5,
+      "whiffRate": 34.1,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Nick Allen",
+    "name": {
+      "first": "Nick",
+      "last": "Allen",
+      "raw": "Allen, Nick"
+    },
+    "savantId": 669397,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 329,
+      "xba": 0.221,
+      "xwoba": 0.25,
+      "xiso": 0.067,
+      "avgExitVel": 84.8,
+      "barrelRate": 1.2,
+      "chaseRate": 29.1,
+      "whiffRate": 19,
+      "speed": 27.9
+    }
+  },
+  {
+    "fullName": "Casey Schmitt",
+    "name": {
+      "first": "Casey",
+      "last": "Schmitt",
+      "raw": "Schmitt, Casey"
+    },
+    "savantId": 669477,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 277,
+      "xba": 0.234,
+      "xwoba": 0.282,
+      "xiso": 0.125,
+      "avgExitVel": 88.1,
+      "barrelRate": 6.7,
+      "chaseRate": 38.5,
+      "whiffRate": 26.9,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Josh Smith",
+    "name": {
+      "first": "Josh",
+      "last": "Smith",
+      "raw": "Smith, Josh"
+    },
+    "savantId": 669701,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 232,
+      "xba": 0.211,
+      "xwoba": 0.321,
+      "xiso": 0.179,
+      "avgExitVel": 88.5,
+      "barrelRate": 10.5,
+      "chaseRate": 22.2,
+      "whiffRate": 21.3,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Jared Triolo",
+    "name": {
+      "first": "Jared",
+      "last": "Triolo",
+      "raw": "Triolo, Jared"
+    },
+    "savantId": 669707,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 209,
+      "xba": 0.254,
+      "xwoba": 0.324,
+      "xiso": 0.121,
+      "avgExitVel": 86.6,
+      "barrelRate": 5.9,
+      "chaseRate": 25.9,
+      "whiffRate": 32.4,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Austin Hays",
+    "name": {
+      "first": "Austin",
+      "last": "Hays",
+      "raw": "Hays, Austin"
+    },
+    "savantId": 669720,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 566,
+      "xba": 0.242,
+      "xwoba": 0.309,
+      "xiso": 0.178,
+      "avgExitVel": 89.4,
+      "barrelRate": 8.9,
+      "chaseRate": 30.9,
+      "whiffRate": 28.3,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Alex Call",
+    "name": {
+      "first": "Alex",
+      "last": "Call",
+      "raw": "Call, Alex"
+    },
+    "savantId": 669743,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 439,
+      "xba": 0.214,
+      "xwoba": 0.296,
+      "xiso": 0.121,
+      "avgExitVel": 86.8,
+      "barrelRate": 5.3,
+      "chaseRate": 19.8,
+      "whiffRate": 18.3,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Michael Toglia",
+    "name": {
+      "first": "Michael",
+      "last": "Toglia",
+      "raw": "Toglia, Michael"
+    },
+    "savantId": 669911,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 152,
+      "xba": 0.203,
+      "xwoba": 0.255,
+      "xiso": 0.11,
+      "avgExitVel": 90.2,
+      "barrelRate": 5.5,
+      "chaseRate": 30.3,
+      "whiffRate": 38.8,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Nicky Lopez",
+    "name": {
+      "first": "Nicky",
+      "last": "Lopez",
+      "raw": "Lopez, Nicky"
+    },
+    "savantId": 670032,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 262,
+      "xba": 0.234,
+      "xwoba": 0.292,
+      "xiso": 0.077,
+      "avgExitVel": 86.7,
+      "barrelRate": 1.1,
+      "chaseRate": 26.6,
+      "whiffRate": 22,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Luke Raley",
+    "name": {
+      "first": "Luke",
+      "last": "Raley",
+      "raw": "Raley, Luke"
+    },
+    "savantId": 670042,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 406,
+      "xba": 0.225,
+      "xwoba": 0.327,
+      "xiso": 0.212,
+      "avgExitVel": 91.1,
+      "barrelRate": 12.9,
+      "chaseRate": 31.3,
+      "whiffRate": 38.9,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Zack Short",
+    "name": {
+      "first": "Zack",
+      "last": "Short",
+      "raw": "Short, Zack"
+    },
+    "savantId": 670097,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 253,
+      "xba": 0.21,
+      "xwoba": 0.297,
+      "xiso": 0.154,
+      "avgExitVel": 87.6,
+      "barrelRate": 8.8,
+      "chaseRate": 16.4,
+      "whiffRate": 24.9,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Matt Wallner",
+    "name": {
+      "first": "Matt",
+      "last": "Wallner",
+      "raw": "Wallner, Matt"
+    },
+    "savantId": 670242,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 254,
+      "xba": 0.233,
+      "xwoba": 0.374,
+      "xiso": 0.285,
+      "avgExitVel": 91.9,
+      "barrelRate": 18.8,
+      "chaseRate": 26.9,
+      "whiffRate": 36.3,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Yordan Alvarez",
+    "name": {
+      "first": "Yordan",
+      "last": "Alvarez",
+      "raw": "Alvarez, Yordan"
+    },
+    "savantId": 670541,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 496,
+      "xba": 0.3,
+      "xwoba": 0.438,
+      "xiso": 0.326,
+      "avgExitVel": 93.3,
+      "barrelRate": 18,
+      "chaseRate": 26.1,
+      "whiffRate": 22.4,
+      "speed": 26.3
+    }
+  },
+  {
+    "fullName": "Isaac Paredes",
+    "name": {
+      "first": "Isaac",
+      "last": "Paredes",
+      "raw": "Paredes, Isaac"
+    },
+    "savantId": 670623,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 571,
+      "xba": 0.23,
+      "xwoba": 0.315,
+      "xiso": 0.139,
+      "avgExitVel": 86.9,
+      "barrelRate": 5.9,
+      "chaseRate": 28.3,
+      "whiffRate": 18.2,
+      "speed": 26.1
+    }
+  },
+  {
+    "fullName": "Taylor Walls",
+    "name": {
+      "first": "Taylor",
+      "last": "Walls",
+      "raw": "Walls, Taylor"
+    },
+    "savantId": 670764,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 349,
+      "xba": 0.203,
+      "xwoba": 0.277,
+      "xiso": 0.096,
+      "avgExitVel": 86.7,
+      "barrelRate": 3.3,
+      "chaseRate": 17.8,
+      "whiffRate": 27,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "TJ Friedl Jr.",
+    "name": {
+      "first": "TJ",
+      "last": "Friedl Jr.",
+      "raw": "Friedl Jr., TJ"
+    },
+    "savantId": 670770,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 556,
+      "xba": 0.24,
+      "xwoba": 0.289,
+      "xiso": 0.082,
+      "avgExitVel": 86.7,
+      "barrelRate": 3.2,
+      "chaseRate": 24.6,
+      "whiffRate": 18.2,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Triston Casas",
+    "name": {
+      "first": "Triston",
+      "last": "Casas",
+      "raw": "Casas, Triston"
+    },
+    "savantId": 671213,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 502,
+      "xba": 0.253,
+      "xwoba": 0.37,
+      "xiso": 0.246,
+      "avgExitVel": 91.1,
+      "barrelRate": 13.1,
+      "chaseRate": 22.1,
+      "whiffRate": 28.1,
+      "speed": 24.9
+    }
+  },
+  {
+    "fullName": "Drew Waters",
+    "name": {
+      "first": "Drew",
+      "last": "Waters",
+      "raw": "Waters, Drew"
+    },
+    "savantId": 671221,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 337,
+      "xba": 0.235,
+      "xwoba": 0.313,
+      "xiso": 0.177,
+      "avgExitVel": 87.4,
+      "barrelRate": 10.1,
+      "chaseRate": 31.8,
+      "whiffRate": 32.4,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Luis García",
+    "name": {
+      "first": "Luis",
+      "last": "García",
+      "raw": "García, Luis"
+    },
+    "savantId": 671277,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 482,
+      "xba": 0.263,
+      "xwoba": 0.308,
+      "xiso": 0.142,
+      "avgExitVel": 88.3,
+      "barrelRate": 5.8,
+      "chaseRate": 30.8,
+      "whiffRate": 17.9,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Tyler Freeman",
+    "name": {
+      "first": "Tyler",
+      "last": "Freeman",
+      "raw": "Freeman, Tyler"
+    },
+    "savantId": 671289,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 168,
+      "xba": 0.272,
+      "xwoba": 0.315,
+      "xiso": 0.125,
+      "avgExitVel": 85.8,
+      "barrelRate": 3.2,
+      "chaseRate": 29.2,
+      "whiffRate": 17.8,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Michael Harris II",
+    "name": {
+      "first": "Michael",
+      "last": "Harris II",
+      "raw": "Harris II, Michael"
+    },
+    "savantId": 671739,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 539,
+      "xba": 0.304,
+      "xwoba": 0.357,
+      "xiso": 0.186,
+      "avgExitVel": 90.9,
+      "barrelRate": 10,
+      "chaseRate": 38.1,
+      "whiffRate": 24.4,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Patrick Bailey",
+    "name": {
+      "first": "Patrick",
+      "last": "Bailey",
+      "raw": "Bailey, Patrick"
+    },
+    "savantId": 672275,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 353,
+      "xba": 0.249,
+      "xwoba": 0.313,
+      "xiso": 0.171,
+      "avgExitVel": 88.7,
+      "barrelRate": 10,
+      "chaseRate": 26.6,
+      "whiffRate": 26.2,
+      "speed": 26.2
+    }
+  },
+  {
+    "fullName": "Jarred Kelenic",
+    "name": {
+      "first": "Jarred",
+      "last": "Kelenic",
+      "raw": "Kelenic, Jarred"
+    },
+    "savantId": 672284,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 416,
+      "xba": 0.264,
+      "xwoba": 0.333,
+      "xiso": 0.17,
+      "avgExitVel": 90.9,
+      "barrelRate": 9.5,
+      "chaseRate": 28.5,
+      "whiffRate": 33.8,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Gabriel Arias",
+    "name": {
+      "first": "Gabriel",
+      "last": "Arias",
+      "raw": "Arias, Gabriel"
+    },
+    "savantId": 672356,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 345,
+      "xba": 0.23,
+      "xwoba": 0.304,
+      "xiso": 0.177,
+      "avgExitVel": 91.1,
+      "barrelRate": 9.9,
+      "chaseRate": 33.1,
+      "whiffRate": 37.5,
+      "speed": 28
+    }
+  },
+  {
+    "fullName": "Alejandro Kirk",
+    "name": {
+      "first": "Alejandro",
+      "last": "Kirk",
+      "raw": "Kirk, Alejandro"
+    },
+    "savantId": 672386,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 422,
+      "xba": 0.256,
+      "xwoba": 0.32,
+      "xiso": 0.131,
+      "avgExitVel": 87.6,
+      "barrelRate": 5.2,
+      "chaseRate": 26.7,
+      "whiffRate": 12.8,
+      "speed": 23.7
+    }
+  },
+  {
+    "fullName": "Jordan Diaz",
+    "name": {
+      "first": "Jordan",
+      "last": "Diaz",
+      "raw": "Diaz, Jordan"
+    },
+    "savantId": 672478,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 293,
+      "xba": 0.227,
+      "xwoba": 0.285,
+      "xiso": 0.144,
+      "avgExitVel": 90,
+      "barrelRate": 6.4,
+      "chaseRate": 37,
+      "whiffRate": 29.9,
+      "speed": 25.3
+    }
+  },
+  {
+    "fullName": "Gabriel Moreno",
+    "name": {
+      "first": "Gabriel",
+      "last": "Moreno",
+      "raw": "Moreno, Gabriel"
+    },
+    "savantId": 672515,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 380,
+      "xba": 0.266,
+      "xwoba": 0.314,
+      "xiso": 0.122,
+      "avgExitVel": 89.8,
+      "barrelRate": 4.8,
+      "chaseRate": 26.3,
+      "whiffRate": 19.7,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Maikel Garcia",
+    "name": {
+      "first": "Maikel",
+      "last": "Garcia",
+      "raw": "Garcia, Maikel"
+    },
+    "savantId": 672580,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 515,
+      "xba": 0.274,
+      "xwoba": 0.319,
+      "xiso": 0.119,
+      "avgExitVel": 91.8,
+      "barrelRate": 3.9,
+      "chaseRate": 20.6,
+      "whiffRate": 19.5,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Geraldo Perdomo",
+    "name": {
+      "first": "Geraldo",
+      "last": "Perdomo",
+      "raw": "Perdomo, Geraldo"
+    },
+    "savantId": 672695,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 495,
+      "xba": 0.204,
+      "xwoba": 0.275,
+      "xiso": 0.069,
+      "avgExitVel": 85.7,
+      "barrelRate": 0.9,
+      "chaseRate": 17.1,
+      "whiffRate": 15,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Oswald Peraza",
+    "name": {
+      "first": "Oswald",
+      "last": "Peraza",
+      "raw": "Peraza, Oswald"
+    },
+    "savantId": 672724,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 191,
+      "xba": 0.222,
+      "xwoba": 0.281,
+      "xiso": 0.109,
+      "avgExitVel": 87.2,
+      "barrelRate": 4.1,
+      "chaseRate": 27.8,
+      "whiffRate": 33.1,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Tucupita Marcano",
+    "name": {
+      "first": "Tucupita",
+      "last": "Marcano",
+      "raw": "Marcano, Tucupita"
+    },
+    "savantId": 672779,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 220,
+      "xba": 0.248,
+      "xwoba": 0.292,
+      "xiso": 0.123,
+      "avgExitVel": 88.3,
+      "barrelRate": 5.2,
+      "chaseRate": 29.4,
+      "whiffRate": 15,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Lenyn Sosa",
+    "name": {
+      "first": "Lenyn",
+      "last": "Sosa",
+      "raw": "Sosa, Lenyn"
+    },
+    "savantId": 672820,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 173,
+      "xba": 0.254,
+      "xwoba": 0.294,
+      "xiso": 0.164,
+      "avgExitVel": 89.4,
+      "barrelRate": 7.8,
+      "chaseRate": 40.6,
+      "whiffRate": 24,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Yainer Diaz",
+    "name": {
+      "first": "Yainer",
+      "last": "Diaz",
+      "raw": "Diaz, Yainer"
+    },
+    "savantId": 673237,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 377,
+      "xba": 0.288,
+      "xwoba": 0.36,
+      "xiso": 0.255,
+      "avgExitVel": 90.3,
+      "barrelRate": 12.2,
+      "chaseRate": 44,
+      "whiffRate": 27.6,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Luis Robert Jr.",
+    "name": {
+      "first": "Luis",
+      "last": "Robert Jr.",
+      "raw": "Robert Jr., Luis"
+    },
+    "savantId": 673357,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 595,
+      "xba": 0.259,
+      "xwoba": 0.347,
+      "xiso": 0.255,
+      "avgExitVel": 89.1,
+      "barrelRate": 15.4,
+      "chaseRate": 40.5,
+      "whiffRate": 33.5,
+      "speed": 28.7
+    }
+  },
+  {
+    "fullName": "Ha-Seong Kim",
+    "name": {
+      "first": "Ha-Seong",
+      "last": "Kim",
+      "raw": "Kim, Ha-Seong"
+    },
+    "savantId": 673490,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 626,
+      "xba": 0.245,
+      "xwoba": 0.313,
+      "xiso": 0.114,
+      "avgExitVel": 86.2,
+      "barrelRate": 4.2,
+      "chaseRate": 20.4,
+      "whiffRate": 17.7,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Seiya Suzuki",
+    "name": {
+      "first": "Seiya",
+      "last": "Suzuki",
+      "raw": "Suzuki, Seiya"
+    },
+    "savantId": 673548,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 583,
+      "xba": 0.283,
+      "xwoba": 0.357,
+      "xiso": 0.187,
+      "avgExitVel": 91.4,
+      "barrelRate": 10.5,
+      "chaseRate": 19.8,
+      "whiffRate": 21.3,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Josh Jung",
+    "name": {
+      "first": "Josh",
+      "last": "Jung",
+      "raw": "Jung, Josh"
+    },
+    "savantId": 673962,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 515,
+      "xba": 0.26,
+      "xwoba": 0.337,
+      "xiso": 0.222,
+      "avgExitVel": 91.8,
+      "barrelRate": 11.9,
+      "chaseRate": 32.9,
+      "whiffRate": 29.7,
+      "speed": 26.8
+    }
+  },
+  {
+    "fullName": "Jordan Westburg",
+    "name": {
+      "first": "Jordan",
+      "last": "Westburg",
+      "raw": "Westburg, Jordan"
+    },
+    "savantId": 676059,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 228,
+      "xba": 0.26,
+      "xwoba": 0.315,
+      "xiso": 0.14,
+      "avgExitVel": 90.2,
+      "barrelRate": 6.5,
+      "chaseRate": 28.4,
+      "whiffRate": 25.8,
+      "speed": 28.9
+    }
+  },
+  {
+    "fullName": "Ryan Noda",
+    "name": {
+      "first": "Ryan",
+      "last": "Noda",
+      "raw": "Noda, Ryan"
+    },
+    "savantId": 676116,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 495,
+      "xba": 0.213,
+      "xwoba": 0.334,
+      "xiso": 0.179,
+      "avgExitVel": 91.2,
+      "barrelRate": 13,
+      "chaseRate": 19.2,
+      "whiffRate": 36.9,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Nelson Velázquez",
+    "name": {
+      "first": "Nelson",
+      "last": "Velázquez",
+      "raw": "Velázquez, Nelson"
+    },
+    "savantId": 676369,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 179,
+      "xba": 0.255,
+      "xwoba": 0.374,
+      "xiso": 0.319,
+      "avgExitVel": 91,
+      "barrelRate": 21.4,
+      "chaseRate": 29.4,
+      "whiffRate": 33.7,
+      "speed": 27.2
+    }
+  },
+  {
+    "fullName": "Alec Burleson",
+    "name": {
+      "first": "Alec",
+      "last": "Burleson",
+      "raw": "Burleson, Alec"
+    },
+    "savantId": 676475,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 347,
+      "xba": 0.277,
+      "xwoba": 0.337,
+      "xiso": 0.173,
+      "avgExitVel": 89.9,
+      "barrelRate": 5.9,
+      "chaseRate": 34,
+      "whiffRate": 17.7,
+      "speed": 25.6
+    }
+  },
+  {
+    "fullName": "José Caballero",
+    "name": {
+      "first": "José",
+      "last": "Caballero",
+      "raw": "Caballero, José"
+    },
+    "savantId": 676609,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 280,
+      "xba": 0.205,
+      "xwoba": 0.299,
+      "xiso": 0.098,
+      "avgExitVel": 83.3,
+      "barrelRate": 3.6,
+      "chaseRate": 29,
+      "whiffRate": 23,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Jake Meyers",
+    "name": {
+      "first": "Jake",
+      "last": "Meyers",
+      "raw": "Meyers, Jake"
+    },
+    "savantId": 676694,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 341,
+      "xba": 0.213,
+      "xwoba": 0.283,
+      "xiso": 0.143,
+      "avgExitVel": 86,
+      "barrelRate": 6.3,
+      "chaseRate": 26.8,
+      "whiffRate": 26.9,
+      "speed": 29.2
+    }
+  },
+  {
+    "fullName": "Alan Trejo",
+    "name": {
+      "first": "Alan",
+      "last": "Trejo",
+      "raw": "Trejo, Alan"
+    },
+    "savantId": 676701,
+    "age": 27,
+    "data": {
+      "recordYear": 2023,
+      "pa": 227,
+      "xba": 0.233,
+      "xwoba": 0.276,
+      "xiso": 0.101,
+      "avgExitVel": 85.5,
+      "barrelRate": 4.4,
+      "chaseRate": 32.4,
+      "whiffRate": 21.4,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Chas McCormick",
+    "name": {
+      "first": "Chas",
+      "last": "McCormick",
+      "raw": "McCormick, Chas"
+    },
+    "savantId": 676801,
+    "age": 28,
+    "data": {
+      "recordYear": 2023,
+      "pa": 457,
+      "xba": 0.246,
+      "xwoba": 0.341,
+      "xiso": 0.212,
+      "avgExitVel": 88,
+      "barrelRate": 11.1,
+      "chaseRate": 30.2,
+      "whiffRate": 28.9,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Wander Franco",
+    "name": {
+      "first": "Wander",
+      "last": "Franco",
+      "raw": "Franco, Wander"
+    },
+    "savantId": 677551,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 491,
+      "xba": 0.3,
+      "xwoba": 0.364,
+      "xiso": 0.183,
+      "avgExitVel": 89.4,
+      "barrelRate": 7.7,
+      "chaseRate": 26.2,
+      "whiffRate": 14.8,
+      "speed": 27.5
+    }
+  },
+  {
+    "fullName": "Julio Rodríguez",
+    "name": {
+      "first": "Julio",
+      "last": "Rodríguez",
+      "raw": "Rodríguez, Julio"
+    },
+    "savantId": 677594,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 714,
+      "xba": 0.274,
+      "xwoba": 0.345,
+      "xiso": 0.201,
+      "avgExitVel": 92.7,
+      "barrelRate": 11.9,
+      "chaseRate": 37.4,
+      "whiffRate": 28.2,
+      "speed": 29.6
+    }
+  },
+  {
+    "fullName": "Ezequiel Duran",
+    "name": {
+      "first": "Ezequiel",
+      "last": "Duran",
+      "raw": "Duran, Ezequiel"
+    },
+    "savantId": 677649,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 439,
+      "xba": 0.256,
+      "xwoba": 0.32,
+      "xiso": 0.179,
+      "avgExitVel": 90.1,
+      "barrelRate": 8.7,
+      "chaseRate": 37.7,
+      "whiffRate": 28.5,
+      "speed": 29.1
+    }
+  },
+  {
+    "fullName": "Alek Thomas",
+    "name": {
+      "first": "Alek",
+      "last": "Thomas",
+      "raw": "Thomas, Alek"
+    },
+    "savantId": 677950,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 402,
+      "xba": 0.251,
+      "xwoba": 0.291,
+      "xiso": 0.122,
+      "avgExitVel": 88.9,
+      "barrelRate": 5.1,
+      "chaseRate": 33.6,
+      "whiffRate": 25,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Bobby Witt Jr.",
+    "name": {
+      "first": "Bobby",
+      "last": "Witt Jr.",
+      "raw": "Witt Jr., Bobby"
+    },
+    "savantId": 677951,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 694,
+      "xba": 0.294,
+      "xwoba": 0.369,
+      "xiso": 0.239,
+      "avgExitVel": 90.7,
+      "barrelRate": 11.5,
+      "chaseRate": 30.6,
+      "whiffRate": 22.8,
+      "speed": 30.5
+    }
+  },
+  {
+    "fullName": "Ji Hwan Bae",
+    "name": {
+      "first": "Ji Hwan",
+      "last": "Bae",
+      "raw": "Bae, Ji Hwan"
+    },
+    "savantId": 678225,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 371,
+      "xba": 0.222,
+      "xwoba": 0.264,
+      "xiso": 0.072,
+      "avgExitVel": 88.1,
+      "barrelRate": 2,
+      "chaseRate": 28.8,
+      "whiffRate": 24.3,
+      "speed": 29.7
+    }
+  },
+  {
+    "fullName": "Miguel Vargas",
+    "name": {
+      "first": "Miguel",
+      "last": "Vargas",
+      "raw": "Vargas, Miguel"
+    },
+    "savantId": 678246,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 304,
+      "xba": 0.21,
+      "xwoba": 0.304,
+      "xiso": 0.143,
+      "avgExitVel": 86.8,
+      "barrelRate": 6,
+      "chaseRate": 20.8,
+      "whiffRate": 22.3,
+      "speed": 27.9
+    }
+  },
+  {
+    "fullName": "Ezequiel Tovar",
+    "name": {
+      "first": "Ezequiel",
+      "last": "Tovar",
+      "raw": "Tovar, Ezequiel"
+    },
+    "savantId": 678662,
+    "age": 21,
+    "data": {
+      "recordYear": 2023,
+      "pa": 615,
+      "xba": 0.248,
+      "xwoba": 0.291,
+      "xiso": 0.138,
+      "avgExitVel": 88,
+      "barrelRate": 8.1,
+      "chaseRate": 42,
+      "whiffRate": 31.3,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Liover Peguero",
+    "name": {
+      "first": "Liover",
+      "last": "Peguero",
+      "raw": "Peguero, Liover"
+    },
+    "savantId": 678894,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 213,
+      "xba": 0.228,
+      "xwoba": 0.27,
+      "xiso": 0.109,
+      "avgExitVel": 89.3,
+      "barrelRate": 5.2,
+      "chaseRate": 28.4,
+      "whiffRate": 29.1,
+      "speed": 29.3
+    }
+  },
+  {
+    "fullName": "Johan Rojas",
+    "name": {
+      "first": "Johan",
+      "last": "Rojas",
+      "raw": "Rojas, Johan"
+    },
+    "savantId": 679032,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 164,
+      "xba": 0.247,
+      "xwoba": 0.267,
+      "xiso": 0.058,
+      "avgExitVel": 86.6,
+      "barrelRate": 0.9,
+      "chaseRate": 40.4,
+      "whiffRate": 25.9,
+      "speed": 29.5
+    }
+  },
+  {
+    "fullName": "Spencer Torkelson",
+    "name": {
+      "first": "Spencer",
+      "last": "Torkelson",
+      "raw": "Torkelson, Spencer"
+    },
+    "savantId": 679529,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 684,
+      "xba": 0.253,
+      "xwoba": 0.352,
+      "xiso": 0.234,
+      "avgExitVel": 91.8,
+      "barrelRate": 14.1,
+      "chaseRate": 23.6,
+      "whiffRate": 24.7,
+      "speed": 27.4
+    }
+  },
+  {
+    "fullName": "Matt McLain",
+    "name": {
+      "first": "Matt",
+      "last": "McLain",
+      "raw": "McLain, Matt"
+    },
+    "savantId": 680574,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 403,
+      "xba": 0.256,
+      "xwoba": 0.332,
+      "xiso": 0.18,
+      "avgExitVel": 89.3,
+      "barrelRate": 10.8,
+      "chaseRate": 25.4,
+      "whiffRate": 28,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Steven Kwan",
+    "name": {
+      "first": "Steven",
+      "last": "Kwan",
+      "raw": "Kwan, Steven"
+    },
+    "savantId": 680757,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 718,
+      "xba": 0.282,
+      "xwoba": 0.317,
+      "xiso": 0.076,
+      "avgExitVel": 86,
+      "barrelRate": 1.1,
+      "chaseRate": 21.3,
+      "whiffRate": 11.1,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Jarren Duran",
+    "name": {
+      "first": "Jarren",
+      "last": "Duran",
+      "raw": "Duran, Jarren"
+    },
+    "savantId": 680776,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 362,
+      "xba": 0.268,
+      "xwoba": 0.319,
+      "xiso": 0.134,
+      "avgExitVel": 89.9,
+      "barrelRate": 5.3,
+      "chaseRate": 30.1,
+      "whiffRate": 24.3,
+      "speed": 29.5
+    }
+  },
+  {
+    "fullName": "Ryan Jeffers",
+    "name": {
+      "first": "Ryan",
+      "last": "Jeffers",
+      "raw": "Jeffers, Ryan"
+    },
+    "savantId": 680777,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 335,
+      "xba": 0.233,
+      "xwoba": 0.333,
+      "xiso": 0.199,
+      "avgExitVel": 90.5,
+      "barrelRate": 11.6,
+      "chaseRate": 30.2,
+      "whiffRate": 29.1,
+      "speed": 26.5
+    }
+  },
+  {
+    "fullName": "Henry Davis",
+    "name": {
+      "first": "Henry",
+      "last": "Davis",
+      "raw": "Davis, Henry"
+    },
+    "savantId": 680779,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 255,
+      "xba": 0.223,
+      "xwoba": 0.291,
+      "xiso": 0.121,
+      "avgExitVel": 88.6,
+      "barrelRate": 7,
+      "chaseRate": 29,
+      "whiffRate": 27,
+      "speed": 28.2
+    }
+  },
+  {
+    "fullName": "Zack Gelof",
+    "name": {
+      "first": "Zack",
+      "last": "Gelof",
+      "raw": "Gelof, Zack"
+    },
+    "savantId": 680869,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 300,
+      "xba": 0.253,
+      "xwoba": 0.333,
+      "xiso": 0.195,
+      "avgExitVel": 89.8,
+      "barrelRate": 11.1,
+      "chaseRate": 28.9,
+      "whiffRate": 33.7,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Owen Miller",
+    "name": {
+      "first": "Owen",
+      "last": "Miller",
+      "raw": "Miller, Owen"
+    },
+    "savantId": 680911,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 314,
+      "xba": 0.252,
+      "xwoba": 0.288,
+      "xiso": 0.107,
+      "avgExitVel": 86.3,
+      "barrelRate": 3.4,
+      "chaseRate": 31.5,
+      "whiffRate": 18.4,
+      "speed": 29
+    }
+  },
+  {
+    "fullName": "Brendan Donovan",
+    "name": {
+      "first": "Brendan",
+      "last": "Donovan",
+      "raw": "Donovan, Brendan"
+    },
+    "savantId": 680977,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 371,
+      "xba": 0.287,
+      "xwoba": 0.354,
+      "xiso": 0.151,
+      "avgExitVel": 89.3,
+      "barrelRate": 5.8,
+      "chaseRate": 22.9,
+      "whiffRate": 14.8,
+      "speed": 27.1
+    }
+  },
+  {
+    "fullName": "Bryson Stott",
+    "name": {
+      "first": "Bryson",
+      "last": "Stott",
+      "raw": "Stott, Bryson"
+    },
+    "savantId": 681082,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 640,
+      "xba": 0.267,
+      "xwoba": 0.309,
+      "xiso": 0.119,
+      "avgExitVel": 88.1,
+      "barrelRate": 4.7,
+      "chaseRate": 29.5,
+      "whiffRate": 15.1,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Logan O'Hoppe",
+    "name": {
+      "first": "Logan",
+      "last": "O'Hoppe",
+      "raw": "O'Hoppe, Logan"
+    },
+    "savantId": 681351,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 199,
+      "xba": 0.257,
+      "xwoba": 0.346,
+      "xiso": 0.243,
+      "avgExitVel": 90.5,
+      "barrelRate": 15.6,
+      "chaseRate": 33.9,
+      "whiffRate": 32.1,
+      "speed": 27.9
+    }
+  },
+  {
+    "fullName": "Kerry Carpenter",
+    "name": {
+      "first": "Kerry",
+      "last": "Carpenter",
+      "raw": "Carpenter, Kerry"
+    },
+    "savantId": 681481,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 459,
+      "xba": 0.258,
+      "xwoba": 0.336,
+      "xiso": 0.202,
+      "avgExitVel": 90.1,
+      "barrelRate": 10.2,
+      "chaseRate": 33.4,
+      "whiffRate": 27,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "James Outman",
+    "name": {
+      "first": "James",
+      "last": "Outman",
+      "raw": "Outman, James"
+    },
+    "savantId": 681546,
+    "age": 26,
+    "data": {
+      "recordYear": 2023,
+      "pa": 567,
+      "xba": 0.228,
+      "xwoba": 0.325,
+      "xiso": 0.167,
+      "avgExitVel": 87.9,
+      "barrelRate": 11.1,
+      "chaseRate": 25.3,
+      "whiffRate": 36.6,
+      "speed": 28.9
+    }
+  },
+  {
+    "fullName": "Francisco Alvarez",
+    "name": {
+      "first": "Francisco",
+      "last": "Alvarez",
+      "raw": "Alvarez, Francisco"
+    },
+    "savantId": 682626,
+    "age": 21,
+    "data": {
+      "recordYear": 2023,
+      "pa": 423,
+      "xba": 0.209,
+      "xwoba": 0.305,
+      "xiso": 0.213,
+      "avgExitVel": 90.1,
+      "barrelRate": 12.8,
+      "chaseRate": 26.1,
+      "whiffRate": 31.8,
+      "speed": 26.4
+    }
+  },
+  {
+    "fullName": "Luis Matos",
+    "name": {
+      "first": "Luis",
+      "last": "Matos",
+      "raw": "Matos, Luis"
+    },
+    "savantId": 682641,
+    "age": 21,
+    "data": {
+      "recordYear": 2023,
+      "pa": 253,
+      "xba": 0.258,
+      "xwoba": 0.304,
+      "xiso": 0.101,
+      "avgExitVel": 87.1,
+      "barrelRate": 2,
+      "chaseRate": 25.4,
+      "whiffRate": 17.2,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Elly De La Cruz",
+    "name": {
+      "first": "Elly",
+      "last": "De La Cruz",
+      "raw": "De La Cruz, Elly"
+    },
+    "savantId": 682829,
+    "age": 21,
+    "data": {
+      "recordYear": 2023,
+      "pa": 427,
+      "xba": 0.24,
+      "xwoba": 0.303,
+      "xiso": 0.151,
+      "avgExitVel": 91.2,
+      "barrelRate": 8.5,
+      "chaseRate": 32.8,
+      "whiffRate": 29.7,
+      "speed": 30.5
+    }
+  },
+  {
+    "fullName": "Endy Rodríguez",
+    "name": {
+      "first": "Endy",
+      "last": "Rodríguez",
+      "raw": "Rodríguez, Endy"
+    },
+    "savantId": 682848,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 204,
+      "xba": 0.232,
+      "xwoba": 0.294,
+      "xiso": 0.143,
+      "avgExitVel": 89.1,
+      "barrelRate": 5.1,
+      "chaseRate": 26.4,
+      "whiffRate": 21.4,
+      "speed": 27.8
+    }
+  },
+  {
+    "fullName": "CJ Abrams",
+    "name": {
+      "first": "CJ",
+      "last": "Abrams",
+      "raw": "Abrams, CJ"
+    },
+    "savantId": 682928,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 614,
+      "xba": 0.247,
+      "xwoba": 0.304,
+      "xiso": 0.152,
+      "avgExitVel": 87.4,
+      "barrelRate": 6.9,
+      "chaseRate": 35.1,
+      "whiffRate": 22.3,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Riley Greene",
+    "name": {
+      "first": "Riley",
+      "last": "Greene",
+      "raw": "Greene, Riley"
+    },
+    "savantId": 682985,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 416,
+      "xba": 0.289,
+      "xwoba": 0.365,
+      "xiso": 0.21,
+      "avgExitVel": 91.6,
+      "barrelRate": 11.3,
+      "chaseRate": 26.5,
+      "whiffRate": 28.2,
+      "speed": 28.1
+    }
+  },
+  {
+    "fullName": "Corbin Carroll",
+    "name": {
+      "first": "Corbin",
+      "last": "Carroll",
+      "raw": "Carroll, Corbin"
+    },
+    "savantId": 682998,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 645,
+      "xba": 0.268,
+      "xwoba": 0.344,
+      "xiso": 0.173,
+      "avgExitVel": 90,
+      "barrelRate": 7.6,
+      "chaseRate": 28,
+      "whiffRate": 21.5,
+      "speed": 30.1
+    }
+  },
+  {
+    "fullName": "Gunnar Henderson",
+    "name": {
+      "first": "Gunnar",
+      "last": "Henderson",
+      "raw": "Henderson, Gunnar"
+    },
+    "savantId": 683002,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 622,
+      "xba": 0.261,
+      "xwoba": 0.346,
+      "xiso": 0.212,
+      "avgExitVel": 92,
+      "barrelRate": 11.4,
+      "chaseRate": 26.5,
+      "whiffRate": 26.4,
+      "speed": 28.8
+    }
+  },
+  {
+    "fullName": "Anthony Volpe",
+    "name": {
+      "first": "Anthony",
+      "last": "Volpe",
+      "raw": "Volpe, Anthony"
+    },
+    "savantId": 683011,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 601,
+      "xba": 0.23,
+      "xwoba": 0.305,
+      "xiso": 0.162,
+      "avgExitVel": 88.7,
+      "barrelRate": 9,
+      "chaseRate": 28.7,
+      "whiffRate": 28.1,
+      "speed": 28.4
+    }
+  },
+  {
+    "fullName": "Brett Baty",
+    "name": {
+      "first": "Brett",
+      "last": "Baty",
+      "raw": "Baty, Brett"
+    },
+    "savantId": 683146,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 389,
+      "xba": 0.237,
+      "xwoba": 0.3,
+      "xiso": 0.144,
+      "avgExitVel": 89.5,
+      "barrelRate": 7.7,
+      "chaseRate": 27.6,
+      "whiffRate": 31.5,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Andrew Vaughn",
+    "name": {
+      "first": "Andrew",
+      "last": "Vaughn",
+      "raw": "Vaughn, Andrew"
+    },
+    "savantId": 683734,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 615,
+      "xba": 0.252,
+      "xwoba": 0.319,
+      "xiso": 0.176,
+      "avgExitVel": 90.6,
+      "barrelRate": 8.4,
+      "chaseRate": 31.7,
+      "whiffRate": 24.1,
+      "speed": 25.5
+    }
+  },
+  {
+    "fullName": "Sal Frelick",
+    "name": {
+      "first": "Sal",
+      "last": "Frelick",
+      "raw": "Frelick, Sal"
+    },
+    "savantId": 686217,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 223,
+      "xba": 0.235,
+      "xwoba": 0.296,
+      "xiso": 0.069,
+      "avgExitVel": 83.3,
+      "barrelRate": 2.5,
+      "chaseRate": 29,
+      "whiffRate": 14.6,
+      "speed": 28.6
+    }
+  },
+  {
+    "fullName": "Vinnie Pasquantino",
+    "name": {
+      "first": "Vinnie",
+      "last": "Pasquantino",
+      "raw": "Pasquantino, Vinnie"
+    },
+    "savantId": 686469,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 260,
+      "xba": 0.282,
+      "xwoba": 0.35,
+      "xiso": 0.172,
+      "avgExitVel": 89.3,
+      "barrelRate": 7.5,
+      "chaseRate": 32.4,
+      "whiffRate": 17.4,
+      "speed": 25.8
+    }
+  },
+  {
+    "fullName": "Dominic Canzone",
+    "name": {
+      "first": "Dominic",
+      "last": "Canzone",
+      "raw": "Canzone, Dominic"
+    },
+    "savantId": 686527,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 182,
+      "xba": 0.258,
+      "xwoba": 0.326,
+      "xiso": 0.213,
+      "avgExitVel": 89.7,
+      "barrelRate": 12.1,
+      "chaseRate": 41.8,
+      "whiffRate": 25.5,
+      "speed": 26.7
+    }
+  },
+  {
+    "fullName": "Brenton Doyle",
+    "name": {
+      "first": "Brenton",
+      "last": "Doyle",
+      "raw": "Doyle, Brenton"
+    },
+    "savantId": 686668,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 431,
+      "xba": 0.2,
+      "xwoba": 0.258,
+      "xiso": 0.143,
+      "avgExitVel": 88.3,
+      "barrelRate": 8.7,
+      "chaseRate": 32.2,
+      "whiffRate": 35.7,
+      "speed": 29.9
+    }
+  },
+  {
+    "fullName": "Michael Massey",
+    "name": {
+      "first": "Michael",
+      "last": "Massey",
+      "raw": "Massey, Michael"
+    },
+    "savantId": 686681,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 461,
+      "xba": 0.26,
+      "xwoba": 0.319,
+      "xiso": 0.172,
+      "avgExitVel": 88.6,
+      "barrelRate": 7.8,
+      "chaseRate": 32.3,
+      "whiffRate": 22.4,
+      "speed": 27.3
+    }
+  },
+  {
+    "fullName": "Will Brennan",
+    "name": {
+      "first": "Will",
+      "last": "Brennan",
+      "raw": "Brennan, Will"
+    },
+    "savantId": 686823,
+    "age": 25,
+    "data": {
+      "recordYear": 2023,
+      "pa": 455,
+      "xba": 0.286,
+      "xwoba": 0.305,
+      "xiso": 0.092,
+      "avgExitVel": 85.7,
+      "barrelRate": 2.4,
+      "chaseRate": 38.2,
+      "whiffRate": 18.2,
+      "speed": 28.3
+    }
+  },
+  {
+    "fullName": "Joey Wiemer Jr.",
+    "name": {
+      "first": "Joey",
+      "last": "Wiemer Jr.",
+      "raw": "Wiemer Jr., Joey"
+    },
+    "savantId": 686894,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 410,
+      "xba": 0.209,
+      "xwoba": 0.289,
+      "xiso": 0.161,
+      "avgExitVel": 89.3,
+      "barrelRate": 9.1,
+      "chaseRate": 29.1,
+      "whiffRate": 33.6,
+      "speed": 28.9
+    }
+  },
+  {
+    "fullName": "Zach Neto",
+    "name": {
+      "first": "Zach",
+      "last": "Neto",
+      "raw": "Neto, Zach"
+    },
+    "savantId": 687263,
+    "age": 22,
+    "data": {
+      "recordYear": 2023,
+      "pa": 329,
+      "xba": 0.226,
+      "xwoba": 0.312,
+      "xiso": 0.177,
+      "avgExitVel": 89.1,
+      "barrelRate": 8.8,
+      "chaseRate": 25.2,
+      "whiffRate": 28.5,
+      "speed": 27.7
+    }
+  },
+  {
+    "fullName": "Christian Encarnacion-Strand",
+    "name": {
+      "first": "Christian",
+      "last": "Encarnacion-Strand",
+      "raw": "Encarnacion-Strand, Christian"
+    },
+    "savantId": 687952,
+    "age": 23,
+    "data": {
+      "recordYear": 2023,
+      "pa": 241,
+      "xba": 0.27,
+      "xwoba": 0.346,
+      "xiso": 0.206,
+      "avgExitVel": 90.3,
+      "barrelRate": 10.5,
+      "chaseRate": 36.5,
+      "whiffRate": 29.4,
+      "speed": 27.6
+    }
+  },
+  {
+    "fullName": "Jordan Walker",
+    "name": {
+      "first": "Jordan",
+      "last": "Walker",
+      "raw": "Walker, Jordan"
+    },
+    "savantId": 691023,
+    "age": 21,
+    "data": {
+      "recordYear": 2023,
+      "pa": 465,
+      "xba": 0.267,
+      "xwoba": 0.332,
+      "xiso": 0.159,
+      "avgExitVel": 89.4,
+      "barrelRate": 7.5,
+      "chaseRate": 33.2,
+      "whiffRate": 30,
+      "speed": 28.5
+    }
+  },
+  {
+    "fullName": "Oscar Colás",
+    "name": {
+      "first": "Oscar",
+      "last": "Colás",
+      "raw": "Colás, Oscar"
+    },
+    "savantId": 693049,
+    "age": 24,
+    "data": {
+      "recordYear": 2023,
+      "pa": 263,
+      "xba": 0.225,
+      "xwoba": 0.264,
+      "xiso": 0.116,
+      "avgExitVel": 88.9,
+      "barrelRate": 7.9,
+      "chaseRate": 39.8,
+      "whiffRate": 31.8,
+      "speed": 27
+    }
+  },
+  {
+    "fullName": "Masataka Yoshida",
+    "name": {
+      "first": "Masataka",
+      "last": "Yoshida",
+      "raw": "Yoshida, Masataka"
+    },
+    "savantId": 807799,
+    "age": 29,
+    "data": {
+      "recordYear": 2023,
+      "pa": 580,
+      "xba": 0.273,
+      "xwoba": 0.325,
+      "xiso": 0.153,
+      "avgExitVel": 89,
+      "barrelRate": 6.6,
+      "chaseRate": 27.3,
+      "whiffRate": 18.3,
+      "speed": 26.2
+    }
+  }
+]

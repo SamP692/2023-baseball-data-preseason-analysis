@@ -1,0 +1,17 @@
+{
+    "imports": {
+        "@parse-csv": "https://deno.land/std@0.218.2/csv/parse.ts",
+        
+        ":config": "./config.ts"
+    },
+    "tasks": {
+        "manicure-yahoo-records": "deno run --allow-read --allow-write ./src/manicure-yahoo-players/script.ts",
+        "convert-batting-data": "deno run --allow-read --allow-write ./src/convert-batter-data-to-json/script.ts",
+        "convert-pitching-data": "deno run --allow-read --allow-write ./src/convert-pitcher-data-to-json/script.ts"
+    },
+    "fmt": {
+        "indentWidth": 4,
+        "semiColons": false,
+        "singleQuote": false
+    }
+}

@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "request": "launch",
+            "name": "Debug Yahoo Player Manicuring",
+            "type": "node",
+            "program": "${workspaceFolder}/src/manicure-yahoo-players/script.ts",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "/usr/local/bin/deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-wait",
+                "--allow-read",
+                "--allow-write"
+            ],
+            "attachSimplePort": 9229
+        },
+        {
+            "request": "launch",
+            "name": "Debug Batting Data CSV Conversion",
+            "type": "node",
+            "program": "${workspaceFolder}/src/convert-batter-data-to-json/script.ts",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "/usr/local/bin/deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-wait",
+                "--allow-read",
+                "--allow-write"
+            ],
+            "attachSimplePort": 9229
+        },
+        {
+            "request": "launch",
+            "name": "Debug Pitching Data CSV Conversion",
+            "type": "node",
+            "program": "${workspaceFolder}/src/convert-pitcher-data-to-json/script.ts",
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "/usr/local/bin/deno",
+            "runtimeArgs": [
+                "run",
+                "--inspect-wait",
+                "--allow-read",
+                "--allow-write"
+            ],
+            "attachSimplePort": 9229
+        }
+    ]
+}
