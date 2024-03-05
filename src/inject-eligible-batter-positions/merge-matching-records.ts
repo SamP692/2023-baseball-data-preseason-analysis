@@ -9,6 +9,7 @@ import { MergedBatterRecord } from "./type-definitions.ts"
 function mergeIndividualRecord([dataRecord, yahooRecord]: [BatterRecord, YahooPlayerRecord]): MergedBatterRecord {
     const mergedRecord = {
         fullName: dataRecord.fullName,
+        team: yahooRecord.team,
         savantName: dataRecord.name,
         yahooName: yahooRecord.name,
         savantId: dataRecord.savantId,

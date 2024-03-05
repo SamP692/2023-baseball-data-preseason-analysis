@@ -2,6 +2,7 @@
     "mergedRecords": [
         {
             "fullName": "Miguel Cabrera",
+            "team": "DET",
             "savantName": {
                 "first": "Miguel",
                 "last": "Cabrera",
@@ -32,6 +33,7 @@
         },
         {
             "fullName": "Nelson Cruz Jr.",
+            "team": "SD",
             "savantName": {
                 "first": "Nelson",
                 "last": "Cruz Jr.",
@@ -62,6 +64,7 @@
         },
         {
             "fullName": "David Peralta",
+            "team": "CHC",
             "savantName": {
                 "first": "David",
                 "last": "Peralta",
@@ -92,6 +95,7 @@
         },
         {
             "fullName": "Evan Longoria",
+            "team": "AZ",
             "savantName": {
                 "first": "Evan",
                 "last": "Longoria",
@@ -122,6 +126,7 @@
         },
         {
             "fullName": "Charlie Blackmon",
+            "team": "COL",
             "savantName": {
                 "first": "Charlie",
                 "last": "Blackmon",
@@ -152,6 +157,7 @@
         },
         {
             "fullName": "Martín Maldonado",
+            "team": "CWS",
             "savantName": {
                 "first": "Martín",
                 "last": "Maldonado",
@@ -182,6 +188,7 @@
         },
         {
             "fullName": "Donovan Solano",
+            "team": "MIN",
             "savantName": {
                 "first": "Donovan",
                 "last": "Solano",
@@ -214,6 +221,7 @@
         },
         {
             "fullName": "Andrew McCutchen",
+            "team": "PIT",
             "savantName": {
                 "first": "Andrew",
                 "last": "McCutchen",
@@ -244,6 +252,7 @@
         },
         {
             "fullName": "Justin Turner",
+            "team": "TOR",
             "savantName": {
                 "first": "Justin",
                 "last": "Turner",
@@ -274,6 +283,7 @@
         },
         {
             "fullName": "Joey Votto",
+            "team": "CIN",
             "savantName": {
                 "first": "Joey",
                 "last": "Votto",
@@ -304,6 +314,7 @@
         },
         {
             "fullName": "Elvis Andrus",
+            "team": "AZ",
             "savantName": {
                 "first": "Elvis",
                 "last": "Andrus",
@@ -334,6 +345,7 @@
         },
         {
             "fullName": "Carlos Santana",
+            "team": "MIN",
             "savantName": {
                 "first": "Carlos",
                 "last": "Santana",
@@ -364,6 +376,7 @@
         },
         {
             "fullName": "Brandon Belt",
+            "team": "TOR",
             "savantName": {
                 "first": "Brandon",
                 "last": "Belt",
@@ -394,6 +407,7 @@
         },
         {
             "fullName": "Yuli Gurriel",
+            "team": "MIA",
             "savantName": {
                 "first": "Yuli",
                 "last": "Gurriel",
@@ -424,6 +438,7 @@
         },
         {
             "fullName": "Miguel Rojas",
+            "team": "LAD",
             "savantName": {
                 "first": "Miguel",
                 "last": "Rojas",
@@ -455,6 +470,7 @@
         },
         {
             "fullName": "Eduardo Escobar",
+            "team": "TOR",
             "savantName": {
                 "first": "Eduardo",
                 "last": "Escobar",
@@ -487,6 +503,7 @@
         },
         {
             "fullName": "Tommy Pham",
+            "team": "NYM",
             "savantName": {
                 "first": "Tommy",
                 "last": "Pham",
@@ -517,6 +534,7 @@
         },
         {
             "fullName": "J.D. Martinez",
+            "team": "LAD",
             "savantName": {
                 "first": "J.D.",
                 "last": "Martinez",
@@ -547,6 +565,7 @@
         },
         {
             "fullName": "Paul Goldschmidt",
+            "team": "STL",
             "savantName": {
                 "first": "Paul",
                 "last": "Goldschmidt",
@@ -577,6 +596,7 @@
         },
         {
             "fullName": "Jose Altuve",
+            "team": "HOU",
             "savantName": {
                 "first": "Jose",
                 "last": "Altuve",
@@ -607,6 +627,7 @@
         },
         {
             "fullName": "Jean Segura",
+            "team": "MIA",
             "savantName": {
                 "first": "Jean",
                 "last": "Segura",
@@ -637,6 +658,7 @@
         },
         {
             "fullName": "Starling Marte",
+            "team": "NYM",
             "savantName": {
                 "first": "Starling",
                 "last": "Marte",
@@ -667,6 +689,7 @@
         },
         {
             "fullName": "Travis d'Arnaud",
+            "team": "ATL",
             "savantName": {
                 "first": "Travis",
                 "last": "d'Arnaud",
@@ -697,6 +720,7 @@
         },
         {
             "fullName": "Josh Donaldson",
+            "team": "MIL",
             "savantName": {
                 "first": "Josh",
                 "last": "Donaldson",
@@ -727,6 +751,7 @@
         },
         {
             "fullName": "Freddie Freeman",
+            "team": "LAD",
             "savantName": {
                 "first": "Freddie",
                 "last": "Freeman",
@@ -757,6 +782,7 @@
         },
         {
             "fullName": "Yasmani Grandal",
+            "team": "PIT",
             "savantName": {
                 "first": "Yasmani",
                 "last": "Grandal",
@@ -788,6 +814,7 @@
         },
         {
             "fullName": "Jason Heyward",
+            "team": "LAD",
             "savantName": {
                 "first": "Jason",
                 "last": "Heyward",
@@ -818,6 +845,7 @@
         },
         {
             "fullName": "DJ LeMahieu",
+            "team": "NYY",
             "savantName": {
                 "first": "DJ",
                 "last": "LeMahieu",
@@ -850,6 +878,7 @@
         },
         {
             "fullName": "Mike Moustakas",
+            "team": "CWS",
             "savantName": {
                 "first": "Mike",
                 "last": "Moustakas",
@@ -881,6 +910,7 @@
         },
         {
             "fullName": "Anthony Rizzo",
+            "team": "NYY",
             "savantName": {
                 "first": "Anthony",
                 "last": "Rizzo",
@@ -911,6 +941,7 @@
         },
         {
             "fullName": "Giancarlo Stanton",
+            "team": "NYY",
             "savantName": {
                 "first": "Giancarlo",
                 "last": "Stanton",
@@ -941,6 +972,7 @@
         },
         {
             "fullName": "Salvador Perez",
+            "team": "KC",
             "savantName": {
                 "first": "Salvador",
                 "last": "Perez",
@@ -971,6 +1003,7 @@
         },
         {
             "fullName": "Wilmer Flores",
+            "team": "SF",
             "savantName": {
                 "first": "Wilmer",
                 "last": "Flores",
@@ -1003,6 +1036,7 @@
         },
         {
             "fullName": "Christian Bethancourt",
+            "team": "MIA",
             "savantName": {
                 "first": "Christian",
                 "last": "Bethancourt",
@@ -1034,6 +1068,7 @@
         },
         {
             "fullName": "Carlos Pérez",
+            "team": "OAK",
             "savantName": {
                 "first": "Carlos",
                 "last": "Pérez",
@@ -1064,6 +1099,7 @@
         },
         {
             "fullName": "Marcell Ozuna",
+            "team": "ATL",
             "savantName": {
                 "first": "Marcell",
                 "last": "Ozuna",
@@ -1094,6 +1130,7 @@
         },
         {
             "fullName": "Jon Berti",
+            "team": "MIA",
             "savantName": {
                 "first": "Jon",
                 "last": "Berti",
@@ -1127,6 +1164,7 @@
         },
         {
             "fullName": "Brandon Crawford",
+            "team": "STL",
             "savantName": {
                 "first": "Brandon",
                 "last": "Crawford",
@@ -1157,6 +1195,7 @@
         },
         {
             "fullName": "C.J. Cron",
+            "team": "BOS",
             "savantName": {
                 "first": "C.J.",
                 "last": "Cron",
@@ -1187,6 +1226,7 @@
         },
         {
             "fullName": "Yan Gomes",
+            "team": "CHC",
             "savantName": {
                 "first": "Yan",
                 "last": "Gomes",
@@ -1217,6 +1257,7 @@
         },
         {
             "fullName": "Robbie Grossman",
+            "team": "TEX",
             "savantName": {
                 "first": "Robbie",
                 "last": "Grossman",
@@ -1247,6 +1288,7 @@
         },
         {
             "fullName": "Aaron Hicks",
+            "team": "LAA",
             "savantName": {
                 "first": "Aaron",
                 "last": "Hicks",
@@ -1277,6 +1319,7 @@
         },
         {
             "fullName": "Kyle Higashioka",
+            "team": "SD",
             "savantName": {
                 "first": "Kyle",
                 "last": "Higashioka",
@@ -1307,6 +1350,7 @@
         },
         {
             "fullName": "James McCann",
+            "team": "BAL",
             "savantName": {
                 "first": "James",
                 "last": "McCann",
@@ -1338,6 +1382,7 @@
         },
         {
             "fullName": "Austin Nola",
+            "team": "KC",
             "savantName": {
                 "first": "Austin",
                 "last": "Nola",
@@ -1368,6 +1413,7 @@
         },
         {
             "fullName": "Anthony Rendon",
+            "team": "LAA",
             "savantName": {
                 "first": "Anthony",
                 "last": "Rendon",
@@ -1398,6 +1444,7 @@
         },
         {
             "fullName": "Marcus Semien",
+            "team": "TEX",
             "savantName": {
                 "first": "Marcus",
                 "last": "Semien",
@@ -1429,6 +1476,7 @@
         },
         {
             "fullName": "George Springer III",
+            "team": "TOR",
             "savantName": {
                 "first": "George",
                 "last": "Springer III",
@@ -1459,6 +1507,7 @@
         },
         {
             "fullName": "Christian Vázquez",
+            "team": "MIN",
             "savantName": {
                 "first": "Christian",
                 "last": "Vázquez",
@@ -1490,6 +1539,7 @@
         },
         {
             "fullName": "Kolten Wong",
+            "team": "BAL",
             "savantName": {
                 "first": "Kolten",
                 "last": "Wong",
@@ -1520,6 +1570,7 @@
         },
         {
             "fullName": "Ildemaro Vargas",
+            "team": "WSH",
             "savantName": {
                 "first": "Ildemaro",
                 "last": "Vargas",
@@ -1552,6 +1603,7 @@
         },
         {
             "fullName": "Randal Grichuk",
+            "team": "AZ",
             "savantName": {
                 "first": "Randal",
                 "last": "Grichuk",
@@ -1582,6 +1634,7 @@
         },
         {
             "fullName": "Mike Trout",
+            "team": "LAA",
             "savantName": {
                 "first": "Mike",
                 "last": "Trout",
@@ -1612,6 +1665,7 @@
         },
         {
             "fullName": "Bryce Harper",
+            "team": "PHI",
             "savantName": {
                 "first": "Bryce",
                 "last": "Harper",
@@ -1642,6 +1696,7 @@
         },
         {
             "fullName": "José Abreu",
+            "team": "HOU",
             "savantName": {
                 "first": "José",
                 "last": "Abreu",
@@ -1672,6 +1727,7 @@
         },
         {
             "fullName": "Elias Díaz",
+            "team": "COL",
             "savantName": {
                 "first": "Elias",
                 "last": "Díaz",
@@ -1702,6 +1758,7 @@
         },
         {
             "fullName": "Eugenio Suárez",
+            "team": "AZ",
             "savantName": {
                 "first": "Eugenio",
                 "last": "Suárez",
@@ -1733,6 +1790,7 @@
         },
         {
             "fullName": "Gio Urshela",
+            "team": "DET",
             "savantName": {
                 "first": "Gio",
                 "last": "Urshela",
@@ -1764,6 +1822,7 @@
         },
         {
             "fullName": "Jonathan Schoop",
+            "team": "DET",
             "savantName": {
                 "first": "Jonathan",
                 "last": "Schoop",
@@ -1795,6 +1854,7 @@
         },
         {
             "fullName": "Nolan Arenado",
+            "team": "STL",
             "savantName": {
                 "first": "Nolan",
                 "last": "Arenado",
@@ -1825,6 +1885,7 @@
         },
         {
             "fullName": "Kyle Farmer",
+            "team": "MIN",
             "savantName": {
                 "first": "Kyle",
                 "last": "Farmer",
@@ -1856,6 +1917,7 @@
         },
         {
             "fullName": "Mitch Haniger",
+            "team": "SEA",
             "savantName": {
                 "first": "Mitch",
                 "last": "Haniger",
@@ -1886,6 +1948,7 @@
         },
         {
             "fullName": "Enrique Hernández",
+            "team": "LAD",
             "savantName": {
                 "first": "Enrique",
                 "last": "Hernández",
@@ -1918,6 +1981,7 @@
         },
         {
             "fullName": "Luke Maile",
+            "team": "CIN",
             "savantName": {
                 "first": "Luke",
                 "last": "Maile",
@@ -1948,6 +2012,7 @@
         },
         {
             "fullName": "Max Muncy",
+            "team": "LAD",
             "savantName": {
                 "first": "Max",
                 "last": "Muncy",
@@ -1980,6 +2045,7 @@
         },
         {
             "fullName": "Michael A. Taylor",
+            "team": "MIN",
             "savantName": {
                 "first": "Michael A.",
                 "last": "Taylor",
@@ -2010,6 +2076,7 @@
         },
         {
             "fullName": "Trayce Thompson",
+            "team": "NYM",
             "savantName": {
                 "first": "Trayce",
                 "last": "Thompson",
@@ -2040,6 +2107,7 @@
         },
         {
             "fullName": "Christian Walker",
+            "team": "AZ",
             "savantName": {
                 "first": "Christian",
                 "last": "Walker",
@@ -2070,6 +2138,7 @@
         },
         {
             "fullName": "Matt Carpenter",
+            "team": "STL",
             "savantName": {
                 "first": "Matt",
                 "last": "Carpenter",
@@ -2102,6 +2171,7 @@
         },
         {
             "fullName": "Corey Dickerson",
+            "team": "WSH",
             "savantName": {
                 "first": "Corey",
                 "last": "Dickerson",
@@ -2132,6 +2202,7 @@
         },
         {
             "fullName": "Mike Yastrzemski",
+            "team": "SF",
             "savantName": {
                 "first": "Mike",
                 "last": "Yastrzemski",
@@ -2162,6 +2233,7 @@
         },
         {
             "fullName": "Willson Contreras",
+            "team": "STL",
             "savantName": {
                 "first": "Willson",
                 "last": "Contreras",
@@ -2192,6 +2264,7 @@
         },
         {
             "fullName": "Kris Bryant",
+            "team": "COL",
             "savantName": {
                 "first": "Kris",
                 "last": "Bryant",
@@ -2224,6 +2297,7 @@
         },
         {
             "fullName": "Mark Canha",
+            "team": "DET",
             "savantName": {
                 "first": "Mark",
                 "last": "Canha",
@@ -2254,6 +2328,7 @@
         },
         {
             "fullName": "Nick Castellanos",
+            "team": "PHI",
             "savantName": {
                 "first": "Nick",
                 "last": "Castellanos",
@@ -2284,6 +2359,7 @@
         },
         {
             "fullName": "Brandon Drury",
+            "team": "LAA",
             "savantName": {
                 "first": "Brandon",
                 "last": "Drury",
@@ -2317,6 +2393,7 @@
         },
         {
             "fullName": "Aaron Judge",
+            "team": "NYY",
             "savantName": {
                 "first": "Aaron",
                 "last": "Judge",
@@ -2347,6 +2424,7 @@
         },
         {
             "fullName": "Manny Machado",
+            "team": "SD",
             "savantName": {
                 "first": "Manny",
                 "last": "Machado",
@@ -2377,6 +2455,7 @@
         },
         {
             "fullName": "Joc Pederson",
+            "team": "AZ",
             "savantName": {
                 "first": "Joc",
                 "last": "Pederson",
@@ -2407,6 +2486,7 @@
         },
         {
             "fullName": "J.T. Realmuto",
+            "team": "PHI",
             "savantName": {
                 "first": "J.T.",
                 "last": "Realmuto",
@@ -2438,6 +2518,7 @@
         },
         {
             "fullName": "Hunter Renfroe",
+            "team": "KC",
             "savantName": {
                 "first": "Hunter",
                 "last": "Renfroe",
@@ -2468,6 +2549,7 @@
         },
         {
             "fullName": "Eddie Rosario",
+            "team": "ATL",
             "savantName": {
                 "first": "Eddie",
                 "last": "Rosario",
@@ -2498,6 +2580,7 @@
         },
         {
             "fullName": "Christian Yelich",
+            "team": "MIL",
             "savantName": {
                 "first": "Christian",
                 "last": "Yelich",
@@ -2528,6 +2611,7 @@
         },
         {
             "fullName": "Whit Merrifield",
+            "team": "PHI",
             "savantName": {
                 "first": "Whit",
                 "last": "Merrifield",
@@ -2559,6 +2643,7 @@
         },
         {
             "fullName": "Xander Bogaerts",
+            "team": "SD",
             "savantName": {
                 "first": "Xander",
                 "last": "Bogaerts",
@@ -2589,6 +2674,7 @@
         },
         {
             "fullName": "Jorge Polanco",
+            "team": "SEA",
             "savantName": {
                 "first": "Jorge",
                 "last": "Polanco",
@@ -2620,6 +2706,7 @@
         },
         {
             "fullName": "Kole Calhoun",
+            "team": "CLE",
             "savantName": {
                 "first": "Kole",
                 "last": "Calhoun",
@@ -2650,6 +2737,7 @@
         },
         {
             "fullName": "Adam Duvall",
+            "team": "BOS",
             "savantName": {
                 "first": "Adam",
                 "last": "Duvall",
@@ -2680,6 +2768,7 @@
         },
         {
             "fullName": "Kevin Kiermaier",
+            "team": "TOR",
             "savantName": {
                 "first": "Kevin",
                 "last": "Kiermaier",
@@ -2710,6 +2799,7 @@
         },
         {
             "fullName": "Chad Wallach",
+            "team": "LAA",
             "savantName": {
                 "first": "Chad",
                 "last": "Wallach",
@@ -2740,6 +2830,7 @@
         },
         {
             "fullName": "Jurickson Profar",
+            "team": "SD",
             "savantName": {
                 "first": "Jurickson",
                 "last": "Profar",
@@ -2772,6 +2863,7 @@
         },
         {
             "fullName": "Javier Báez",
+            "team": "DET",
             "savantName": {
                 "first": "Javier",
                 "last": "Báez",
@@ -2803,6 +2895,7 @@
         },
         {
             "fullName": "Jake Cave",
+            "team": "PHI",
             "savantName": {
                 "first": "Jake",
                 "last": "Cave",
@@ -2833,6 +2926,7 @@
         },
         {
             "fullName": "Austin Hedges",
+            "team": "CLE",
             "savantName": {
                 "first": "Austin",
                 "last": "Hedges",
@@ -2863,6 +2957,7 @@
         },
         {
             "fullName": "Francisco Lindor",
+            "team": "NYM",
             "savantName": {
                 "first": "Francisco",
                 "last": "Lindor",
@@ -2893,6 +2988,7 @@
         },
         {
             "fullName": "Rougned Odor",
+            "team": "SD",
             "savantName": {
                 "first": "Rougned",
                 "last": "Odor",
@@ -2924,6 +3020,7 @@
         },
         {
             "fullName": "Austin Slater",
+            "team": "SF",
             "savantName": {
                 "first": "Austin",
                 "last": "Slater",
@@ -2954,6 +3051,7 @@
         },
         {
             "fullName": "Trevor Story",
+            "team": "BOS",
             "savantName": {
                 "first": "Trevor",
                 "last": "Story",
@@ -2985,6 +3083,7 @@
         },
         {
             "fullName": "Daniel Vogelbach",
+            "team": "TOR",
             "savantName": {
                 "first": "Daniel",
                 "last": "Vogelbach",
@@ -3015,6 +3114,7 @@
         },
         {
             "fullName": "Gary Sánchez",
+            "team": "MIL",
             "savantName": {
                 "first": "Gary",
                 "last": "Sánchez",
@@ -3045,6 +3145,7 @@
         },
         {
             "fullName": "Max Kepler",
+            "team": "MIN",
             "savantName": {
                 "first": "Max",
                 "last": "Kepler",
@@ -3075,6 +3176,7 @@
         },
         {
             "fullName": "Jeimer Candelario",
+            "team": "CIN",
             "savantName": {
                 "first": "Jeimer",
                 "last": "Candelario",
@@ -3105,6 +3207,7 @@
         },
         {
             "fullName": "Ramón Urías",
+            "team": "BAL",
             "savantName": {
                 "first": "Ramón",
                 "last": "Urías",
@@ -3137,6 +3240,7 @@
         },
         {
             "fullName": "Nick Ahmed",
+            "team": "SF",
             "savantName": {
                 "first": "Nick",
                 "last": "Ahmed",
@@ -3167,6 +3271,7 @@
         },
         {
             "fullName": "Brian Anderson",
+            "team": "SEA",
             "savantName": {
                 "first": "Brian",
                 "last": "Anderson",
@@ -3198,6 +3303,7 @@
         },
         {
             "fullName": "Austin Barnes",
+            "team": "LAD",
             "savantName": {
                 "first": "Austin",
                 "last": "Barnes",
@@ -3228,6 +3334,7 @@
         },
         {
             "fullName": "Josh Bell",
+            "team": "MIA",
             "savantName": {
                 "first": "Josh",
                 "last": "Bell",
@@ -3259,6 +3366,7 @@
         },
         {
             "fullName": "Mookie Betts",
+            "team": "LAD",
             "savantName": {
                 "first": "Mookie",
                 "last": "Betts",
@@ -3290,6 +3398,7 @@
         },
         {
             "fullName": "Victor Caratini",
+            "team": "HOU",
             "savantName": {
                 "first": "Victor",
                 "last": "Caratini",
@@ -3320,6 +3429,7 @@
         },
         {
             "fullName": "J.D. Davis",
+            "team": "SF",
             "savantName": {
                 "first": "J.D.",
                 "last": "Davis",
@@ -3351,6 +3461,7 @@
         },
         {
             "fullName": "Harold Castro",
+            "team": "COL",
             "savantName": {
                 "first": "Harold",
                 "last": "Castro",
@@ -3384,6 +3495,7 @@
         },
         {
             "fullName": "Orlando Arcia",
+            "team": "ATL",
             "savantName": {
                 "first": "Orlando",
                 "last": "Arcia",
@@ -3415,6 +3527,7 @@
         },
         {
             "fullName": "Raimel Tapia",
+            "team": "BOS",
             "savantName": {
                 "first": "Raimel",
                 "last": "Tapia",
@@ -3445,6 +3558,7 @@
         },
         {
             "fullName": "Teoscar Hernández",
+            "team": "LAD",
             "savantName": {
                 "first": "Teoscar",
                 "last": "Hernández",
@@ -3475,6 +3589,7 @@
         },
         {
             "fullName": "Ketel Marte",
+            "team": "AZ",
             "savantName": {
                 "first": "Ketel",
                 "last": "Marte",
@@ -3506,6 +3621,7 @@
         },
         {
             "fullName": "Eric Haase",
+            "team": "MIL",
             "savantName": {
                 "first": "Eric",
                 "last": "Haase",
@@ -3537,6 +3653,7 @@
         },
         {
             "fullName": "Brandon Nimmo",
+            "team": "NYM",
             "savantName": {
                 "first": "Brandon",
                 "last": "Nimmo",
@@ -3567,6 +3684,7 @@
         },
         {
             "fullName": "Jace Peterson",
+            "team": "AZ",
             "savantName": {
                 "first": "Jace",
                 "last": "Peterson",
@@ -3600,6 +3718,7 @@
         },
         {
             "fullName": "Trea Turner",
+            "team": "PHI",
             "savantName": {
                 "first": "Trea",
                 "last": "Turner",
@@ -3631,6 +3750,7 @@
         },
         {
             "fullName": "Kevin Pillar",
+            "team": "CWS",
             "savantName": {
                 "first": "Kevin",
                 "last": "Pillar",
@@ -3661,6 +3781,7 @@
         },
         {
             "fullName": "Jacob Stallings",
+            "team": "COL",
             "savantName": {
                 "first": "Jacob",
                 "last": "Stallings",
@@ -3691,6 +3812,7 @@
         },
         {
             "fullName": "José Ramírez",
+            "team": "CLE",
             "savantName": {
                 "first": "José",
                 "last": "Ramírez",
@@ -3721,6 +3843,7 @@
         },
         {
             "fullName": "Alex Bregman",
+            "team": "HOU",
             "savantName": {
                 "first": "Alex",
                 "last": "Bregman",
@@ -3751,6 +3874,7 @@
         },
         {
             "fullName": "Joey Gallo",
+            "team": "WSH",
             "savantName": {
                 "first": "Joey",
                 "last": "Gallo",
@@ -3781,6 +3905,7 @@
         },
         {
             "fullName": "Carson Kelly",
+            "team": "DET",
             "savantName": {
                 "first": "Carson",
                 "last": "Kelly",
@@ -3811,6 +3936,7 @@
         },
         {
             "fullName": "Corey Seager",
+            "team": "TEX",
             "savantName": {
                 "first": "Corey",
                 "last": "Seager",
@@ -3841,6 +3967,7 @@
         },
         {
             "fullName": "Jesse Winker",
+            "team": "WSH",
             "savantName": {
                 "first": "Jesse",
                 "last": "Winker",
@@ -3871,6 +3998,7 @@
         },
         {
             "fullName": "Tom Murphy",
+            "team": "SF",
             "savantName": {
                 "first": "Tom",
                 "last": "Murphy",
@@ -3901,6 +4029,7 @@
         },
         {
             "fullName": "Travis Jankowski",
+            "team": "TEX",
             "savantName": {
                 "first": "Travis",
                 "last": "Jankowski",
@@ -3931,6 +4060,7 @@
         },
         {
             "fullName": "Rob Refsnyder",
+            "team": "BOS",
             "savantName": {
                 "first": "Rob",
                 "last": "Refsnyder",
@@ -3961,6 +4091,7 @@
         },
         {
             "fullName": "Joey Meneses",
+            "team": "WSH",
             "savantName": {
                 "first": "Joey",
                 "last": "Meneses",
@@ -3992,6 +4123,7 @@
         },
         {
             "fullName": "Dansby Swanson",
+            "team": "CHC",
             "savantName": {
                 "first": "Dansby",
                 "last": "Swanson",
@@ -4022,6 +4154,7 @@
         },
         {
             "fullName": "Kevin Newman",
+            "team": "AZ",
             "savantName": {
                 "first": "Kevin",
                 "last": "Newman",
@@ -4053,6 +4186,7 @@
         },
         {
             "fullName": "Chris Taylor",
+            "team": "LAD",
             "savantName": {
                 "first": "Chris",
                 "last": "Taylor",
@@ -4086,6 +4220,7 @@
         },
         {
             "fullName": "Carlos Correa",
+            "team": "MIN",
             "savantName": {
                 "first": "Carlos",
                 "last": "Correa",
@@ -4116,6 +4251,7 @@
         },
         {
             "fullName": "Tyrone Taylor",
+            "team": "NYM",
             "savantName": {
                 "first": "Tyrone",
                 "last": "Taylor",
@@ -4146,6 +4282,7 @@
         },
         {
             "fullName": "Byron Buxton",
+            "team": "MIN",
             "savantName": {
                 "first": "Byron",
                 "last": "Buxton",
@@ -4176,6 +4313,7 @@
         },
         {
             "fullName": "DJ Stewart",
+            "team": "NYM",
             "savantName": {
                 "first": "DJ",
                 "last": "Stewart",
@@ -4206,6 +4344,7 @@
         },
         {
             "fullName": "Taylor Ward",
+            "team": "LAA",
             "savantName": {
                 "first": "Taylor",
                 "last": "Ward",
@@ -4236,6 +4375,7 @@
         },
         {
             "fullName": "Patrick Wisdom",
+            "team": "CHC",
             "savantName": {
                 "first": "Patrick",
                 "last": "Wisdom",
@@ -4268,6 +4408,7 @@
         },
         {
             "fullName": "Joey Wendle",
+            "team": "NYM",
             "savantName": {
                 "first": "Joey",
                 "last": "Wendle",
@@ -4300,6 +4441,7 @@
         },
         {
             "fullName": "Matt Olson",
+            "team": "ATL",
             "savantName": {
                 "first": "Matt",
                 "last": "Olson",
@@ -4330,6 +4472,7 @@
         },
         {
             "fullName": "Matt Duffy",
+            "team": "TEX",
             "savantName": {
                 "first": "Matt",
                 "last": "Duffy",
@@ -4362,6 +4505,7 @@
         },
         {
             "fullName": "Manuel Margot",
+            "team": "MIN",
             "savantName": {
                 "first": "Manuel",
                 "last": "Margot",
@@ -4392,6 +4536,7 @@
         },
         {
             "fullName": "Pablo Reyes",
+            "team": "BOS",
             "savantName": {
                 "first": "Pablo",
                 "last": "Reyes",
@@ -4422,6 +4567,7 @@
         },
         {
             "fullName": "Jorge Mateo",
+            "team": "BAL",
             "savantName": {
                 "first": "Jorge",
                 "last": "Mateo",
@@ -4454,6 +4600,7 @@
         },
         {
             "fullName": "Harold Ramírez",
+            "team": "TB",
             "savantName": {
                 "first": "Harold",
                 "last": "Ramírez",
@@ -4485,6 +4632,7 @@
         },
         {
             "fullName": "Anthony Santander",
+            "team": "BAL",
             "savantName": {
                 "first": "Anthony",
                 "last": "Santander",
@@ -4515,6 +4663,7 @@
         },
         {
             "fullName": "Pete Alonso",
+            "team": "NYM",
             "savantName": {
                 "first": "Pete",
                 "last": "Alonso",
@@ -4545,6 +4694,7 @@
         },
         {
             "fullName": "Christian Arroyo",
+            "team": "MIL",
             "savantName": {
                 "first": "Christian",
                 "last": "Arroyo",
@@ -4579,6 +4729,7 @@
         },
         {
             "fullName": "Cavan Biggio",
+            "team": "TOR",
             "savantName": {
                 "first": "Cavan",
                 "last": "Biggio",
@@ -4612,6 +4763,7 @@
         },
         {
             "fullName": "Michael Conforto",
+            "team": "SF",
             "savantName": {
                 "first": "Michael",
                 "last": "Conforto",
@@ -4642,6 +4794,7 @@
         },
         {
             "fullName": "Adam Frazier",
+            "team": "KC",
             "savantName": {
                 "first": "Adam",
                 "last": "Frazier",
@@ -4673,6 +4826,7 @@
         },
         {
             "fullName": "Jose Trevino",
+            "team": "NYY",
             "savantName": {
                 "first": "Jose",
                 "last": "Trevino",
@@ -4703,6 +4857,7 @@
         },
         {
             "fullName": "Reese McGuire",
+            "team": "BOS",
             "savantName": {
                 "first": "Reese",
                 "last": "McGuire",
@@ -4733,6 +4888,7 @@
         },
         {
             "fullName": "Jorge Soler",
+            "team": "SF",
             "savantName": {
                 "first": "Jorge",
                 "last": "Soler",
@@ -4763,6 +4919,7 @@
         },
         {
             "fullName": "Edmundo Sosa",
+            "team": "PHI",
             "savantName": {
                 "first": "Edmundo",
                 "last": "Sosa",
@@ -4795,6 +4952,7 @@
         },
         {
             "fullName": "Andy Ibáñez",
+            "team": "DET",
             "savantName": {
                 "first": "Andy",
                 "last": "Ibáñez",
@@ -4827,6 +4985,7 @@
         },
         {
             "fullName": "Jake Cronenworth",
+            "team": "SD",
             "savantName": {
                 "first": "Jake",
                 "last": "Cronenworth",
@@ -4859,6 +5018,7 @@
         },
         {
             "fullName": "Tim Anderson",
+            "team": "MIA",
             "savantName": {
                 "first": "Tim",
                 "last": "Anderson",
@@ -4889,6 +5049,7 @@
         },
         {
             "fullName": "Jake Bauers",
+            "team": "MIL",
             "savantName": {
                 "first": "Jake",
                 "last": "Bauers",
@@ -4920,6 +5081,7 @@
         },
         {
             "fullName": "Cody Bellinger",
+            "team": "CHC",
             "savantName": {
                 "first": "Cody",
                 "last": "Bellinger",
@@ -4950,6 +5112,7 @@
         },
         {
             "fullName": "J.P. Crawford",
+            "team": "SEA",
             "savantName": {
                 "first": "J.P.",
                 "last": "Crawford",
@@ -4980,6 +5143,7 @@
         },
         {
             "fullName": "Jason Delay",
+            "team": "PIT",
             "savantName": {
                 "first": "Jason",
                 "last": "Delay",
@@ -5010,6 +5174,7 @@
         },
         {
             "fullName": "Jake Fraley",
+            "team": "CIN",
             "savantName": {
                 "first": "Jake",
                 "last": "Fraley",
@@ -5040,6 +5205,7 @@
         },
         {
             "fullName": "Mitch Garver",
+            "team": "SEA",
             "savantName": {
                 "first": "Mitch",
                 "last": "Garver",
@@ -5070,6 +5236,7 @@
         },
         {
             "fullName": "Garrett Hampson",
+            "team": "KC",
             "savantName": {
                 "first": "Garrett",
                 "last": "Hampson",
@@ -5103,6 +5270,7 @@
         },
         {
             "fullName": "Jonah Heim",
+            "team": "TEX",
             "savantName": {
                 "first": "Jonah",
                 "last": "Heim",
@@ -5133,6 +5301,7 @@
         },
         {
             "fullName": "Trey Mancini III",
+            "team": "MIA",
             "savantName": {
                 "first": "Trey",
                 "last": "Mancini III",
@@ -5164,6 +5333,7 @@
         },
         {
             "fullName": "Ryan McMahon",
+            "team": "COL",
             "savantName": {
                 "first": "Ryan",
                 "last": "McMahon",
@@ -5195,6 +5365,7 @@
         },
         {
             "fullName": "Tyler O'Neill",
+            "team": "BOS",
             "savantName": {
                 "first": "Tyler",
                 "last": "O'Neill",
@@ -5225,6 +5396,7 @@
         },
         {
             "fullName": "Joshua Palacios",
+            "team": "PIT",
             "savantName": {
                 "first": "Joshua",
                 "last": "Palacios",
@@ -5255,6 +5427,7 @@
         },
         {
             "fullName": "Dominic Smith",
+            "team": "CHC",
             "savantName": {
                 "first": "Dominic",
                 "last": "Smith",
@@ -5286,6 +5459,7 @@
         },
         {
             "fullName": "Rowdy Tellez",
+            "team": "PIT",
             "savantName": {
                 "first": "Rowdy",
                 "last": "Tellez",
@@ -5316,6 +5490,7 @@
         },
         {
             "fullName": "Matt Thaiss",
+            "team": "LAA",
             "savantName": {
                 "first": "Matt",
                 "last": "Thaiss",
@@ -5347,6 +5522,7 @@
         },
         {
             "fullName": "Francisco Mejía",
+            "team": "TB",
             "savantName": {
                 "first": "Francisco",
                 "last": "Mejía",
@@ -5377,6 +5553,7 @@
         },
         {
             "fullName": "Jose Siri",
+            "team": "TB",
             "savantName": {
                 "first": "Jose",
                 "last": "Siri",
@@ -5407,6 +5584,7 @@
         },
         {
             "fullName": "Amed Rosario",
+            "team": "TB",
             "savantName": {
                 "first": "Amed",
                 "last": "Rosario",
@@ -5438,6 +5616,7 @@
         },
         {
             "fullName": "Willy Adames",
+            "team": "MIL",
             "savantName": {
                 "first": "Willy",
                 "last": "Adames",
@@ -5468,6 +5647,7 @@
         },
         {
             "fullName": "Thairo Estrada",
+            "team": "SF",
             "savantName": {
                 "first": "Thairo",
                 "last": "Estrada",
@@ -5500,6 +5680,7 @@
         },
         {
             "fullName": "Andrew Benintendi",
+            "team": "CWS",
             "savantName": {
                 "first": "Andrew",
                 "last": "Benintendi",
@@ -5530,6 +5711,7 @@
         },
         {
             "fullName": "Garrett Cooper",
+            "team": "CHC",
             "savantName": {
                 "first": "Garrett",
                 "last": "Cooper",
@@ -5561,6 +5743,7 @@
         },
         {
             "fullName": "Mauricio Dubón",
+            "team": "HOU",
             "savantName": {
                 "first": "Mauricio",
                 "last": "Dubón",
@@ -5594,6 +5777,7 @@
         },
         {
             "fullName": "Danny Jansen",
+            "team": "TOR",
             "savantName": {
                 "first": "Danny",
                 "last": "Jansen",
@@ -5624,6 +5808,7 @@
         },
         {
             "fullName": "Tony Kemp",
+            "team": "CIN",
             "savantName": {
                 "first": "Tony",
                 "last": "Kemp",
@@ -5655,6 +5840,7 @@
         },
         {
             "fullName": "Isiah Kiner-Falefa",
+            "team": "TOR",
             "savantName": {
                 "first": "Isiah",
                 "last": "Kiner-Falefa",
@@ -5685,6 +5871,7 @@
         },
         {
             "fullName": "Jeff McNeil",
+            "team": "NYM",
             "savantName": {
                 "first": "Jeff",
                 "last": "McNeil",
@@ -5716,6 +5903,7 @@
         },
         {
             "fullName": "Ozzie Albies",
+            "team": "ATL",
             "savantName": {
                 "first": "Ozzie",
                 "last": "Albies",
@@ -5746,6 +5934,7 @@
         },
         {
             "fullName": "Mike Ford",
+            "team": "CIN",
             "savantName": {
                 "first": "Mike",
                 "last": "Ford",
@@ -5776,6 +5965,7 @@
         },
         {
             "fullName": "Rafael Devers",
+            "team": "BOS",
             "savantName": {
                 "first": "Rafael",
                 "last": "Devers",
@@ -5806,6 +5996,7 @@
         },
         {
             "fullName": "Josh Naylor",
+            "team": "CLE",
             "savantName": {
                 "first": "Josh",
                 "last": "Naylor",
@@ -5837,6 +6028,7 @@
         },
         {
             "fullName": "Aledmys Díaz",
+            "team": "OAK",
             "savantName": {
                 "first": "Aledmys",
                 "last": "Díaz",
@@ -5871,6 +6063,7 @@
         },
         {
             "fullName": "Luis Urías",
+            "team": "SEA",
             "savantName": {
                 "first": "Luis",
                 "last": "Urías",
@@ -5903,6 +6096,7 @@
         },
         {
             "fullName": "Luis Arraez",
+            "team": "MIA",
             "savantName": {
                 "first": "Luis",
                 "last": "Arraez",
@@ -5936,6 +6130,7 @@
         },
         {
             "fullName": "Eloy Jiménez",
+            "team": "CWS",
             "savantName": {
                 "first": "Eloy",
                 "last": "Jiménez",
@@ -5966,6 +6161,7 @@
         },
         {
             "fullName": "Gleyber Torres",
+            "team": "NYY",
             "savantName": {
                 "first": "Gleyber",
                 "last": "Torres",
@@ -5997,6 +6193,7 @@
         },
         {
             "fullName": "Willi Castro",
+            "team": "MIN",
             "savantName": {
                 "first": "Willi",
                 "last": "Castro",
@@ -6029,6 +6226,7 @@
         },
         {
             "fullName": "Yandy Díaz",
+            "team": "TB",
             "savantName": {
                 "first": "Yandy",
                 "last": "Díaz",
@@ -6060,6 +6258,7 @@
         },
         {
             "fullName": "Bryan De La Cruz",
+            "team": "MIA",
             "savantName": {
                 "first": "Bryan",
                 "last": "De La Cruz",
@@ -6090,6 +6289,7 @@
         },
         {
             "fullName": "Luis Rengifo",
+            "team": "LAA",
             "savantName": {
                 "first": "Luis",
                 "last": "Rengifo",
@@ -6123,6 +6323,7 @@
         },
         {
             "fullName": "Riley Adams",
+            "team": "WSH",
             "savantName": {
                 "first": "Riley",
                 "last": "Adams",
@@ -6153,6 +6354,7 @@
         },
         {
             "fullName": "Matt Chapman",
+            "team": "SF",
             "savantName": {
                 "first": "Matt",
                 "last": "Chapman",
@@ -6183,6 +6385,7 @@
         },
         {
             "fullName": "Stuart Fairchild",
+            "team": "CIN",
             "savantName": {
                 "first": "Stuart",
                 "last": "Fairchild",
@@ -6213,6 +6416,7 @@
         },
         {
             "fullName": "Stone Garrett",
+            "team": "WSH",
             "savantName": {
                 "first": "Stone",
                 "last": "Garrett",
@@ -6243,6 +6447,7 @@
         },
         {
             "fullName": "Connor Joe",
+            "team": "PIT",
             "savantName": {
                 "first": "Connor",
                 "last": "Joe",
@@ -6274,6 +6479,7 @@
         },
         {
             "fullName": "Zach McKinstry",
+            "team": "DET",
             "savantName": {
                 "first": "Zach",
                 "last": "McKinstry",
@@ -6307,6 +6513,7 @@
         },
         {
             "fullName": "Cedric Mullins II",
+            "team": "BAL",
             "savantName": {
                 "first": "Cedric",
                 "last": "Mullins II",
@@ -6337,6 +6544,7 @@
         },
         {
             "fullName": "Ryan O'Hearn",
+            "team": "BAL",
             "savantName": {
                 "first": "Ryan",
                 "last": "O'Hearn",
@@ -6368,6 +6576,7 @@
         },
         {
             "fullName": "Emmanuel Rivera",
+            "team": "AZ",
             "savantName": {
                 "first": "Emmanuel",
                 "last": "Rivera",
@@ -6398,6 +6607,7 @@
         },
         {
             "fullName": "Kyle Schwarber",
+            "team": "PHI",
             "savantName": {
                 "first": "Kyle",
                 "last": "Schwarber",
@@ -6429,6 +6639,7 @@
         },
         {
             "fullName": "Pavin Smith",
+            "team": "AZ",
             "savantName": {
                 "first": "Pavin",
                 "last": "Smith",
@@ -6460,6 +6671,7 @@
         },
         {
             "fullName": "Lane Thomas",
+            "team": "WSH",
             "savantName": {
                 "first": "Lane",
                 "last": "Thomas",
@@ -6490,6 +6702,7 @@
         },
         {
             "fullName": "Alex Verdugo",
+            "team": "NYY",
             "savantName": {
                 "first": "Alex",
                 "last": "Verdugo",
@@ -6520,6 +6733,7 @@
         },
         {
             "fullName": "Connor Wong",
+            "team": "BOS",
             "savantName": {
                 "first": "Connor",
                 "last": "Wong",
@@ -6550,6 +6764,7 @@
         },
         {
             "fullName": "Paul DeJong",
+            "team": "CWS",
             "savantName": {
                 "first": "Paul",
                 "last": "DeJong",
@@ -6580,6 +6795,7 @@
         },
         {
             "fullName": "Ramón Laureano",
+            "team": "CLE",
             "savantName": {
                 "first": "Ramón",
                 "last": "Laureano",
@@ -6610,6 +6826,7 @@
         },
         {
             "fullName": "Gavin Sheets",
+            "team": "CWS",
             "savantName": {
                 "first": "Gavin",
                 "last": "Sheets",
@@ -6641,6 +6858,7 @@
         },
         {
             "fullName": "Edward Olivares",
+            "team": "PIT",
             "savantName": {
                 "first": "Edward",
                 "last": "Olivares",
@@ -6671,6 +6889,7 @@
         },
         {
             "fullName": "Yoán Moncada",
+            "team": "CWS",
             "savantName": {
                 "first": "Yoán",
                 "last": "Moncada",
@@ -6701,6 +6920,7 @@
         },
         {
             "fullName": "Ronald Acuña Jr.",
+            "team": "ATL",
             "savantName": {
                 "first": "Ronald",
                 "last": "Acuña Jr.",
@@ -6731,6 +6951,7 @@
         },
         {
             "fullName": "Keibert Ruiz",
+            "team": "WSH",
             "savantName": {
                 "first": "Keibert",
                 "last": "Ruiz",
@@ -6761,6 +6982,7 @@
         },
         {
             "fullName": "Elehuris Montero",
+            "team": "COL",
             "savantName": {
                 "first": "Elehuris",
                 "last": "Montero",
@@ -6792,6 +7014,7 @@
         },
         {
             "fullName": "Oscar Gonzalez",
+            "team": "NYY",
             "savantName": {
                 "first": "Oscar",
                 "last": "Gonzalez",
@@ -6822,6 +7045,7 @@
         },
         {
             "fullName": "Jesús Sánchez",
+            "team": "MIA",
             "savantName": {
                 "first": "Jesús",
                 "last": "Sánchez",
@@ -6852,6 +7076,7 @@
         },
         {
             "fullName": "William Contreras",
+            "team": "MIL",
             "savantName": {
                 "first": "William",
                 "last": "Contreras",
@@ -6882,6 +7107,7 @@
         },
         {
             "fullName": "Daulton Varsho",
+            "team": "TOR",
             "savantName": {
                 "first": "Daulton",
                 "last": "Varsho",
@@ -6913,6 +7139,7 @@
         },
         {
             "fullName": "Blake Perkins",
+            "team": "MIL",
             "savantName": {
                 "first": "Blake",
                 "last": "Perkins",
@@ -6943,6 +7170,7 @@
         },
         {
             "fullName": "Lars Nootbaar",
+            "team": "STL",
             "savantName": {
                 "first": "Lars",
                 "last": "Nootbaar",
@@ -6973,6 +7201,7 @@
         },
         {
             "fullName": "Nico Hoerner",
+            "team": "CHC",
             "savantName": {
                 "first": "Nico",
                 "last": "Hoerner",
@@ -7004,6 +7233,7 @@
         },
         {
             "fullName": "Austin Riley",
+            "team": "ATL",
             "savantName": {
                 "first": "Austin",
                 "last": "Riley",
@@ -7035,6 +7265,7 @@
         },
         {
             "fullName": "Nick Madrigal",
+            "team": "CHC",
             "savantName": {
                 "first": "Nick",
                 "last": "Madrigal",
@@ -7065,6 +7296,7 @@
         },
         {
             "fullName": "Trevor Larnach",
+            "team": "MIN",
             "savantName": {
                 "first": "Trevor",
                 "last": "Larnach",
@@ -7095,6 +7327,7 @@
         },
         {
             "fullName": "Ryan Mountcastle",
+            "team": "BAL",
             "savantName": {
                 "first": "Ryan",
                 "last": "Mountcastle",
@@ -7126,6 +7359,7 @@
         },
         {
             "fullName": "Ke'Bryan Hayes",
+            "team": "PIT",
             "savantName": {
                 "first": "Ke'Bryan",
                 "last": "Hayes",
@@ -7156,6 +7390,7 @@
         },
         {
             "fullName": "Kyle Tucker",
+            "team": "HOU",
             "savantName": {
                 "first": "Kyle",
                 "last": "Tucker",
@@ -7186,6 +7421,7 @@
         },
         {
             "fullName": "Jonathan India",
+            "team": "CIN",
             "savantName": {
                 "first": "Jonathan",
                 "last": "India",
@@ -7216,6 +7452,7 @@
         },
         {
             "fullName": "Cal Raleigh",
+            "team": "SEA",
             "savantName": {
                 "first": "Cal",
                 "last": "Raleigh",
@@ -7246,6 +7483,7 @@
         },
         {
             "fullName": "Nick Fortes",
+            "team": "MIA",
             "savantName": {
                 "first": "Nick",
                 "last": "Fortes",
@@ -7276,6 +7514,7 @@
         },
         {
             "fullName": "Trent Grisham",
+            "team": "NYY",
             "savantName": {
                 "first": "Trent",
                 "last": "Grisham",
@@ -7306,6 +7545,7 @@
         },
         {
             "fullName": "Matt Vierling",
+            "team": "DET",
             "savantName": {
                 "first": "Matt",
                 "last": "Vierling",
@@ -7338,6 +7578,7 @@
         },
         {
             "fullName": "Tyler Stephenson",
+            "team": "CIN",
             "savantName": {
                 "first": "Tyler",
                 "last": "Stephenson",
@@ -7369,6 +7610,7 @@
         },
         {
             "fullName": "Brendan Rodgers",
+            "team": "COL",
             "savantName": {
                 "first": "Brendan",
                 "last": "Rodgers",
@@ -7400,6 +7642,7 @@
         },
         {
             "fullName": "Nathaniel Lowe",
+            "team": "TEX",
             "savantName": {
                 "first": "Nathaniel",
                 "last": "Lowe",
@@ -7430,6 +7673,7 @@
         },
         {
             "fullName": "Ian Happ",
+            "team": "CHC",
             "savantName": {
                 "first": "Ian",
                 "last": "Happ",
@@ -7460,6 +7704,7 @@
         },
         {
             "fullName": "Ty France",
+            "team": "SEA",
             "savantName": {
                 "first": "Ty",
                 "last": "France",
@@ -7492,6 +7737,7 @@
         },
         {
             "fullName": "Brandon Lowe",
+            "team": "TB",
             "savantName": {
                 "first": "Brandon",
                 "last": "Lowe",
@@ -7523,6 +7769,7 @@
         },
         {
             "fullName": "Harrison Bader",
+            "team": "NYM",
             "savantName": {
                 "first": "Harrison",
                 "last": "Bader",
@@ -7553,6 +7800,7 @@
         },
         {
             "fullName": "Dylan Moore",
+            "team": "SEA",
             "savantName": {
                 "first": "Dylan",
                 "last": "Moore",
@@ -7586,6 +7834,7 @@
         },
         {
             "fullName": "Myles Straw",
+            "team": "CLE",
             "savantName": {
                 "first": "Myles",
                 "last": "Straw",
@@ -7616,6 +7865,7 @@
         },
         {
             "fullName": "Kyle Isbel",
+            "team": "KC",
             "savantName": {
                 "first": "Kyle",
                 "last": "Isbel",
@@ -7646,6 +7896,7 @@
         },
         {
             "fullName": "Alec Bohm",
+            "team": "PHI",
             "savantName": {
                 "first": "Alec",
                 "last": "Bohm",
@@ -7677,6 +7928,7 @@
         },
         {
             "fullName": "LaMonte Wade Jr.",
+            "team": "SF",
             "savantName": {
                 "first": "LaMonte",
                 "last": "Wade Jr.",
@@ -7708,6 +7960,7 @@
         },
         {
             "fullName": "Seby Zavala",
+            "team": "SEA",
             "savantName": {
                 "first": "Seby",
                 "last": "Zavala",
@@ -7738,6 +7991,7 @@
         },
         {
             "fullName": "Seth Brown",
+            "team": "OAK",
             "savantName": {
                 "first": "Seth",
                 "last": "Brown",
@@ -7769,6 +8023,7 @@
         },
         {
             "fullName": "Jake McCarthy",
+            "team": "AZ",
             "savantName": {
                 "first": "Jake",
                 "last": "McCarthy",
@@ -7799,6 +8054,7 @@
         },
         {
             "fullName": "Nick Maton",
+            "team": "BAL",
             "savantName": {
                 "first": "Nick",
                 "last": "Maton",
@@ -7831,6 +8087,7 @@
         },
         {
             "fullName": "Jeremy Peña",
+            "team": "HOU",
             "savantName": {
                 "first": "Jeremy",
                 "last": "Peña",
@@ -7861,6 +8118,7 @@
         },
         {
             "fullName": "Fernando Tatis Jr.",
+            "team": "SD",
             "savantName": {
                 "first": "Fernando",
                 "last": "Tatis Jr.",
@@ -7892,6 +8150,7 @@
         },
         {
             "fullName": "Vladimir Guerrero Jr.",
+            "team": "TOR",
             "savantName": {
                 "first": "Vladimir",
                 "last": "Guerrero Jr.",
@@ -7922,6 +8181,7 @@
         },
         {
             "fullName": "Juan Soto",
+            "team": "NYY",
             "savantName": {
                 "first": "Juan",
                 "last": "Soto",
@@ -7952,6 +8212,7 @@
         },
         {
             "fullName": "Leody Taveras",
+            "team": "TEX",
             "savantName": {
                 "first": "Leody",
                 "last": "Taveras",
@@ -7982,6 +8243,7 @@
         },
         {
             "fullName": "Miguel Amaya",
+            "team": "CHC",
             "savantName": {
                 "first": "Miguel",
                 "last": "Amaya",
@@ -8012,6 +8274,7 @@
         },
         {
             "fullName": "Oswaldo Cabrera",
+            "team": "NYY",
             "savantName": {
                 "first": "Oswaldo",
                 "last": "Cabrera",
@@ -8043,6 +8306,7 @@
         },
         {
             "fullName": "Jazz Chisholm Jr.",
+            "team": "MIA",
             "savantName": {
                 "first": "Jazz",
                 "last": "Chisholm Jr.",
@@ -8074,6 +8338,7 @@
         },
         {
             "fullName": "Esteury Ruiz",
+            "team": "OAK",
             "savantName": {
                 "first": "Esteury",
                 "last": "Ruiz",
@@ -8105,6 +8370,7 @@
         },
         {
             "fullName": "Andrés Giménez",
+            "team": "CLE",
             "savantName": {
                 "first": "Andrés",
                 "last": "Giménez",
@@ -8136,6 +8402,7 @@
         },
         {
             "fullName": "Freddy Fermin",
+            "team": "KC",
             "savantName": {
                 "first": "Freddy",
                 "last": "Fermin",
@@ -8166,6 +8433,7 @@
         },
         {
             "fullName": "Nolan Jones",
+            "team": "COL",
             "savantName": {
                 "first": "Nolan",
                 "last": "Jones",
@@ -8197,6 +8465,7 @@
         },
         {
             "fullName": "Alex Kirilloff",
+            "team": "MIN",
             "savantName": {
                 "first": "Alex",
                 "last": "Kirilloff",
@@ -8228,6 +8497,7 @@
         },
         {
             "fullName": "Josh Lowe",
+            "team": "TB",
             "savantName": {
                 "first": "Josh",
                 "last": "Lowe",
@@ -8258,6 +8528,7 @@
         },
         {
             "fullName": "Mickey Moniak",
+            "team": "LAA",
             "savantName": {
                 "first": "Mickey",
                 "last": "Moniak",
@@ -8288,6 +8559,7 @@
         },
         {
             "fullName": "Will Benson",
+            "team": "CIN",
             "savantName": {
                 "first": "Will",
                 "last": "Benson",
@@ -8318,6 +8590,7 @@
         },
         {
             "fullName": "Bo Bichette",
+            "team": "TOR",
             "savantName": {
                 "first": "Bo",
                 "last": "Bichette",
@@ -8348,6 +8621,7 @@
         },
         {
             "fullName": "Dylan Carlson",
+            "team": "STL",
             "savantName": {
                 "first": "Dylan",
                 "last": "Carlson",
@@ -8378,6 +8652,7 @@
         },
         {
             "fullName": "Bo Naylor",
+            "team": "CLE",
             "savantName": {
                 "first": "Bo",
                 "last": "Naylor",
@@ -8408,6 +8683,7 @@
         },
         {
             "fullName": "Christopher Morel",
+            "team": "CHC",
             "savantName": {
                 "first": "Christopher",
                 "last": "Morel",
@@ -8441,6 +8717,7 @@
         },
         {
             "fullName": "Rodolfo Castro",
+            "team": "PHI",
             "savantName": {
                 "first": "Rodolfo",
                 "last": "Castro",
@@ -8473,6 +8750,7 @@
         },
         {
             "fullName": "Adolis García",
+            "team": "TEX",
             "savantName": {
                 "first": "Adolis",
                 "last": "García",
@@ -8503,6 +8781,7 @@
         },
         {
             "fullName": "Lourdes Gurriel Jr.",
+            "team": "AZ",
             "savantName": {
                 "first": "Lourdes",
                 "last": "Gurriel Jr.",
@@ -8534,6 +8813,7 @@
         },
         {
             "fullName": "Brent Rooker Jr.",
+            "team": "OAK",
             "savantName": {
                 "first": "Brent",
                 "last": "Rooker Jr.",
@@ -8564,6 +8844,7 @@
         },
         {
             "fullName": "Randy Arozarena",
+            "team": "TB",
             "savantName": {
                 "first": "Randy",
                 "last": "Arozarena",
@@ -8594,6 +8875,7 @@
         },
         {
             "fullName": "Nick Pratto",
+            "team": "KC",
             "savantName": {
                 "first": "Nick",
                 "last": "Pratto",
@@ -8625,6 +8907,7 @@
         },
         {
             "fullName": "Jake Rogers",
+            "team": "DET",
             "savantName": {
                 "first": "Jake",
                 "last": "Rogers",
@@ -8655,6 +8938,7 @@
         },
         {
             "fullName": "JJ Bleday",
+            "team": "OAK",
             "savantName": {
                 "first": "JJ",
                 "last": "Bleday",
@@ -8685,6 +8969,7 @@
         },
         {
             "fullName": "Spencer Steer",
+            "team": "CIN",
             "savantName": {
                 "first": "Spencer",
                 "last": "Steer",
@@ -8717,6 +9002,7 @@
         },
         {
             "fullName": "Akil Baddoo",
+            "team": "DET",
             "savantName": {
                 "first": "Akil",
                 "last": "Baddoo",
@@ -8747,6 +9033,7 @@
         },
         {
             "fullName": "Andrew Knizner",
+            "team": "TEX",
             "savantName": {
                 "first": "Andrew",
                 "last": "Knizner",
@@ -8777,6 +9064,7 @@
         },
         {
             "fullName": "Bryan Reynolds",
+            "team": "PIT",
             "savantName": {
                 "first": "Bryan",
                 "last": "Reynolds",
@@ -8807,6 +9095,7 @@
         },
         {
             "fullName": "Mark Vientos",
+            "team": "NYM",
             "savantName": {
                 "first": "Mark",
                 "last": "Vientos",
@@ -8838,6 +9127,7 @@
         },
         {
             "fullName": "Royce Lewis",
+            "team": "MIN",
             "savantName": {
                 "first": "Royce",
                 "last": "Lewis",
@@ -8868,6 +9158,7 @@
         },
         {
             "fullName": "Brice Turang",
+            "team": "MIL",
             "savantName": {
                 "first": "Brice",
                 "last": "Turang",
@@ -8898,6 +9189,7 @@
         },
         {
             "fullName": "Adley Rutschman",
+            "team": "BAL",
             "savantName": {
                 "first": "Adley",
                 "last": "Rutschman",
@@ -8928,6 +9220,7 @@
         },
         {
             "fullName": "Josh Rojas",
+            "team": "SEA",
             "savantName": {
                 "first": "Josh",
                 "last": "Rojas",
@@ -8961,6 +9254,7 @@
         },
         {
             "fullName": "MJ Melendez Jr.",
+            "team": "KC",
             "savantName": {
                 "first": "MJ",
                 "last": "Melendez Jr.",
@@ -8992,6 +9286,7 @@
         },
         {
             "fullName": "Brandon Marsh",
+            "team": "PHI",
             "savantName": {
                 "first": "Brandon",
                 "last": "Marsh",
@@ -9022,6 +9317,7 @@
         },
         {
             "fullName": "Shea Langeliers",
+            "team": "OAK",
             "savantName": {
                 "first": "Shea",
                 "last": "Langeliers",
@@ -9052,6 +9348,7 @@
         },
         {
             "fullName": "Luis Campusano",
+            "team": "SD",
             "savantName": {
                 "first": "Luis",
                 "last": "Campusano",
@@ -9082,6 +9379,7 @@
         },
         {
             "fullName": "Sean Murphy",
+            "team": "ATL",
             "savantName": {
                 "first": "Sean",
                 "last": "Murphy",
@@ -9112,6 +9410,7 @@
         },
         {
             "fullName": "Nick Senzel",
+            "team": "WSH",
             "savantName": {
                 "first": "Nick",
                 "last": "Senzel",
@@ -9143,6 +9442,7 @@
         },
         {
             "fullName": "Tommy Edman",
+            "team": "STL",
             "savantName": {
                 "first": "Tommy",
                 "last": "Edman",
@@ -9175,6 +9475,7 @@
         },
         {
             "fullName": "Will Smith",
+            "team": "LAD",
             "savantName": {
                 "first": "Will",
                 "last": "Smith",
@@ -9205,6 +9506,7 @@
         },
         {
             "fullName": "Jack Suwinski",
+            "team": "PIT",
             "savantName": {
                 "first": "Jack",
                 "last": "Suwinski",
@@ -9235,6 +9537,7 @@
         },
         {
             "fullName": "Santiago Espinal",
+            "team": "TOR",
             "savantName": {
                 "first": "Santiago",
                 "last": "Espinal",
@@ -9267,6 +9570,7 @@
         },
         {
             "fullName": "Jose Miranda",
+            "team": "MIN",
             "savantName": {
                 "first": "Jose",
                 "last": "Miranda",
@@ -9298,6 +9602,7 @@
         },
         {
             "fullName": "Nolan Gorman",
+            "team": "STL",
             "savantName": {
                 "first": "Nolan",
                 "last": "Gorman",
@@ -9329,6 +9634,7 @@
         },
         {
             "fullName": "Jake Burger",
+            "team": "MIA",
             "savantName": {
                 "first": "Jake",
                 "last": "Burger",
@@ -9359,6 +9665,7 @@
         },
         {
             "fullName": "Nick Allen",
+            "team": "OAK",
             "savantName": {
                 "first": "Nick",
                 "last": "Allen",
@@ -9390,6 +9697,7 @@
         },
         {
             "fullName": "Casey Schmitt",
+            "team": "SF",
             "savantName": {
                 "first": "Casey",
                 "last": "Schmitt",
@@ -9420,6 +9728,7 @@
         },
         {
             "fullName": "Josh Smith",
+            "team": "TEX",
             "savantName": {
                 "first": "Josh",
                 "last": "Smith",
@@ -9452,6 +9761,7 @@
         },
         {
             "fullName": "Austin Hays",
+            "team": "BAL",
             "savantName": {
                 "first": "Austin",
                 "last": "Hays",
@@ -9482,6 +9792,7 @@
         },
         {
             "fullName": "Alex Call",
+            "team": "WSH",
             "savantName": {
                 "first": "Alex",
                 "last": "Call",
@@ -9512,6 +9823,7 @@
         },
         {
             "fullName": "Michael Toglia",
+            "team": "COL",
             "savantName": {
                 "first": "Michael",
                 "last": "Toglia",
@@ -9543,6 +9855,7 @@
         },
         {
             "fullName": "Nicky Lopez",
+            "team": "CWS",
             "savantName": {
                 "first": "Nicky",
                 "last": "Lopez",
@@ -9575,6 +9888,7 @@
         },
         {
             "fullName": "Luke Raley",
+            "team": "SEA",
             "savantName": {
                 "first": "Luke",
                 "last": "Raley",
@@ -9605,6 +9919,7 @@
         },
         {
             "fullName": "Zack Short",
+            "team": "NYM",
             "savantName": {
                 "first": "Zack",
                 "last": "Short",
@@ -9635,6 +9950,7 @@
         },
         {
             "fullName": "Matt Wallner",
+            "team": "MIN",
             "savantName": {
                 "first": "Matt",
                 "last": "Wallner",
@@ -9665,6 +9981,7 @@
         },
         {
             "fullName": "Yordan Alvarez",
+            "team": "HOU",
             "savantName": {
                 "first": "Yordan",
                 "last": "Alvarez",
@@ -9695,6 +10012,7 @@
         },
         {
             "fullName": "Isaac Paredes",
+            "team": "TB",
             "savantName": {
                 "first": "Isaac",
                 "last": "Paredes",
@@ -9727,6 +10045,7 @@
         },
         {
             "fullName": "Taylor Walls",
+            "team": "TB",
             "savantName": {
                 "first": "Taylor",
                 "last": "Walls",
@@ -9759,6 +10078,7 @@
         },
         {
             "fullName": "TJ Friedl Jr.",
+            "team": "CIN",
             "savantName": {
                 "first": "TJ",
                 "last": "Friedl Jr.",
@@ -9789,6 +10109,7 @@
         },
         {
             "fullName": "Triston Casas",
+            "team": "BOS",
             "savantName": {
                 "first": "Triston",
                 "last": "Casas",
@@ -9820,6 +10141,7 @@
         },
         {
             "fullName": "Drew Waters",
+            "team": "KC",
             "savantName": {
                 "first": "Drew",
                 "last": "Waters",
@@ -9850,6 +10172,7 @@
         },
         {
             "fullName": "Luis García",
+            "team": "WSH",
             "savantName": {
                 "first": "Luis",
                 "last": "García",
@@ -9881,6 +10204,7 @@
         },
         {
             "fullName": "Tyler Freeman",
+            "team": "CLE",
             "savantName": {
                 "first": "Tyler",
                 "last": "Freeman",
@@ -9912,6 +10236,7 @@
         },
         {
             "fullName": "Michael Harris II",
+            "team": "ATL",
             "savantName": {
                 "first": "Michael",
                 "last": "Harris II",
@@ -9942,6 +10267,7 @@
         },
         {
             "fullName": "Patrick Bailey",
+            "team": "SF",
             "savantName": {
                 "first": "Patrick",
                 "last": "Bailey",
@@ -9972,6 +10298,7 @@
         },
         {
             "fullName": "Jarred Kelenic",
+            "team": "ATL",
             "savantName": {
                 "first": "Jarred",
                 "last": "Kelenic",
@@ -10002,6 +10329,7 @@
         },
         {
             "fullName": "Gabriel Arias",
+            "team": "CLE",
             "savantName": {
                 "first": "Gabriel",
                 "last": "Arias",
@@ -10033,6 +10361,7 @@
         },
         {
             "fullName": "Alejandro Kirk",
+            "team": "TOR",
             "savantName": {
                 "first": "Alejandro",
                 "last": "Kirk",
@@ -10063,6 +10392,7 @@
         },
         {
             "fullName": "Jordan Diaz",
+            "team": "OAK",
             "savantName": {
                 "first": "Jordan",
                 "last": "Diaz",
@@ -10094,6 +10424,7 @@
         },
         {
             "fullName": "Gabriel Moreno",
+            "team": "AZ",
             "savantName": {
                 "first": "Gabriel",
                 "last": "Moreno",
@@ -10124,6 +10455,7 @@
         },
         {
             "fullName": "Maikel Garcia",
+            "team": "KC",
             "savantName": {
                 "first": "Maikel",
                 "last": "Garcia",
@@ -10154,6 +10486,7 @@
         },
         {
             "fullName": "Geraldo Perdomo",
+            "team": "AZ",
             "savantName": {
                 "first": "Geraldo",
                 "last": "Perdomo",
@@ -10185,6 +10518,7 @@
         },
         {
             "fullName": "Oswald Peraza",
+            "team": "NYY",
             "savantName": {
                 "first": "Oswald",
                 "last": "Peraza",
@@ -10215,6 +10549,7 @@
         },
         {
             "fullName": "Tucupita Marcano",
+            "team": "SD",
             "savantName": {
                 "first": "Tucupita",
                 "last": "Marcano",
@@ -10246,6 +10581,7 @@
         },
         {
             "fullName": "Lenyn Sosa",
+            "team": "CWS",
             "savantName": {
                 "first": "Lenyn",
                 "last": "Sosa",
@@ -10277,6 +10613,7 @@
         },
         {
             "fullName": "Yainer Diaz",
+            "team": "HOU",
             "savantName": {
                 "first": "Yainer",
                 "last": "Diaz",
@@ -10307,6 +10644,7 @@
         },
         {
             "fullName": "Luis Robert Jr.",
+            "team": "CWS",
             "savantName": {
                 "first": "Luis",
                 "last": "Robert Jr.",
@@ -10337,6 +10675,7 @@
         },
         {
             "fullName": "Ha-Seong Kim",
+            "team": "SD",
             "savantName": {
                 "first": "Ha-Seong",
                 "last": "Kim",
@@ -10369,6 +10708,7 @@
         },
         {
             "fullName": "Seiya Suzuki",
+            "team": "CHC",
             "savantName": {
                 "first": "Seiya",
                 "last": "Suzuki",
@@ -10399,6 +10739,7 @@
         },
         {
             "fullName": "Josh Jung",
+            "team": "TEX",
             "savantName": {
                 "first": "Josh",
                 "last": "Jung",
@@ -10429,6 +10770,7 @@
         },
         {
             "fullName": "Jordan Westburg",
+            "team": "BAL",
             "savantName": {
                 "first": "Jordan",
                 "last": "Westburg",
@@ -10459,6 +10801,7 @@
         },
         {
             "fullName": "Nelson Velázquez",
+            "team": "KC",
             "savantName": {
                 "first": "Nelson",
                 "last": "Velázquez",
@@ -10489,6 +10832,7 @@
         },
         {
             "fullName": "Alec Burleson",
+            "team": "STL",
             "savantName": {
                 "first": "Alec",
                 "last": "Burleson",
@@ -10519,6 +10863,7 @@
         },
         {
             "fullName": "Jake Meyers",
+            "team": "HOU",
             "savantName": {
                 "first": "Jake",
                 "last": "Meyers",
@@ -10549,6 +10894,7 @@
         },
         {
             "fullName": "Alan Trejo",
+            "team": "COL",
             "savantName": {
                 "first": "Alan",
                 "last": "Trejo",
@@ -10580,6 +10926,7 @@
         },
         {
             "fullName": "Chas McCormick",
+            "team": "HOU",
             "savantName": {
                 "first": "Chas",
                 "last": "McCormick",
@@ -10610,6 +10957,7 @@
         },
         {
             "fullName": "Wander Franco",
+            "team": "TB",
             "savantName": {
                 "first": "Wander",
                 "last": "Franco",
@@ -10641,6 +10989,7 @@
         },
         {
             "fullName": "Julio Rodríguez",
+            "team": "SEA",
             "savantName": {
                 "first": "Julio",
                 "last": "Rodríguez",
@@ -10671,6 +11020,7 @@
         },
         {
             "fullName": "Ezequiel Duran",
+            "team": "TEX",
             "savantName": {
                 "first": "Ezequiel",
                 "last": "Duran",
@@ -10703,6 +11053,7 @@
         },
         {
             "fullName": "Alek Thomas",
+            "team": "AZ",
             "savantName": {
                 "first": "Alek",
                 "last": "Thomas",
@@ -10733,6 +11084,7 @@
         },
         {
             "fullName": "Bobby Witt Jr.",
+            "team": "KC",
             "savantName": {
                 "first": "Bobby",
                 "last": "Witt Jr.",
@@ -10764,6 +11116,7 @@
         },
         {
             "fullName": "Ji Hwan Bae",
+            "team": "PIT",
             "savantName": {
                 "first": "Ji Hwan",
                 "last": "Bae",
@@ -10796,6 +11149,7 @@
         },
         {
             "fullName": "Miguel Vargas",
+            "team": "LAD",
             "savantName": {
                 "first": "Miguel",
                 "last": "Vargas",
@@ -10826,6 +11180,7 @@
         },
         {
             "fullName": "Ezequiel Tovar",
+            "team": "COL",
             "savantName": {
                 "first": "Ezequiel",
                 "last": "Tovar",
@@ -10856,6 +11211,7 @@
         },
         {
             "fullName": "Liover Peguero",
+            "team": "PIT",
             "savantName": {
                 "first": "Liover",
                 "last": "Peguero",
@@ -10886,6 +11242,7 @@
         },
         {
             "fullName": "Johan Rojas",
+            "team": "PHI",
             "savantName": {
                 "first": "Johan",
                 "last": "Rojas",
@@ -10916,6 +11273,7 @@
         },
         {
             "fullName": "Spencer Torkelson",
+            "team": "DET",
             "savantName": {
                 "first": "Spencer",
                 "last": "Torkelson",
@@ -10947,6 +11305,7 @@
         },
         {
             "fullName": "Matt McLain",
+            "team": "CIN",
             "savantName": {
                 "first": "Matt",
                 "last": "McLain",
@@ -10977,6 +11336,7 @@
         },
         {
             "fullName": "Steven Kwan",
+            "team": "CLE",
             "savantName": {
                 "first": "Steven",
                 "last": "Kwan",
@@ -11007,6 +11367,7 @@
         },
         {
             "fullName": "Jarren Duran",
+            "team": "BOS",
             "savantName": {
                 "first": "Jarren",
                 "last": "Duran",
@@ -11037,6 +11398,7 @@
         },
         {
             "fullName": "Ryan Jeffers",
+            "team": "MIN",
             "savantName": {
                 "first": "Ryan",
                 "last": "Jeffers",
@@ -11067,6 +11429,7 @@
         },
         {
             "fullName": "Henry Davis",
+            "team": "PIT",
             "savantName": {
                 "first": "Henry",
                 "last": "Davis",
@@ -11097,6 +11460,7 @@
         },
         {
             "fullName": "Zack Gelof",
+            "team": "OAK",
             "savantName": {
                 "first": "Zack",
                 "last": "Gelof",
@@ -11127,6 +11491,7 @@
         },
         {
             "fullName": "Owen Miller",
+            "team": "MIL",
             "savantName": {
                 "first": "Owen",
                 "last": "Miller",
@@ -11158,6 +11523,7 @@
         },
         {
             "fullName": "Brendan Donovan",
+            "team": "STL",
             "savantName": {
                 "first": "Brendan",
                 "last": "Donovan",
@@ -11192,6 +11558,7 @@
         },
         {
             "fullName": "Bryson Stott",
+            "team": "PHI",
             "savantName": {
                 "first": "Bryson",
                 "last": "Stott",
@@ -11223,6 +11590,7 @@
         },
         {
             "fullName": "Logan O'Hoppe",
+            "team": "LAA",
             "savantName": {
                 "first": "Logan",
                 "last": "O'Hoppe",
@@ -11253,6 +11621,7 @@
         },
         {
             "fullName": "Kerry Carpenter",
+            "team": "DET",
             "savantName": {
                 "first": "Kerry",
                 "last": "Carpenter",
@@ -11283,6 +11652,7 @@
         },
         {
             "fullName": "James Outman",
+            "team": "LAD",
             "savantName": {
                 "first": "James",
                 "last": "Outman",
@@ -11313,6 +11683,7 @@
         },
         {
             "fullName": "Francisco Alvarez",
+            "team": "NYM",
             "savantName": {
                 "first": "Francisco",
                 "last": "Alvarez",
@@ -11343,6 +11714,7 @@
         },
         {
             "fullName": "Luis Matos",
+            "team": "SF",
             "savantName": {
                 "first": "Luis",
                 "last": "Matos",
@@ -11373,6 +11745,7 @@
         },
         {
             "fullName": "Elly De La Cruz",
+            "team": "CIN",
             "savantName": {
                 "first": "Elly",
                 "last": "De La Cruz",
@@ -11404,6 +11777,7 @@
         },
         {
             "fullName": "Endy Rodríguez",
+            "team": "PIT",
             "savantName": {
                 "first": "Endy",
                 "last": "Rodríguez",
@@ -11434,6 +11808,7 @@
         },
         {
             "fullName": "CJ Abrams",
+            "team": "WSH",
             "savantName": {
                 "first": "CJ",
                 "last": "Abrams",
@@ -11465,6 +11840,7 @@
         },
         {
             "fullName": "Riley Greene",
+            "team": "DET",
             "savantName": {
                 "first": "Riley",
                 "last": "Greene",
@@ -11495,6 +11871,7 @@
         },
         {
             "fullName": "Corbin Carroll",
+            "team": "AZ",
             "savantName": {
                 "first": "Corbin",
                 "last": "Carroll",
@@ -11525,6 +11902,7 @@
         },
         {
             "fullName": "Gunnar Henderson",
+            "team": "BAL",
             "savantName": {
                 "first": "Gunnar",
                 "last": "Henderson",
@@ -11556,6 +11934,7 @@
         },
         {
             "fullName": "Anthony Volpe",
+            "team": "NYY",
             "savantName": {
                 "first": "Anthony",
                 "last": "Volpe",
@@ -11586,6 +11965,7 @@
         },
         {
             "fullName": "Brett Baty",
+            "team": "NYM",
             "savantName": {
                 "first": "Brett",
                 "last": "Baty",
@@ -11616,6 +11996,7 @@
         },
         {
             "fullName": "Andrew Vaughn",
+            "team": "CWS",
             "savantName": {
                 "first": "Andrew",
                 "last": "Vaughn",
@@ -11647,6 +12028,7 @@
         },
         {
             "fullName": "Sal Frelick",
+            "team": "MIL",
             "savantName": {
                 "first": "Sal",
                 "last": "Frelick",
@@ -11677,6 +12059,7 @@
         },
         {
             "fullName": "Vinnie Pasquantino",
+            "team": "KC",
             "savantName": {
                 "first": "Vinnie",
                 "last": "Pasquantino",
@@ -11707,6 +12090,7 @@
         },
         {
             "fullName": "Brenton Doyle",
+            "team": "COL",
             "savantName": {
                 "first": "Brenton",
                 "last": "Doyle",
@@ -11737,6 +12121,7 @@
         },
         {
             "fullName": "Michael Massey",
+            "team": "KC",
             "savantName": {
                 "first": "Michael",
                 "last": "Massey",
@@ -11767,6 +12152,7 @@
         },
         {
             "fullName": "Will Brennan",
+            "team": "CLE",
             "savantName": {
                 "first": "Will",
                 "last": "Brennan",
@@ -11797,6 +12183,7 @@
         },
         {
             "fullName": "Joey Wiemer Jr.",
+            "team": "MIL",
             "savantName": {
                 "first": "Joey",
                 "last": "Wiemer Jr.",
@@ -11827,6 +12214,7 @@
         },
         {
             "fullName": "Jordan Walker",
+            "team": "STL",
             "savantName": {
                 "first": "Jordan",
                 "last": "Walker",

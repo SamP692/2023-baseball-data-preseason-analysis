@@ -1,6 +1,7 @@
 /* Merged Record */
 export interface MergedBatterRecord {
     fullName: string
+    team: string
     savantName: {
         first: string
         last: string

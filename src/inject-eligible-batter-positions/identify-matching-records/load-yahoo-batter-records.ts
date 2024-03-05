@@ -7,7 +7,7 @@ import { type ManicuredPlayerRecord as YahooPlayerRecord } from ":yahoo-record-t
 /* Behaviors */
 /* -- Load All Batter Records */
 function loadAllYahooRecords() {
-    const yahooPlayerRecordContent = Deno.readTextFileSync(`${config.manicuredPublishLocation}/yahoo-players.json`)
+    const yahooPlayerRecordContent = Deno.readTextFileSync(`${config.scriptDataPublishPath}/yahoo-players.json`)
     const yahooPlayerRecords = JSON.parse(yahooPlayerRecordContent) as YahooPlayerRecord[]
 
     return yahooPlayerRecords

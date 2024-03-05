@@ -2,10 +2,17 @@
 import config from ":config"
 
 /* Methods */
+import promptToOverwriteFile from ":utils/prompt-to-overwrite-file.ts"
+
 import identifyMatchingRecords from "./identify-matching-records.ts"
 import mergeMatchingRecords from "./merge-matching-records.ts"
 
+/* Constants */
+const finalPitcherRecordsFilePath = `${config.distDataPath}/pitchers.json`
+
 /* Script */
+promptToOverwriteFile(finalPitcherRecordsFilePath)
+
 const { matchedRecords, unmatchedRecords } = identifyMatchingRecords()
 const mergedRecords = mergeMatchingRecords(matchedRecords)
 
@@ -15,8 +22,6 @@ const mergedBatterData = {
 }
 const stringifiedMergedBatterData = JSON.stringify(mergedBatterData, null, 4)
 
-const mergedBatterDataFilePath = `${config.manicuredPublishLocation}/merged-pitchers.json`
-
-Deno.writeTextFileSync(mergedBatterDataFilePath, stringifiedMergedBatterData)
+Deno.writeTextFileSync(finalPitcherRecordsFilePath, stringifiedMergedBatterData)
 
 console.log("Pitcher merging complete")

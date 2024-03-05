@@ -11,7 +11,7 @@ import { PitcherRecord } from ":pitcher-data-types"
 /* Behaviors */
 /* -- Load Pitching Data Records */
 function loadPitchingDataRecords() {
-    const battingDataRecordsContent = Deno.readTextFileSync(`${config.manicuredPublishLocation}/advanced-pitching-stats.json`)
+    const battingDataRecordsContent = Deno.readTextFileSync(`${config.scriptDataPublishPath}/advanced-pitching-stats.json`)
     const battingDataRecords = JSON.parse(battingDataRecordsContent) as PitcherRecord[]
 
     return battingDataRecords

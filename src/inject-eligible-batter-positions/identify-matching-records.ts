@@ -11,7 +11,7 @@ import { BatterRecord } from ":batter-data-types"
 /* Behaviors */
 /* -- Load Batting Data Records */
 function loadBattingDataRecords() {
-    const battingDataRecordsContent = Deno.readTextFileSync(`${config.manicuredPublishLocation}/advanced-batting-stats.json`)
+    const battingDataRecordsContent = Deno.readTextFileSync(`${config.scriptDataPublishPath}/advanced-batting-stats.json`)
     const battingDataRecords = JSON.parse(battingDataRecordsContent) as BatterRecord[]
 
     return battingDataRecords
