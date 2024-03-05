@@ -3,6 +3,8 @@
         "@parse-csv": "https://deno.land/std@0.218.2/csv/parse.ts",
         
         ":config": "./config.ts",
+        ":utils/": "./src/utils/",
+
         ":yahoo-record-types": "./src/manicure-yahoo-players/type-definitions.ts",
         ":batter-data-types": "./src/convert-batter-data-to-json/type-definitions.ts",
         ":pitcher-data-types": "./src/convert-pitcher-data-to-json/type-definitions.ts"
@@ -11,8 +13,8 @@
         "manicure-yahoo-records": "deno run --allow-read --allow-write ./src/manicure-yahoo-players/script.ts",
         "convert-batting-data": "deno run --allow-read --allow-write ./src/convert-batter-data-to-json/script.ts",
         "convert-pitching-data": "deno run --allow-read --allow-write ./src/convert-pitcher-data-to-json/script.ts",
-        "inject-eligible-batter-positions": "deno run --allow-read --allow-write ./src/inject-eligible-batter-positions/script.ts",
-        "inject-eligible-pitcher-positions": "deno run --allow-read --allow-write ./src/inject-eligible-pitcher-positions/script.ts"
+        "batters": "deno run --allow-read --allow-write ./src/inject-eligible-batter-positions/script.ts",
+        "pitchers": "deno run --allow-read --allow-write ./src/inject-eligible-pitcher-positions/script.ts"
     },
     "fmt": {
         "indentWidth": 4,
